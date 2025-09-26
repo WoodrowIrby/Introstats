@@ -1,0 +1,117 @@
+Gender,Height,Age,Grade,18Under,schsport,schperformance,HMAth,Heng,APClasses,Wkhrs,HWhrs,bksPl,bksSch,SocMedaccts,WkOuthrs,PostHS,MovTh,Phonehrs,AlienVisit,Car,Attsince9,Academy,Cafetwice,Breakfast,Portable,LangFl,WWattzone,Pets,AMPractice,TruancyCt,HouseApt,DineOut,FavMovie,FavMus,Txborn,Referral,FavSubj,LikeBlock
+Male,72,15,10,2,Yes,No,94,89,1,0,20,0,0,10,3,College,1,1,No,No,Yes,STEM,No,Yes,Yes,Yes,No,0,Yes,N0,Apartment,1,Fast and furious,Pop,No,No,Robotics 1,Yes
+Female,70,17,12,1,No,No,94,93,3,10,10,1,5,6,0,College,1,6,Yes,Yes,Yes,IB,No,Yes,Yes,No,No,5,No,N0,House,2,Heathers,Pop,Yes,No,History,No
+Female,68,16,10,1,No,No,92,85,1,0,5,3,6,6,3,College,8,7,Yes,No,Yes,IB,No,No,Yes,No,No,2,No,N0,House,3,Mama Mia,Indie,Yes,No,History,No
+Female,63,17,11,1,Yes,No,95,99,7,20,30,4,8,2,15,College,4,3,No,No,Yes,PA,No,No,Yes,No,Yes,3,No,N0,House,3,10 things I hate about you,Indie,No,No,English,Yes
+Female,64,17,12,1,No,No,94,96,13,0,30,0,0,5,8,College,3,4,No,Yes,Yes,IB,No,No,Yes,No,No,2,No,N0,House,2,San Andreas,Pop,Yes,No,English,No
+Male,71,17,12,3,Yes,Yes,97,94,3,0,1,0,0,4,10,College,3,4,No,Yes,No,STEM,No,No,Yes,No,Yes,2,Yes,N0,House,2,Step brothers,Trap,Yes,Yes,Social studies,No
+Female,67,16,11,1,Yes,No,98,95,3,0,4,5,2,5,1,College,1,4,No,No,Yes,STEM,No,Yes,Yes,No,Yes,2,No,N0,House,2,Inglorious bastards,Rock/Metal,Yes,No,Math,No
+Female,61,14,9,2,Yes,Yes,95,100,1,0,2,2,4,3,8,College,1,6,Yes,No,Yes,IB,No,Yes,Yes,No,Yes,5,Yes,Yes,House,3,Super bad,Rap/Hip Hop,Yes,No,English,No
+Male,72,16,10,2,Yes,No,97,94,3,0,2,0,0,1,12,College,3,3,No,No,Yes,STEM,No,Yes,Yes,No,Yes,1,Yes,N0,House,3,Step brothers,Rap/Hip Hop,Yes,No,Math,No
+Female,64,16,11,2,Yes,Yes,99,98,3,0,10,0,0,7,10,College,1,3,Yes,Yes,Yes,IB,No,Yes,Yes,Yes,No,1,Yes,N0,House,7,Pride and Prejudice,Indie,Yes,No,Math,Yes
+Male,70,17,12,1,No,Yes,100,100,6,0,20,7,2,3,2,College,5,5,Yes,No,No,STEM,Yes,No,Yes,No,Yes,2,Yes,N0,House,0,Napoleon Dynamite,Indie,Yes,No,Math,Yes
+Male,67,14,9,4,Yes,Yes,95,99,0,0,2,20,2,0,7,College,10,0,Yes,No,Yes,IB,Yes,Yes,Yes,No,Yes,1,Yes,N0,House,0,Elf,Pop,Yes,No,English,Yes
+Female,64,15,10,2,Yes,No,88,87,2,0,42,1,2,4,4,College,2,3,No,No,Yes,IB,Yes,No,Yes,Yes,No,0,No,N0,House,2,Tangled,Countrry,Yes,No,Science,No
+Female,61,15,10,2,No,Yes,100,100,0,0,0,15,0,2,7,College,0,10,Yes,No,Yes,PA,No,Yes,Yes,No,Yes,2,No,N0,House,0,moulin rouge,Rock/Metal,Yes,No,History,No
+Male,74,16,11,0,No,Yes,100,100,6,7,12,5,8,2,0,College,0,3,No,Yes,Yes,IB,No,Yes,Yes,No,Yes,2,No,N0,House,3,Rushmore,Rock/Metal,No,No,Science,No
+Female,63,18,12,1,No,No,94,99,5,5,40,3,15,4,0,College,2,3,No,Yes,Yes,IB,No,Yes,Yes,No,No,3,No,N0,House,1,Patch Adams,Indie,No,No,English,No
+Male,65,14,9,2,Yes,No,90,92,0,0,6,0,2,2,7,College,3,10,Yes,No,Yes,BUS,Yes,Yes,Yes,Yes,No,0,Yes,N0,House,2,Avengers,Rap/Hip Hop,Yes,Yes,Math,No
+Female,65,17,12,1,No,No,99,99,4,15,30,1,10,3,2,College,3,5,No,Yes,Yes,IB,No,Yes,Yes,No,Yes,0,No,N0,House,5,Room,Indie,Yes,No,English,No
+Male,70,16,10,1,Yes,No,95,96,0,0,3,0,2,3,6,Military,3,4,Yes,No,Yes,IB,No,Yes,Yes,No,Yes,4,Yes,N0,Apartment,5,Finding Nemo,Rap/Hip Hop,Yes,Yes,Math,Yes
+Male,72,17,12,1,Yes,No,98,97,5,0,3,0,2,1,6,College,1,3,No,No,Yes,STEM,Yes,No,Yes,No,Yes,0,No,N0,Apartment,3,Endgame,Trap,No,No,English,Yes
+Female,63,15,9,1,No,Yes,98,98,1,0,15,8,3,1,0,College,5,4,Yes,No,Yes,STEM,No,No,Yes,Yes,Yes,1,Yes,N0,House,2,Wonder,Pop,Yes,No,Math,Yes
+Female,62,16,11,1,No,No,100,97,8,0,6,2,4,1,2,College,10,1.5,Yes,No,Yes,STEM,No,No,Yes,Yes,Yes,1,No,N0,Apartment,3,infinity war,Indie,Yes,No,math,Yes
+Male,68,16,10,1,No,No,90,90,0,0,0,0,0,3,0,Work,6,5,No,No,Yes,STEM,Yes,No,Yes,No,No,1,No,N0,House,1,Finding Nemo,Rap/Hip Hop,Yes,Yes,Science,Yes
+Female,60,15,9,2,Yes,No,100,100,0,0,2,4,4,2,2,College,1,5,Yes,No,Yes,IB,No,No,Yes,No,Yes,1,Yes,N0,House,2,The Goonies,Pop,Yes,No,Math,No
+Male,68,16,11,2,No,No,75,81,1,0,2,0,4,0,1,College,0,6,Yes,No,Yes,PA,Yes,Yes,Yes,Yes,No,0,No,N0,Apartment,0,Spider-man,Indie,No,Yes,History,No
+Female,60,14,9,0,No,No,100,100,0,0,1,8,2,4,2,Work,7,3,Yes,No,Yes,BUS,No,No,No,No,Yes,2,No,N0,Apartment,2,Superbad,Indie,Yes,No,Science,No
+Male,68,15,10,0,No,No,100,89,0,0,10,4,1,2,12,College,5,4,No,No,Yes,STEM,Yes,No,Yes,Yes,Yes,0,No,N0,House,1,Captain America: civil war,Rap/Hip Hop,No,No,Math,No
+Male,65,17,12,3,No,No,93,87,0,0,3,0,2,1,2,College,3,4,Yes,No,Yes,STEM,Yes,Yes,Yes,No,No,2,No,N0,House,2,The matrix,Rap/Hip Hop,Yes,No,Science,Yes
+Male,68,17,12,1,Yes,No,98,90,0,20,2,0,2,3,6,Other,2,5,Yes,Yes,Yes,STEM,Yes,No,Yes,Yes,Yes,0,Yes,N0,House,7,The escape room,Countrry,Yes,No,Math,No
+Male,68,17,12,1,Yes,No,98,90,0,20,2,0,2,3,6,Other,2,5,Yes,Yes,Yes,STEM,Yes,No,Yes,Yes,Yes,0,Yes,N0,House,7,The escape room,Countrry,Yes,No,Math,No
+Male,72,16,11,2,Yes,No,100,94,1,0,2,0,1,3,6,College,3,8,Yes,No,Yes,PA,Yes,No,Yes,Yes,No,0,Yes,N0,House,1,Tacos,Rap/Hip Hop,Yes,No,Math,No
+Male,70,14,9,1,No,No,97,65,1,0,2,0,1,2,8,Other,3,14,Yes,No,Yes,STEM,Yes,No,Yes,Yes,Yes,1,No,N0,House,3,Endgame,Rap/Hip Hop,Yes,No,Math,No
+Male,69,15,10,2,No,No,98,93,2,20,14,3,3,5,7,College,3,3,Yes,No,Yes,STEM,Yes,Yes,Yes,Yes,Yes,1,No,Yes,House,2,Spider-Man into spider verse,Rap/Hip Hop,No,No,Math,No
+Male,72,17,12,1,Yes,No,100,97,10,0,5,1,2,1,5,College,1,2,No,No,Yes,STEM,Yes,Yes,Yes,No,Yes,0,No,N0,Apartment,3,Avengers Endgame,Rap/Hip Hop,No,No,Science,Yes
+Male,73,17,12,1,Yes,No,98,98,5,0,0,0,1,5,0,College,3,5,No,No,Yes,STEM,Yes,Yes,Yes,Yes,No,3,No,N0,House,3,The Hunger Games,Indie,Yes,Yes,Math,No
+Male,65,17,11,1,No,No,95,95,6,0,3,100,2,5,0,College,3,8,Yes,Yes,Yes,STEM,No,Yes,Yes,No,Yes,1,No,N0,House,2,Star Wars,Rap/Hip Hop,Yes,No,History,Yes
+Male,74,17,12,2,No,Yes,97,100,12,0,6,0,2,3,0,College,2,4,Yes,Yes,Yes,STEM,No,No,Yes,Yes,Yes,2,Yes,N0,House,2,Inception,Gospel,No,No,Math,Yes
+Female,70,15,10,3,No,No,95,85,3,8,6,0,4,5,0,College,4,4,No,No,Yes,STEM,No,No,Yes,Yes,No,6,No,N0,House,2,Night School,Indie,Yes,Yes,Math,Yes
+Female,64,14,9,1,No,No,96,98,1,0,4,6,6,1,0,College,5,3,No,No,Yes,STEM,No,No,Yes,Yes,No,1,No,N0,House,2,Wonder,Pop,Yes,No,Math,Yes
+Male,69,16,11,2,Yes,No,100,100,1,0,5,3,2,4,3,College,10,7,No,No,No,STEM,Yes,No,Yes,Yes,Yes,1,Yes,N0,House,2,Lion king,Rap/Hip Hop,Yes,No,Math,Yes
+Female,63,15,10,2,No,Yes,80,100,0,6,2,0,8,4,18,College,0,10,No,No,Yes,PA,No,No,Yes,No,Yes,1,Yes,N0,House,4,Romeo and Juliet,Pop,No,No,History,No
+Female,60,17,12,3,No,Yes,80,100,1,0,0,2,1,2,1,College,2,12,Yes,No,Yes,PA,No,Yes,Yes,No,Yes,0,Yes,N0,House,3,White Chicks,Trap,Yes,No,English,No
+Female,66,16,11,1,No,Yes,100,100,2,0,3,0,4,8,5,College,0,12,No,No,Yes,IB,No,No,Yes,Yes,No,1,Yes,N0,House,5,Forest Gump,Countrry,Yes,No,Math,Yes
+Female,64,14,9,2,No,Yes,100,100,0,0,1,3,2,7,3,College,7,3,Yes,No,Yes,IB,Yes,Yes,Yes,Yes,Yes,0,Yes,N0,Apartment,1,Coco,Trap,No,No,Science,No
+Male,72,17,12,3,Yes,No,98,95,5,0,6,1,1,4,24,College,5,5,Yes,Yes,Yes,STEM,No,No,Yes,No,Yes,1,Yes,N0,House,3,Black Panther,Rap/Hip Hop,Yes,No,Math,No
+Female,65,17,12,4,Yes,Yes,100,100,14,0,10,0,2,0,5,College,0,1,Yes,No,Yes,STEM,No,Yes,Yes,Yes,No,1,Yes,N0,House,2,Kill Bill,Jazz,Yes,No,Science,No
+Male,78,16,10,0,Yes,No,100,100,3,16,3,40,4,2,6,College,6,5,Yes,Yes,Yes,STEM,No,Yes,Yes,No,Yes,13,No,N0,House,4,Avengers: Endgame,Jazz,Yes,No,English,No
+Male,66,14,9,1,No,Yes,100,100,3,0,5,2,2,3,6,College,4,3,No,No,Yes,STEM,Yes,No,Yes,No,Yes,2,Yes,N0,House,1,Pulp Fiction,Rock/Metal,Yes,No,Science,No
+Female,61,16,11,2,Yes,No,98,95,4,6.5,8,0,3,4,2,College,10,6,Yes,Yes,Yes,STEM,Yes,No,Yes,No,Yes,1,Yes,N0,House,4,Barbie of Swan Lake,Pop,No,No,math,Yes
+Female,61,14,9,2,No,Yes,95,100,1,6.5,4,1,0,3,2,College,10,5,No,Yes,Yes,BUS,No,Yes,Yes,Yes,Yes,3,No,N0,House,3,Avengers: Endgame,Rap/Hip Hop,Yes,No,Algebra,No
+Female,61.5,16,10,1,No,No,98,80,0,25,1,0,3,3,0.5,College,8,9,No,Yes,Yes,BUS,No,Yes,No,Yes,Yes,1,No,N0,Apartment,3,Instructions Not Included,Rap/Hip Hop,Yes,No,English,Yes
+Female,63,16,11,4,Yes,No,100,98,2,0,10,0,3,4,3,College,5,4,No,No,Yes,IB,Yes,Yes,Yes,No,No,0,Yes,N0,House,2,Coco,Rap/Hip Hop,Yes,No,Science,No
+Female,63,17,12,2,No,No,99,95,2,0,8,1,3,4,2,College,4,6,Yes,Yes,Yes,BUS,No,Yes,Yes,Yes,No,1,No,N0,House,2,The Edge of Seventeen,Pop,Yes,No,Math,Yes
+Female,68,14,9,2,No,No,85,85,0,7,7,5,5,1,4,College,2,3,No,No,Yes,BUS,Yes,No,Yes,Yes,Yes,0,No,N0,House,1,5 feet apart,Latino,Yes,No,Math,No
+Female,68,14,9,2,No,No,85,85,0,7,7,5,5,1,4,College,2,3,No,No,Yes,BUS,Yes,No,Yes,Yes,Yes,0,No,N0,House,1,5 feet apart,Latino,Yes,No,Math,No
+Male,68,16,11,3,Yes,No,85,80,0,0,1,0,2,3,8,College,10,8,Yes,Yes,No,PA,No,No,Yes,Yes,Yes,3,Yes,N0,House,7,Grown ups,Rap/Hip Hop,No,No,Math,No
+Male,56,15,10,2,Yes,No,95,90,2,0,2,0,2,3,1,College,3,5,No,No,Yes,BUS,Yes,Yes,Yes,Yes,No,0,No,N0,House,2,Boy in striped pjs,Latino,Yes,Yes,History,No
+Male,66,18,12,2,No,No,100,100,0,0,8,8,7,0,2,College,5,3,No,No,Yes,IB,Yes,Yes,Yes,Yes,Yes,2,No,N0,House,0,Glorious Basterds,Rock/Metal,Yes,No,History,No
+Male,66,16,11,4,Yes,Yes,86,100,0,13,0,0,0,2,5,Other,10,3,Yes,No,Yes,PA,Yes,No,Yes,No,Yes,1,Yes,Yes,House,2,Gravity,Pop,Yes,No,science,No
+Male,67,15,10,3,No,No,78,75,0,0,0,0,0,4,7,Other,0,4,Yes,No,Yes,PA,No,No,Yes,Yes,Yes,0,Yes,N0,House,2,Paid in full,Rap/Hip Hop,Yes,Yes,History,Yes
+Male,65,14,9,1,Yes,Yes,100,100,1,0,5,1,6,4,8,College,4,3,Yes,Yes,Yes,IB,No,Yes,Yes,No,Yes,1,Yes,N0,House,6,Spiderman into the spiderverse,Rock/Metal,Yes,No,Math,No
+Male,66,16,11,4,No,No,100,93,7,0,3,75,3,0,4,College,15,1,No,Yes,Yes,STEM,Yes,Yes,Yes,No,Yes,1,No,N0,House,2,Spiderman Far from Home,Rap/Hip Hop,Yes,No,Math,Yes
+Male,71,17,12,1,Yes,No,98,99,10,20,10,20,5,3,6,College,4,6,No,Yes,Yes,STEM,No,Yes,Yes,No,Yes,3,Yes,N0,House,4,Talledega nights,Rap/Hip Hop,Yes,No,History,Yes
+Female,63,16,11,2,Yes,Yes,95,90,2,0,5,0,3,2,2,College,1,3,Yes,No,Yes,STEM,No,Yes,Yes,Yes,Yes,1,Yes,N0,House,1,Polar express,Countrry,Yes,No,Math,No
+Female,62,15,10,3,Yes,No,95,85,2,0,0,0,2,2,8,College,12,8,No,No,Yes,PA,Yes,No,Yes,Yes,Yes,1,No,N0,House,4,Avengers endgame,Countrry,Yes,No,Math,Yes
+Male,67,15,9,4,Yes,No,97,94,1,0,5,1,3,2,15,College,3,5,Yes,No,Yes,IB,Yes,No,Yes,No,No,0,Yes,N0,House,1,Rocky,Rap/Hip Hop,Yes,Yes,Math,Yes
+Male,74,16,11,1,No,Yes,100,100,6,7,12,5,6,2,0,College,0,3,No,Yes,No,IB,No,Yes,Yes,No,Yes,2,No,N0,House,3,rushmore,Rock/Metal,No,No,science,No
+Female,60,17,12,2,No,Yes,97,92,4,0,8,0,6,5,5,College,2,4,No,Yes,Yes,PA,No,Yes,Yes,Yes,No,1,Yes,N0,House,0,Hunger games,Pop,Yes,No,English,No
+Male,73,15,9,3,Yes,No,80,100,1,0,4,0,0,3,5,College,10,7,No,No,Yes,BUS,Yes,Yes,Yes,No,Yes,2,No,Yes,House,2,American pie,Rap/Hip Hop,Yes,Yes,English,No
+Female,67,15,10,1,No,Yes,97,94,1,0,5,0,3,2,7,College,15,3,No,No,Yes,PA,Yes,Yes,Yes,No,Yes,3,Yes,N0,Apartment,2,Rocky,ShownTunes,Yes,No,Math,Yes
+Female,61,14,9,0,Yes,Yes,88,96,0,0,2,4,2,2,5,College,3,2,No,No,Yes,IB,No,No,Yes,Yes,Yes,2,Yes,N0,House,1,Megamind,Rock/Metal,Yes,No,History,Yes
+Female,61,14,9,0,Yes,Yes,88,96,0,0,2,4,2,2,5,College,3,2,No,No,Yes,IB,No,No,Yes,Yes,Yes,2,Yes,N0,House,1,Megamind,Rock/Metal,Yes,No,History,Yes
+Male,70,14,10,1,No,Yes,80,90,2,0,1,8,2,3,0,College,2,4,Yes,No,Yes,STEM,Yes,No,Yes,No,No,2,Yes,N0,House,0,Full Metal Jacket,Rock/Metal,Yes,No,History,No
+Male,66,17,12,0,No,Yes,87,96,9,21,15,3,2,4,4,Other,5,3,Yes,No,Yes,PA,No,No,Yes,No,Yes,0,Yes,N0,Apartment,3,Reservoir dogs,Rock/Metal,No,Yes,History,Yes
+Male,69,16,11,0,No,Yes,85,90,2,21,8,0,2,7,0,Work,2,0.5,Yes,No,Yes,STEM,Yes,Yes,Yes,No,Yes,3,Yes,N0,House,1,Ace Ventura: Pet Detective,Rap/Hip Hop,Yes,No,English,Yes
+Male,71,16,11,1,Yes,Yes,97,99,15,0,10,5,4,3,0,Other,0,7,No,Yes,Yes,IB,No,Yes,Yes,Yes,Yes,4,Yes,N0,House,2,Ferris Buellers Day Off,Rock/Metal,Yes,No,English,Yes
+Male,74,15,10,1,Yes,No,100,100,1,0,1,0,2,5,10,College,3,3,Yes,No,Yes,BUS,Yes,Yes,Yes,No,Yes,1,Yes,N0,Apartment,2,Superbad,Trap,Yes,Yes,Social Studies,No
+Male,73,15,9,3,Yes,No,85,100,1,4,4,0,0,3,5,College,12,6,No,No,Yes,BUS,Yes,Yes,Yes,No,Yes,2,No,Yes,House,2,American Pie,Trap,Yes,Yes,English,No
+Male,66,17,12,2,No,No,93,95,8,15,5,1,4,3,3,Work,4,5,No,No,Yes,BUS,Yes,Yes,Yes,Yes,Yes,0,No,N0,House,1,The Hangover,Trap,Yes,Yes,Social Studies,No
+Female,64,14,9,1,No,Yes,98,98,1,0,4,10,3,1,0,College,6,4,No,No,Yes,STEM,No,No,Yes,Yes,Yes,1,No,N0,House,2,Wonder,Pop,Yes,No,Math,Yes
+Male,69,15,10,2,Yes,No,100,100,0,0,5,2,1,2,14,College,7,18,Yes,No,Yes,STEM,Yes,No,Yes,No,Yes,1,Yes,N0,House,7,The darkest hour,R and B /Soul,Yes,Yes,English,No
+Female,67,16,11,2,No,Yes,100,98,4,0,15,15,4,4,5,College,15,3,Yes,No,Yes,STEM,No,No,Yes,Yes,Yes,5,Yes,N0,House,1,A Walk To Remember,R and B /Soul,No,No,Math,Yes
+Female,62,15,10,2,Yes,No,100,100,3,0,20,50,5,0,7,College,1,2,No,No,Yes,IB,No,Yes,Yes,Yes,Yes,0,Yes,N0,House,0,Mona Lisa Smile,Pop,No,No,History,Yes
+Male,71,18,12,3,No,Yes,97,98,10,15,10,0,2,3,0,College,3,7,No,Yes,Yes,STEM,No,Yes,Yes,No,Yes,1,Yes,N0,House,1,The Hunt for Red October,Rock/Metal,Yes,No,Math,Yes
+Female,67,15,10,1,No,Yes,98,95,3,0,3,0,2,2,14,College,1,6,No,No,Yes,STEM,No,Yes,Yes,No,Yes,1,Yes,N0,House,1,Black Panther,Countrry,Yes,No,math,Yes
+Male,70,17,12,3,Yes,No,90,95,5,0,5,0,6,2,14,College,12,8,No,Yes,Yes,STEM,No,Yes,Yes,No,Yes,0,Yes,N0,House,5,The Avengers,Rap/Hip Hop,Yes,No,math,No
+Female,67,16,11,1,Yes,Yes,100,100,4,0,5,0,2,2,4,College,2,4,No,No,Yes,STEM,No,No,Yes,Yes,Yes,0,Yes,N0,House,1,Matillda,Countrry,Yes,No,Math,Yes
+Male,60,15,9,3,Yes,No,90,90,1,0,5,0,2,2,10,College,5,6,No,No,Yes,STEM,No,Yes,Yes,No,Yes,0,Yes,N0,House,5,The avengers,Rap/Hip Hop,Yes,No,Math,Yes
+Male,69,17,12,3,Yes,Yes,100,98,5,10,2,1,3,2,3,College,0,4,No,No,Yes,STEM,Yes,Yes,Yes,Yes,Yes,1,Yes,N0,House,2,Meet the Blacks,Rap/Hip Hop,Yes,No,History,Yes
+Male,72,16,10,2,Yes,No,100,96,2,0,1,0,2,3,4,College,3,5,No,No,Yes,IB,No,Yes,Yes,No,No,1,Yes,N0,House,1,IT,Trap,Yes,No,Science,Yes
+Male,68,16,11,1,Yes,No,95,88,1,0,1,1,3,3,4,College,2,6,Yes,Yes,Yes,BUS,Yes,Yes,Yes,Yes,Yes,1,Yes,N0,House,3,Chucky,Rap/Hip Hop,Yes,Yes,Math,Yes
+Male,65,14,9,2,Yes,No,99,99,1,0,2,2,1,2,2,College,4,7,No,No,Yes,STEM,Yes,No,No,No,Yes,2,Yes,N0,House,1,Endgame,Rap/Hip Hop,Yes,Yes,Science,Yes
+Male,68,16,11,2,No,Yes,100,90,0,10,10,0,4,5,8,College,5,9,Yes,No,Yes,STEM,Yes,No,Yes,Yes,Yes,3,Yes,N0,House,2,Star Wars Empire Strikes Back,Rap/Hip Hop,Yes,Yes,Math,No
+Male,65,14,9,1,No,Yes,87,95,1,0,3,0,3,2,0,College,1,5,Yes,No,Yes,STEM,No,Yes,Yes,No,Yes,1,Yes,N0,House,2,Back to the future,Rock/Metal,Yes,No,Science,Yes
+Male,73,15,10,2,Yes,Yes,100,100,4,0,10,1,5,3,1,College,10,9,Yes,No,Yes,STEM,Yes,No,Yes,No,Yes,1,Yes,N0,House,2,The Dark Knight,Rock/Metal,Yes,No,Biology,No
+Male,69,18,12,0,No,Yes,90,85,3,6,2,2,3,2,10,College,5,3,No,Yes,Yes,STEM,No,Yes,Yes,No,Yes,3,Yes,N0,House,2,Black Hawk Down,Countrry,Yes,Yes,History,No
+Male,68,14,9,3,Yes,No,100,100,0,40,2,0,3,3,14,Work,7,5,No,No,Yes,BUS,Yes,No,No,No,Yes,2,No,N0,Apartment,0,Night School,Rap/Hip Hop,No,Yes,English,Yes
+Male,70,15,10,1,Yes,No,100,98,2,2,5,0,3,8,8,College,6,7,Yes,No,Yes,IB,Yes,Yes,Yes,No,No,1,Yes,N0,House,3,Avatar,Rap/Hip Hop,Yes,Yes,English,Yes
+Male,66,17,11,3,Yes,No,98,92,2,25,1,3,6,2,10,College,3,4,No,Yes,No,STEM,Yes,No,Yes,No,Yes,0,Yes,N0,Apartment,7,Ride Along,Rap/Hip Hop,No,Yes,History,No
+Female,62,16,11,1,Yes,No,100,96,6,0,6,5,3,2,0,College,20,2,Yes,No,Yes,STEM,No,No,Yes,Yes,Yes,1,No,N0,Apartment,2,Coraline,Indie,Yes,No,math,Yes
+Male,72,17,12,3,Yes,No,98,95,5,0,7,1,1,4,24,College,5,5,Yes,Yes,Yes,STEM,No,No,Yes,No,Yes,1,Yes,N0,House,3,Black Panther,Rap/Hip Hop,Yes,No,Math,No
+Male,74,17,11,2,Yes,No,98,96,4,8,4,0,3,3,6,College,7,8,Yes,Yes,Yes,IB,No,No,Yes,Yes,Yes,2,Yes,N0,House,2,Space jam,Rap/Hip Hop,No,Yes,History,No
+Female,62,16,10,4,Yes,No,97,99,3,0,6,1,3,4,5,College,8,5,Yes,Yes,Yes,STEM,No,No,Yes,No,Yes,1,Yes,N0,House,2,White chicks,Pop,Yes,No,Math,No
+Male,72,17,12,3,Yes,No,98,95,5,0,6,1,1,3,24,College,5,5,Yes,Yes,Yes,STEM,No,No,Yes,No,Yes,1,Yes,N0,House,3,Black panther,Rap/Hip Hop,Yes,No,Math,No
+Female,62,16,10,4,Yes,No,98,95,3,0,6,1,3,4,5,College,8,5,Yes,Yes,Yes,STEM,No,No,Yes,No,Yes,1,Yes,N0,House,2,White chicks,Pop,Yes,No,Math,No
+Male,68,15,9,3,Yes,No,98,99,1,0,3,0,1,3,7,College,5,5,Yes,No,Yes,STEM,No,No,Yes,No,Yes,0,Yes,N0,House,5,Avengers,Rap/Hip Hop,Yes,No,Math,No
+Male,74,16,11,2,Yes,No,98,96,5,0,6,0,1,3,6,College,8,8,Yes,Yes,Yes,IB,No,No,Yes,Yes,Yes,0,Yes,N0,House,2,Hunger games,Rap/Hip Hop,No,No,History,No
+Male,76,16,10,1,Yes,No,80,90,0,0,0,2,0,17,6,Other,1,6,Yes,No,Yes,IB,Yes,Yes,Yes,No,No,2,Yes,N0,House,0,Ferris Buler's Day Off,Trap,Yes,No,Social Studies,No
+Female,64,17,12,2,No,Yes,98,99,6,0,15,10,4,3,2,College,2,4,Yes,Yes,Yes,IB,No,Yes,Yes,No,Yes,2,No,N0,House,2,Monsters Inc,Countrry,No,No,Math,No
+Female,68.4,16,11,2,Yes,Yes,100,100,4,0,8,0,3,2,6,College,2,4,No,No,Yes,STEM,No,No,Yes,Yes,Yes,0,Yes,N0,House,1,Matilda,Rap/Hip Hop,Yes,No,Math,Yes
+Female,68.4,16,11,2,Yes,Yes,100,100,4,0,8,0,3,2,6,College,2,4,No,No,Yes,STEM,No,No,Yes,Yes,Yes,0,Yes,N0,House,1,Matilda,Rap/Hip Hop,Yes,No,Math,Yes
+Male,68.4,17,12,2,No,No,100,100,7,12,10,0,2,2,1,College,2,4,Yes,No,No,STEM,Yes,Yes,Yes,No,Yes,0,No,N0,House,1,Avengers end game,Rock/Metal,Yes,No,Science,Yes
+Female,63,16,10,2,No,Yes,100,100,5,0,11,0,4,4,17,College,2,4.5,Yes,Yes,Yes,IB,No,Yes,Yes,No,Yes,1,Yes,N0,House,1,Enders game,Rap/Hip Hop,No,No,English,No
+Female,63,15,9,2,No,Yes,100,100,0,0,5,0,2,2,5,College,2,5,Yes,No,Yes,STEM,Yes,Yes,Yes,Yes,Yes,1,Yes,N0,House,1,Ant man,Rap/Hip Hop,Yes,No,English,No
+Female,69,16,11,1,Yes,Yes,94,97,1,0,11,6,1,6,2,College,1,5,Yes,Yes,Yes,IB,No,No,Yes,No,Yes,1,No,N0,House,2,Never Say Never,Trap,Yes,Yes,Science,No
+Female,62,14,9,3,Yes,No,98,100,1,0,2,1,10,3,6,College,3,7,No,No,Yes,IB,No,Yes,Yes,No,Yes,2,No,N0,House,2,Elf,Pop,Yes,No,Biology,Yes

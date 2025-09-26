@@ -1,0 +1,78 @@
+cereal name,company,calories,shelf,hot or cold,protein,fat,sodium,fiber,complex carbohydrates,sugars,potassium,vitamins,weight of one serving,serving size
+100% Bran,Nabisco,70,top,Cold,4,1,130,10,5,6,280,25,1,0.33
+100% Natural Bran,Quaker,120,top,Cold,3,5,15,2,8,8,135,0,1,1
+All-Bran,Kellogs,70,top,Cold,4,1,260,9,7,5,320,25,1,0.33
+All-Bran with Extra Fiber,Kellogs,50,top,Cold,4,0,140,14,8,0,330,25,1,0.5
+Almond Delight,General Mills,110,top,Cold,2,2,200,1,14,8,,25,1,0.75
+Apple Cinnamon Cheerios,General Mills,110,bottom,Cold,2,2,180,1.5,10.5,10,70,25,1,0.75
+Apple Jacks,Kellogs,110,middle,Cold,2,0,125,1,11,14,30,25,1,1
+Basic 4,General Mills,130,top,Cold,3,2,210,2,18,8,100,25,1.33,0.75
+Bran Chex,General Mills,90,bottom,Cold,2,1,200,4,15,6,125,25,1,0.67
+Bran Flakes,Post,90,top,Cold,3,0,210,5,13,5,190,25,1,0.67
+Cap'n'Crunch,Quaker,120,middle,Cold,1,2,220,0,12,,35,25,1,0.75
+Cheerios,General Mills,110,bottom,Cold,6,2,290,2,17,1,105,25,1,1.25
+Cinnamon Toast Crunch,General Mills,120,middle,Cold,1,3,210,0,13,9,45,25,1,0.75
+Clusters,General Mills,110,top,Cold,3,2,140,2,13,7,105,25,1,0.5
+Cocoa Puffs,General Mills,110,middle,Cold,1,1,180,0,12,13,55,25,1,1
+Corn Chex,General Mills,110,bottom,Cold,2,0,280,0,22,3,25,25,1,1
+Corn Flakes,Kellogs,100,bottom,Cold,2,0,290,1,21,2,35,25,1,1
+Corn Pops,Kellogs,110,middle,Cold,1,0,90,1,13,12,20,25,1,1
+Count Chocula,General Mills,110,middle,Cold,1,1,180,0,12,13,65,25,1,1
+Cracklin' Oat Bran,Kellogs,110,top,Cold,3,3,140,4,10,7,160,25,1,0.5
+Cream of Wheat (Quick),Nabisco,100,middle,Hot,3,0,80,1,21,0,-1,0,1,1
+Crispix,Kellogs,110,top,Cold,2,0,220,1,21,3,30,25,1,1
+Crispy Wheat & Raisins,General Mills,100,top,Cold,2,1,140,2,11,10,120,25,1,0.75
+Double Chex,General Mills,100,top,Cold,2,0,190,1,18,5,80,25,1,0.75
+Froot Loops,Kellogs,110,middle,Cold,2,1,125,1,11,13,30,25,1,1
+Frosted Flakes,Kellogs,110,bottom,Cold,1,0,200,1,14,11,25,25,1,0.75
+Frosted Mini-Wheats,Kellogs,100,middle,Cold,3,0,0,3,14,7,100,25,1,0.8
+Fruit & Fibre Dates; Walnuts; and Oats,Post,120,top,Cold,3,2,160,5,12,10,200,25,1.25,0.67
+Fruitful Bran,Kellogs,120,top,Cold,3,0,240,5,14,12,190,25,1.33,0.67
+Fruity Pebbles,Post,110,middle,Cold,1,1,135,0,13,12,25,25,1,0.75
+Golden Crisp,Post,100,bottom,Cold,2,0,45,0,11,15,40,25,1,0.88
+Golden Grahams,General Mills,110,middle,Cold,1,1,280,0,15,9,45,25,1,0.75
+Grape Nuts Flakes,Post,100,top,Cold,3,1,140,3,15,5,85,25,1,0.88
+Grape-Nuts,Post,110,top,Cold,3,0,170,3,17,3,90,25,1,0.25
+Great Grains Pecan,Post,120,top,Cold,3,3,75,3,13,4,100,25,1,0.33
+Honey Graham Ohs,Quaker,120,middle,Cold,1,2,220,1,12,11,45,25,1,1
+Honey Nut Cheerios,General Mills,110,bottom,Cold,3,1,250,1.5,11.5,10,90,25,1,0.75
+Honey-comb,Post,110,bottom,Cold,1,0,180,0,14,11,35,25,1,1.33
+Just Right Crunchy  Nuggets,Kellogs,110,top,Cold,2,1,170,1,17,6,60,100,1,1
+Just Right Fruit & Nut,Kellogs,140,top,Cold,3,1,170,2,20,9,95,100,1.3,0.75
+Kix,General Mills,110,middle,Cold,2,1,260,0,21,3,40,25,1,1.5
+Life,Quaker,100,middle,Cold,4,2,150,2,12,6,95,25,1,0.67
+Lucky Charms,General Mills,110,middle,Cold,2,1,180,0,12,12,55,25,1,1
+Maypo,Homestat Farm,100,middle,Hot,4,1,0,0,16,3,95,25,1,1
+Muesli Raisins; Dates; & Almonds,General Mills,150,top,Cold,4,3,95,3,16,11,170,25,1,1
+Muesli Raisins; Peaches; & Pecans,General Mills,150,top,Cold,4,3,150,3,16,11,170,25,1,1
+Mueslix Crispy Blend,Kellogs,160,top,Cold,3,2,150,3,17,13,160,25,1.5,0.67
+Multi-Grain Cheerios,General Mills,100,bottom,Cold,2,1,220,2,15,6,90,25,1,1
+Nut&Honey Crunch,Kellogs,120,middle,Cold,2,1,190,0,15,9,40,25,1,0.67
+Nutri-Grain Almond-Raisin,Kellogs,140,top,Cold,3,2,220,3,21,7,130,25,1.33,0.67
+Nutri-grain Wheat,Kellogs,90,top,Cold,3,0,170,3,18,2,90,25,1,1
+Oatmeal Raisin Crisp,General Mills,130,top,Cold,3,2,170,1.5,13.5,10,120,25,1.25,0.5
+Post Nat. Raisin Bran,Post,120,top,Cold,3,1,200,6,11,14,260,25,1.33,0.67
+Product 19,Kellogs,100,top,Cold,3,0,320,1,20,3,45,100,1,1
+Puffed Rice,Quaker,50,top,Cold,1,0,0,0,13,0,15,0,0.5,1
+Puffed Wheat,Quaker,50,top,Cold,2,0,0,1,10,0,50,0,0.5,1
+Quaker Oat Squares,Quaker,100,top,Cold,4,1,135,2,14,6,110,25,1,0.5
+Quaker Oatmeal,Quaker,100,bottom,Hot,5,2,0,2.7,,,110,0,1,0.67
+Raisin Bran,Kellogs,120,middle,Cold,3,1,210,5,14,12,240,25,1.33,0.75
+Raisin Nut Bran,General Mills,100,top,Cold,3,2,140,2.5,10.5,8,140,25,1,0.5
+Raisin Squares,Kellogs,90,top,Cold,2,0,0,2,15,6,110,25,1,0.5
+Rice Chex,General Mills,110,bottom,Cold,1,0,240,0,23,2,30,25,1,1.13
+Rice Krispies,Kellogs,110,bottom,Cold,2,0,290,0,22,3,35,25,1,1
+Shredded Wheat,Nabisco,80,bottom,Cold,2,0,0,3,16,0,95,0,0.83,1
+Shredded Wheat 'n'Bran,Nabisco,90,bottom,Cold,3,0,0,4,19,0,140,0,1,0.67
+Shredded Wheat spoon size,Nabisco,90,bottom,Cold,3,0,0,3,20,0,120,0,1,0.67
+Smacks,Kellogs,110,middle,Cold,2,1,70,1,9,15,40,25,1,0.75
+Special K,Kellogs,110,bottom,Cold,6,0,230,1,16,3,55,25,1,1
+Strawberry Fruit Wheats,Nabisco,90,middle,Cold,2,0,15,3,15,5,90,25,1,1
+Total Corn Flakes,General Mills,110,top,Cold,2,1,200,0,21,3,35,100,1,1
+Total Raisin Bran,General Mills,140,top,Cold,3,1,190,4,15,14,230,100,1.5,1
+Total Whole Grain,General Mills,100,top,Cold,3,1,200,3,16,3,110,100,1,1
+Triples,General Mills,110,top,Cold,2,1,250,0,21,3,60,25,1,0.75
+Trix,General Mills,110,middle,Cold,1,1,140,0,13,12,25,25,1,1
+Wheat Chex,General Mills,100,bottom,Cold,3,1,230,3,17,3,115,25,1,0.67
+Wheaties,General Mills,100,bottom,Cold,3,1,200,3,17,3,110,25,1,1
+Wheaties Honey Gold,General Mills,110,bottom,Cold,2,1,200,1,16,8,60,25,1,0.75

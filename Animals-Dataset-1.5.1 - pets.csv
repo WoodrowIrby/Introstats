@@ -1,0 +1,223 @@
+show,characterName,actorName,characterAge,actorAge,characterGender,loveInterest
+Trinkets,Elodie Davis,Brianna Hildebrand,16,22,F,
+Trinkets,"Maureen ""Moe"" Truax",Kiana Medeira,16,26,F,Noah Simos
+Trinkets,Tabitha Foster,Quintessa Swindell,16,22,F,"Brady Finch, Luca Novak"
+Trinkets,Brady Finch,Brandon Butler,17,22,M,Tabitha Foster
+Trinkets,Noah Simos,Odiseas Georgiadis,16,22,M,"Maureen ""Moe"" Truax"
+The Wilds,Nora Reid,Helena Howard,17,22,F,
+The Wilds,Toni Shalifoe,Erana James,17,21,F,
+The Wilds,Martha Blackburn,Jenna Clause,16,21,F,
+The Wilds,Fatin Jadmani,Sophia Ali,17,25,F,
+The Wilds,Rachel Reid,Reign Edwards,17,24,F,
+The Society,Allie Pressman,Kathryn Newton,17,22,F,"Will LeClair, Harry Bingham"
+The Society,Cassandra Pressman,Rachel Keller,18,26,F,
+The Society,Will LeClair,Jacques Colimon,17,24,M,"Kelly Aldrich, Allie Pressman"
+The Society,Harry Bingham,Alex Fitzalan,17,23,M,
+The Society,Kelly Aldrich,Kristine Froseth,17,23,F,"Harry Bingham, Will LeClair"
+The Society,Becca Gelb,Gideon Adlon,17,22,F,
+The Society,Elle Tomkins,Olivia DeJonge,17,21,F,Campbell Eliot
+The Society,Campbell Eliot,Toby Wallace,18,22,M,Elle Tomkins
+The Society,Gwen Patterson,Olivia Nikkanen,17,20,F,Clark
+The Society,Helena Wu,Natasha Liu Bordizzo,17,24,F,Luke Holbrook
+The Society,Sam Eliot,Sean Berdy,17,25,M,"Gareth ""Grizz"" Visser"
+The Politician,Payton Hobart,Ben Platt,17,26,M,"Alice Charles, Astrid Sloan, River Barkley"
+The Politician,Infinity Jackson,Zoey Deutch,17,24,F,
+The Politician,Astrid Sloan,Lucy Boynton,17,25,F,"Payton Hobart, River Barkley"
+The Politician,Alice Charles,Julia Schlaepfer,17,24,F,"Payton Hobart, James Sullivan"
+The Politician,McAfee Westbrook,Laura Dreyfuss,17,31,F,Skye Leighton
+The Politician,Skye Leighton,Rahne Jones,17,32,NB,McAfee Westbrook
+The Politician,River Barkley,David Corenswet,17,26,M,"Astrid Sloan, Payton Hobart"
+The Politician,Andrew Cashman,Ryan J. Haddad,17,27,M,
+The O.C.,Ryan Atwood,Benjamin McKenzie,15,24,M,"Taylor Townsend, Marissa Cooper"
+The O.C.,Seth Cohen,Adam Brody,15,23,M,"Summer Roberts, Anna Stern"
+The O.C.,Marissa Cooper,Mischa Barton,15,17,F,"Kevin Volchok, Alex Kelly, Ryan Atwood, Luke Ward"
+The O.C.,Summer Roberts,Rachel Bilson,15,21,F,Seth Cohen
+The O.C.,Luke Ward,Chris Carmack,15,22,M,Marissa Cooper
+The 100,Clarke Griffin,Eliza Taylor,17,24,F,Finn Collins
+The 100,Finn Collins,Thomas McDonell,17,27,M,"Clarke Griffin, Raven Rayes"
+The 100,Octavia Blake,Marie Avgeropoulos,17,27,F,Lincoln
+The 100,Bellamy Blake,Bob Morley,23,29,M,
+The 100,Monty Green,Christopher Larkin,16,26,M,
+The 100,Jasper Jordan,Devon Bostick,16,22,M,
+The 100,Raven Reyes,Lindsey Morgan,19,24,F,Finn Collins
+The 100,John Murphy,Richard Harmon,17,22,M,
+The 100,Lincoln,Ricky Whittle,25,32,M,Octavia Blake
+The 100,Nathan Miller,Jarod Joseph,18,28,M,
+Stranger Things,Michael 'Mike' Wheeler,Finn Wolfhard,12,13,M,
+Stranger Things,Eleven,Millie Bobby Brown,12,12,F,
+Stranger Things,Dustin Henderson,Gaten Matarazzo,12,13,M,
+Stranger Things,Lucas Sinclair,Caleb McLaughlin,12,14,M,
+Stranger Things,Will Byers,Noah Schnapp,12,11,M,
+Stranger Things,Nancy Wheeler,Natalia Dyer,17,21,F,Steve Harrington
+Stranger Things,Jonathon Byers,Charlie Heaton,17,22,M,
+Stranger Things,Steve Harrington,Joe Keery,17,24,M,Nancy Wheeler
+Sex Education,Otis Milburn,Asa Butterfield,16,21,M,"Maeve Wiley, Lily Iglehart, Ola Nyman"
+Sex Education,Eric Effiong,Ncuti Gatwa,16,26,M,Adam Groff
+Sex Education,Maeve Wiley,Emma Mackey,16,23,F,"Otis Milburn, Jackson Marchetti"
+Sex Education,Adam Groff,Connor Swindells,16,22,M,"Eric Effiong, Aimee Gibbs"
+Sex Education,Jackson Marchetti,Kedar Williams-Stirling,16,24,M,Maeve Wiley
+Sex Education,Aimee Gibbs,Aimee Lou Wood,16,23,F,Adam Groff
+Sex Education,Lily Iglehart,Tanya Reynolds,16,27,F,Otis Milburn
+Sex Education,Ola Nyman,Patricia Allison,16,24,F,Otis Milburn
+Sex Education,Ruby Matthews,Mimi Keene,16,20,F,
+Sex Education,Olivia Hanan,Simone Ashley,16,23,F,
+Sex Education,Anwar,Chaneil Kular,16,19,M,
+Secret Life of the American Teenager,Jack Pappas,Greg Finley,18,23,M,"Grace Bowman, Adrian Lee"
+Secret Life of the American Teenager,Amy Juergens,Shailene Woodley,14,16,F,"Ben Boykewich, Ricky Underwood"
+Secret Life of the American Teenager,Ben Boykewich,Ken Baumann,14,18,M,"Amy Juergens, Adrian Lee"
+Secret Life of the American Teenager,Lauren Treacy,Camille Winbush,14,18,F,
+Secret Life of the American Teenager,Madison Cooperstein,Renee Olstead,14,19,F,
+Secret Life of the American Teenager,Grace Bowman,Megan Park,17,21,F,Jack Pappas
+Secret Life of the American Teenager,Ricky Underwood,Daren Kagasoff,15,20,M,Amy Juergens
+Secret Life of the American Teenager,Adrian Lee,Francia Raisa,15,19,F,"Ben Boykewich, Ricky Underwood, Jack Pappas"
+Runaways,Karolina Dean,Virginia Gardner,16,22,F,
+Runaways,Nico Minoru,Lyrica Okano,16,23,F,
+Runaways,Gert Yorkes,Ariela Barer,16,19,F,
+Runaways,Molly Hayes Hernandez,Allegra Acosta,15,14,F,
+Runaways,Alex Wilder,Rhenzy Feliz,17,20,M,
+Runaways,Chase Stein,Gregg Sulkin,17,25,M,
+Riverdale,Archie Andrews,KJ Apa,18,19,M,
+Riverdale,Betty Cooper,Lili Reinhart,18,20,F,Jughead Jones
+Riverdale,Veronica Lodge,Camila Mendes,18,22,F,
+Riverdale,Jughead Jones,Cole Sprouse,18,24,M,Betty Cooper
+Riverdale,Cheryl Blossom,Madelaine Petsch,19,22,F,
+Pretty Little Liars,Spencer Hastings,Troian Bellisario,16,24,F,"Alex Santiago, Toby Cavanaugh"
+Pretty Little Liars,Hanna Marin,Ashley Benson,16,20,F,"Caleb Rivers, Sean Ackard, Travis Hobbs"
+Pretty Little Liars,Aria Montgomery,Lucy Hale,17,20,F,"Ezra Fitz, Noel Kahn, Jake, Jason DiLaurentis"
+Pretty Little Liars,Emily Fields,Shay Mitchell,16,23,F,"Maya St. Germain, Alison DiLaurentis"
+Pretty Little Liars,Ezra Fitz,Ian Harding,21,23,M,Aria Montgomery
+Pretty Little Liars,Alison DiLaurentis,Sasha Pieterse,16,14,F,"Emily Fields, Ezra Fitz"
+Pretty Little Liars,Maya St. Germain,Bianca Lawson,17,31,F,Emily Fields
+Outer Banks,"John Booker ""John B"" Routledge",Chase Stokes,17,27,M,
+Outer Banks,Sarah Cameron,Madelyn Cline,16,22,F,
+Outer Banks,"Kiara ""Kie"" Carrera",Madison Bailey,16,21,F,Pope Heyward
+Outer Banks,Pope Heyward,Jonathan Daviss,16,21,M,"Kiara ""Kie"" Carrera"
+Outer Banks,JJ Maybank,Rudy Pankow,16,21,M,
+Outer Banks,Topper Thornton,Austin North,18,23,M,
+Outer Banks,Rafe Cameron,Drew Starkey,19,26,M,
+One Tree Hill,Lucas Scott,Chad Michael Murray,15,22,M,"Peyton Sawyer, Lindsey Strauss, Brooke Davis, Anna Taggaro, Nicki"
+One Tree Hill,Nathan Scott,James Lafferty,15,18,M,"Haley James, Peyton Sawyer, Taylor James"
+One Tree Hill,Peyton Sawyer,Hilarie Burton,15,21,F,"Lucas Scott, Nathan Scott, Julian Baker, Anna Taggaro, Jake Jagielski"
+One Tree Hill,Haley James,Bethany Joy Lenz,15,22,F,Nathan Scott
+One Tree Hill,Brooke Davis,Sophia Bush,15,21,F,"Julian Baker, Lucas Scott, Owen Morello, Peyton Sawyer, Chase Adams, Nick Chavez"
+On My Block,Cesar Diaz,Diego Tinoco,14,20,M,
+On My Block,Jamal Turner,Brett Gray,14,21,M,
+On My Block,Monse Finnie,Sierra Capri,14,19,F,
+On My Block,"Ruben ""Ruby"" Martinez",Jason Genao,14,21,M,
+On My Block,Jasmine Flores,Jessica Marie Garcia,14,30,F,
+Never Have I Ever,Paxton Hall-Yoshida,Darren Barnet,16,29,M,Devi Vishwakumar
+Never Have I Ever,Devi Vishwakumar,Maitreyi Ramakrishnan,15,18,F,"Paxton Hall-Yoshida, Benjamin ""Ben"" Gross"
+Never Have I Ever,"Benjamin ""Ben"" Gross",Jaren Lewison,15,19,M,Devi Vishwakumar
+Never Have I Ever,Fabiola Torres,Lee Rodriguez,15,20,F,Eve Hjelm
+Never Have I Ever,Eleanor Wong,Ramona Young,15,21,F,Oliver Martinez
+Never Have I Ever,Eve Hjelm,Christina Kartchner,15,25,F,Fabiola Torres
+"Love, Victor",Pilar Salazar,Isabella Ferreira,14,17,F,
+"Love, Victor",Victor Salazar,Michael Cimino,15,20,M,"Mia Brooks, Benji"
+"Love, Victor",Mia Brooks,Rachel Naomi Hilson,15,24,F,"Victor Salazar, Andrew Spencer"
+"Love, Victor",Felix Weston,Anthony Turpel,15,20,M,Lake Meriwether
+"Love, Victor",Lake Meriwether,Bebe Wood,15,18,F,Felix Weston
+"Love, Victor",Andrew Spencer,Mason Gooding,15,23,M,Mia Brooks
+"Love, Victor",Benji Campbell,George Sear,17,22,M,Victor Salazar
+Looking for Alaska,Miles 'Pudge' Halter,Charlie Plummer,16,20,M,"Alaska Young, Lara Buterskaya"
+Looking for Alaska,Alaska Young,Kristine Froseth,16,24,F,"Miles 'Pudge' Halter, Jake"
+Looking for Alaska,Lara Buterskaya,Sofia Vassilieva,16,26,F,Miles 'Pudge' Halter
+Looking for Alaska,Sara Bankhead Harbert,Landry Bender,16,19,F,Chip 'The Colonel' Martin
+Locke & Key,Scot Cavendish,Petrice Jones,16,26,M,Kinsey Locke
+Locke & Key,Javi,Kevin Alves,16,28,M,
+Locke & Key,Zadie Wells,Asha Bromfield,16,25,F,
+Locke & Key,Kinsey Locke,Emilia Jones,15,17,F,"Gabe, Scot Cavendish"
+Locke & Key,Gabe,Griffin Gluck,15,19,M,Kinsey Locke
+Locke & Key,Bode Locke,Jackson Robert Scott,10,11,M,
+Locke & Key,Tyler Locke,Connor Jessup,17,25,M,Jackie Veda
+Locke & Key,Lucas Caravaggio,Felix Mallard,17,21,M,
+I Am Not Okay With This,Sydney Novak,Sophia Lillis,16,18,F,
+I Am Not Okay With This,Stanley Barber,Wyatt Oleff,16,16,M,
+I Am Not Okay With This,Dina,Sofia Bryant,16,20,F,
+I Am Not Okay With This,Brad Lewis,Richard Ellis,16,25,M,
+I Am Not Okay With This,Rick Berry,Zachary S. Williams,16,20,M,
+Gossip Girl Revival,Julien Calloway,Jordan Alexander,16,27,F,"Otto ""Obie"" Bergmann IV"
+Gossip Girl Revival,Audrey Hope,Emily Alyn Lynd,16,20,F,"Akeno ""Aki"" Menzies"
+Gossip Girl Revival,Max Wolfe,Thomas Doherty,17,26,M,
+Gossip Girl Revival,Monet de Haan,Savannah Smith,16,20,F,
+Gossip Girl Revival,"Akeno ""Aki"" Menzies",Evan Mock,16,24,M,Audrey Hope
+Gossip Girl Revival,Luna La,Zion Moreno,16,26,F,
+Gossip Girl Revival,Zoya Lott,Whitney Peak,15,18,F,"Otto ""Obie"" Bergmann IV"
+Gossip Girl Revival,"Otto ""Obie"" Bergmann IV",Eli Brown,16,21,M,"Zoya Lott, Julien Calloway"
+Gossip Girl,Serena van der Woodsen,Blake Lively,16,20,F,"Dan Humphrey, Nate Archibald"
+Gossip Girl,Blair Waldorf,Leighton Meester,16,21,F,"Nate Archibald, Chuck Bass"
+Gossip Girl,Dan Humphrey,Penn Badgley,16,20,M,Serena van der Woodsen
+Gossip Girl,Nate Archibald,Chace Crawford,16,22,M,"Blair Waldorf, Serena van der Woodsen"
+Gossip Girl,Chuck Bass,Ed Westwick,16,20,M,"Blair Waldorf, Jenny Humphrey"
+Gossip Girl,Jenny Humphrey,Taylor Momsen,14,14,F,"Nate Archibald, Chuck Bass"
+Gossip Girl,Vanessa Abrams,Jessica Szohr,16,22,F,"Nate Archibald, Dan Humphrey"
+Glee,Artie Abrams,Kevin McHale,14,20,M,
+Glee,Tina Cohen-Chang,Jenna Ushkowitz,14,23,F,
+Glee,Kurt Hummel,Chris Colfer,15,18,M,
+Glee,Rachel Berry,Lea Michele,15,22,F,Finn Hudson
+Glee,Santana Lopez,Naya Rivera,15,22,F,Noah 'Puck' Puckerman
+Glee,Mercedes Jones,Amber Riley,15,23,F,
+Glee,Noah 'Puck' Puckerman,Mark Salling,15,26,M,"Quinn Fabray, Santana Lopez"
+Glee,Brittany S. Pierce,Heather Morris,15,22,F,
+Glee,Mike Chang,Harry Shum Jr.,15,27,M,
+Glee,Finn Hudson,Cory Monteith,15,27,M,"Rachel Berry, Quinn Fabray"
+Glee,Quinn Fabray,Dianna Agron,15,23,F,"Finn Hudson, Noah 'Puck' Puckerman"
+Glee,Becky Jackson,Lauren Potter,15,19,F,
+Gilmore Girls,Rory Gilmore,Alexis Bledel,15,19,F,Dean Forester
+Gilmore Girls,Lane Kim,Keiko Agena,15,27,F,
+Gilmore Girls,Paris Geller,Liza Weil,15,23,F,
+Gilmore Girls,Dean Forester,Jared Padalecki,15,18,M,Rory Gilmore
+Gilmore Girls,Louise Grant,Teal Redmann,15,18,F,
+Gilmore Girls,Madeline Lynn,Shelly Cole,15,25,F,
+Gilmore Girls,Tristin Dugray,Chad Michael Murray,15,19,M,
+Everything Sucks!,Luke O'Neil,Jahi Di'Allo Winston,14,14,M,Kate Messner
+Everything Sucks!,Tyler,Quinn Liebling,14,14,M,
+Everything Sucks!,McQuaid,Rio Mangini,14,15,M,
+Everything Sucks!,Emaline Addario,Sydney Sweeney,16,20,F,"Oliver, Kate Messner"
+Everything Sucks!,Oliver,Elijah Stevenson,17,19,M,Emaline Addario
+Everything Sucks!,Kate Messner,Peyton Kennedy,15,14,F,Emaline Addario
+Everything Sucks!,Leslie,Abi Brittle,15,17,F,
+Euphoria,Rue Bennett,Zendaya,17,22,F,
+Euphoria,Jules,Hunter Schafer,17,20,F,
+Euphoria,Nate Jacobs,Jacob Elordi,17,21,M,Maddy Perez
+Euphoria,Chris McKay,Algee Smith,17,24,M,Cassie Howard
+Euphoria,Maddy Perez,Alexa Demie,17,28,F,Nate Jacobs
+Euphoria,Lexi Howard,Maude Apatow,16,21,F,
+Euphoria,Cassie Howard,Sydney Sweeney,17,21,F,Chris McKay
+Euphoria,"Katherine ""Kat"" Hernandez",Barbie Ferreira,17,22,F,"Daniel, Ethan"
+Euphoria,Gia Bennett,Storm Reid,15,15,F,
+Derry Girls,Orla McCool,Louisa Harlond,15,24,F,
+Daybreak,Angelica Green,Alyvia Alyn Lind,11,12,F,
+Daybreak,Josh Wheeler,Colin Ford,16,23,M,"Samaira 'Sam' Dean, KJ"
+Daybreak,Samaira 'Sam' Dean,Sophie Simnett,16,21,F,Josh Wheeler
+Daybreak,Wesley Fists,Austin Crute,16,24,M,
+Daybreak,Mona Lisa,Jeanté Godlock,16,31,F,
+Daybreak,Turbo Pokaski,Cody Kearsley,17,28,M,
+Daybreak,Eli Cardashyan,Gregory Kasyan,17,18,M,
+Dare Me,Tacy Cassidy,Alison Thornton,14,20,F,
+Chilling Adventures of Sabrina,Harvey Kinkle,Ross Lynch,16,22,M,Sabrina Spelllman
+Chilling Adventures of Sabrina,Rosalind Walker,Jaz Sinclair,16,24,F,
+Chilling Adventures of Sabrina,Prudence Night,Tati Gabrielle,16,22,F,
+Chilling Adventures of Sabrina,Agatha,Adeline Rudolph,16,23,F,
+Chilling Adventures of Sabrina,Theo Putnam,Lachlan Watson,16,17,M,
+Chilling Adventures of Sabrina,Nicholas Scratch,Gavin Leatherwood,16,24,M,Sabrina Spellman
+Chilling Adventures of Sabrina,Dorcas,Abigail Cowen,16,20,F,
+Chilling Adventures of Sabrina,Sabrina Spellman,Kiernan Shipka,17,18,F,"Harvey Kinkle, Nicholas Scratch"
+Atypical,Sam Gardner,Keir Gilchrist,17,24,M,
+Atypical,Paige,Jenna Boyd,17,24,F,
+Atypical,Casey Gardner,Brigette Lundy-Paine,15,23,F,Evan Chapin
+Atypical,Evan Chapin,Graham Rogers,16,26,M,Casey Gardner
+All American,Spencer James,Daniel Ezra,17,26,M,"Kia Williams, Layla Keating, Olivia Baker"
+All American,"Tamia ""Coop"" Cooper",Bre-Z,17,31,F,Patience Roberts
+All American,Layla Keating,Greta Onieogou,17,27,F,"Spencer James, Asher Adams"
+All American,Olivia Baker,Samantha Logan,17,21,F,"Spencer James, Asher Adams"
+All American,Jordan Baker,Michael Evans Behling,17,22,M,
+All American,Asher Adams,Cody Christian,17,23,M,"Layla Keating, Olivia Baker"
+13 Reasons Why,Bryce Walker,Justin Prentice,18,22,M,
+13 Reasons Why,Clay Jensen,Dylan Minnette,16,20,M,
+13 Reasons Why,Hannah Baker,Katherine Langford,17,20,F,
+13 Reasons Why,Tony Padilla,Christian Navarro,17,25,M,
+13 Reasons Why,Jessica Davis,Alisha Boe,16,20,F,"Justin Foley, Alex Baker"
+13 Reasons Why,Justin Foley,Brandon Flynn,16,23,M,Jessica Davis
+13 Reasons Why,Alex Standall,Miles Heizer,17,22,M,"Jessica Davis, Zach Dempsey"
+13 Reasons Why,Zach Dempsey,Ross Butler,17,26,M,"Hannah Baker, Alex Standall"
+13 Reasons Why,Tyler Down,Devin Druid,16,19,M,
