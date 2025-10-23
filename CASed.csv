@@ -1,0 +1,100 @@
+Gender,Handed,Height,Travel_to_School,Travel_time_to_School,Favorite_Season,Allergies,Beverage,Social_Websites_Hours
+Male,Left-Handed,187.9,Walk,20,Fall,Yes,Sports drink,6
+Female,Right-Handed,152.4,Car,10,Summer,No,Water,3
+Male,Right-Handed,166.3,Car,15,Winter,No,Water,16
+Female,Right-Handed,162.6,Car,15,Fall,Yes,Soft drink ,2
+Male,Right-Handed,165,Car,15,Summer,No,Water,8
+Female,Right-Handed,158,Bus,47,Fall,Yes,Tea,4
+Male,Right-Handed,176.5,Car,22,Summer,No,Water,2.5
+Female,Right-Handed,64,Bus,15,Winter,No,Soft drink,4
+Male,Right-Handed,178,Car,15,Fall,No,Soft drink ,8
+Female,Left-Handed,149.86,Car,13,Winter,Yes,Tea,9
+Female,Right-Handed,161.9,Car,10,Summer,No,Water,13
+Female,Right-Handed,167.6,Car,10,Fall,No,Water,0
+Female,Right-Handed,167,Car,8,Fall,Yes,Water,5
+Female,Right-Handed,152.4,Car,10,Summer,No,Water,35
+Male,Left-Handed,188,Car,20,Fall,No,Sports drink,20
+Male,Right-Handed,187.9,Car,4,Winter,No,Water,26
+Female,Left-Handed,162.5,Walk,15,Spring,Yes,Tea,10
+Male,Left-Handed,173,Car,20,Fall,No,Water,0
+Male,Right-Handed,175,Car,15,Fall,Yes,Water,5
+Male,Right-Handed,177.8,Bus,12,Fall,No,Soft drink,0
+Female,Right-Handed,64.5,Bus,20,Fall,No,Water,90
+Male,Right-Handed,180,Car,7,Summer,No,Water,8
+Male,Right-Handed,185.9,Car,20,Summer,No,Water,4
+Female,Right-Handed,157.4,Car,10,Winter,No,Soft drink,4
+Female,Right-Handed,170,Car,20,Winter,No,Water,20
+Male,Ambidextrous,177.8,Car,14,Fall,No,Soft drink,0
+Male,Right-Handed,182.8,Bus,12,Winter,Yes,Energy drink,9
+Female,Right-Handed,178,Car,10,Spring,No,Tea,2
+Male,Right-Handed,183,Car,6,Summer,Yes,Water,2
+Male,Right-Handed,162.5,Car,16,Summer,Yes,Tea,5
+Male,Ambidextrous,189.7,Car,5,Fall,No,Water,30
+Male,Right-Handed,178,Car,25,Fall,No,Water,0
+Male,Right-Handed,185,Car,10,Winter,No,Soft drink,12
+Male,Left-Handed,173,Car,7,Fall,Yes,Sports drink,10
+Male,Right-Handed,171,Bus,20,Fall,Yes,Water,1
+Male,Right-Handed,182.8,Car,15,Spring,No,Powdered drink,10
+Male,Right-Handed,180,Car,15,Fall,No,Water,20
+Male,Right-Handed,153.7,Car,15,Winter,No,Water,2
+Female,Right-Handed,150.34,Walk,2.5,Fall,No,Powdered drink,5
+Male,Right-Handed,191,Bus,54,Winter,No,Soft drink,3
+Male,Right-Handed,165,Bus,35,Fall,No,Water,1
+Female,Left-Handed,158.5,Car,25,Fall,Yes,Water,15
+Female,Right-Handed,165.1,Car,36,Fall,No,Milk,60
+Female,Right-Handed,175.3,Car,7,Fall,No,Soft drink,12
+Male,Right-Handed,172.7,Car,15,Spring,Yes,Tea,2
+Male,Right-Handed,177.8,Car,5,Summer,No,Water,13
+Female,Right-Handed,162.5,Car,10,Winter,No,Water,20
+Female,Right-Handed,161,Car,15,Summer,No,Water,25
+Female,Right-Handed,160,Car,20,Fall,Yes,Water,40
+Female,Right-Handed,175.3,Car,7,Fall,No,Tea,5
+Male,Right-Handed,178,Car,15,Fall,No,Soft drink,10
+Male,Left-Handed,185.4,Car,4,Summer,Yes,Water,30
+Female,Right-Handed,149.8,Car,15,Fall,Yes,Tea,12
+Male,Right-Handed,180,Car,15,Fall,No,Water,8
+Female,Right-Handed,161,Car,15,Summer,No,Water,25
+Male,Right-Handed,170.2,Bus,40,Winter,No,Energy drink,4
+Male,Right-Handed,183,Car,8,Fall,Yes,Milk,24
+Female,Right-Handed,167.2,Car,13,Fall,No,Water,14
+Female,Right-Handed,168,Car,20,Spring,No,Water,2
+Male,Right-Handed,188,Car,20,Fall,No,Water,0
+Female,Left-Handed,163,Car,19,Fall,No,Water,5
+Male,Right-Handed,164,Car,20,Winter,No,Water,2
+Female,Right-Handed,175.3,Car,7,Fall,No,Milk,10
+Female,Right-Handed,152,Car,5,Spring,Yes,Water,12
+Male,Ambidextrous,185.4,Car,10,Spring,Yes,Milk,10
+Female,Right-Handed,167.6,Car,15,Spring,Yes,Water,120
+Male,Left-Handed,187.9,Walk,20,Fall,Yes,Sports drink,2
+Female,Right-Handed,178,Car,10,Fall,Yes,Soft drink,40
+Male,Right-Handed,161,Car,10,Fall,No,Water,10
+Female,Right-Handed,165,Bus,60,Fall,Yes,Water,30
+Male,Right-Handed,173,Car,7,Fall,No,Water,6
+Female,Right-Handed,160,Bus,55,Fall,No,Water,0
+Male,Right-Handed,175,Car,10,Winter,No,Water,56
+Male,Right-Handed,180,Car,20,Winter,Yes,Tea,15
+Female,Left-Handed,148.34,Car,13,Summer,No,Energy drink,50
+Female,Right-Handed,171,Car,6,Spring,Yes,Juice,120
+Male,Right-Handed,171,Bus,20,Fall,Yes,Water,1
+Male,Right-Handed,168.4,Car,15,Fall,Yes,Water,7
+Male,Right-Handed,180,Bus,60,Fall,No,Energy drink,10
+Female,Left-Handed,149.12,Bus,10,Fall,No,Energy drink,4
+Male,Right-Handed,172.7,Car,15,Fall,No,Juice,48
+Male,Right-Handed,183,Car,10,Summer,No,Soft drink,4
+Male,Right-Handed,171,Car,10,Fall,No,Water,34
+Female,Right-Handed,163,Car,6,Winter,Yes,Water,20
+Male,Right-Handed,182,Car,14,Summer,Yes,Soft drink,1
+Female,Right-Handed,164.6,Car,8,Fall,Yes,Water,6
+Male,Right-Handed,175.3,Car,20,Winter,No,Water,5
+Male,Right-Handed,176.5,Car,24,Summer,No,Water,2.5
+Male,Right-Handed,187.9,Car,4,Spring,Yes,Tea,3
+Female,Right-Handed,152.4,Car,8,Fall,No,Soft drink,7
+Female,Right-Handed,149.8,Car,15,Summer,No,Milk,4
+Female,Right-Handed,157.5,Bus,10,Winter,Yes,Water,100
+Female,Right-Handed,165.1,Car,7,Fall,Yes,Water,20
+Female,Right-Handed,168,Car,20,Summer,No,Water,1
+Male,Right-Handed,182.8,Car,8,Fall,No,Water,5
+Male,Right-Handed,165,Bus,35,Winter,Yes,Milk,5
+Male,Right-Handed,162.5,Car,15,Winter,No,Tea,10
+Male,Right-Handed,188,Car,10,Fall,Yes,Soft drink,1
+Female,Right-Handed,177,Car,13,Fall,No,Water,20
