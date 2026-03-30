@@ -1,0 +1,101 @@
+Gender,Education,Region,Employment,Satisfaction,Score,Age,Income
+Non-binary,High School,Northeast,Self-employed,Satisfied,37.45,49,37436.64
+Male,Associate's,Northeast,Retired,Very Satisfied,95.07,56,89093.77
+Non-binary,Master's,Northeast,Full-time,Very Satisfied,73.2,49,58673.53
+Male,Associate's,West,Retired,Very Satisfied,59.87,21,113673
+Non-binary,Associate's,West,Unemployed,Satisfied,15.6,47,33752.09
+Female,Doctorate,Midwest,Full-time,Satisfied,15.6,54,54106.64
+Non-binary,Master's,Midwest,Self-employed,Satisfied,5.81,40,31347.35
+Male,Bachelor's,Northeast,Full-time,Dissatisfied,86.62,56,112469.36
+Male,Bachelor's,Midwest,Retired,Neutral,60.11,62,107733.94
+Male,Master's,West,Full-time,Dissatisfied,70.81,32,45794.16
+Male,Doctorate,Midwest,Retired,Neutral,2.06,60,85998.4
+Non-binary,Associate's,Northeast,Full-time,Satisfied,96.99,46,101722.22
+Female,High School,Southeast,Full-time,Dissatisfied,83.24,53,75520.08
+Female,Master's,Midwest,Part-time,Neutral,21.23,30,72965.06
+Female,Associate's,Midwest,Full-time,Very Dissatisfied,18.18,49,44185.23
+Non-binary,Associate's,West,Part-time,Satisfied,18.34,24,29310.28
+Female,Master's,Midwest,Retired,Satisfied,30.42,39,109721.58
+Non-binary,Bachelor's,Northeast,Part-time,Very Satisfied,52.48,45,110041.81
+Female,Master's,Midwest,Full-time,Satisfied,43.19,19,83310.15
+Non-binary,Bachelor's,Southeast,Unemployed,Dissatisfied,29.12,59,53902.98
+Non-binary,Master's,Southeast,Self-employed,Satisfied,61.19,62,54920.96
+Male,Doctorate,West,Self-employed,Very Dissatisfied,13.95,23,92595.57
+Female,Doctorate,Southwest,Self-employed,Satisfied,29.21,45,109711.03
+Male,Doctorate,Southwest,Full-time,Very Satisfied,36.64,45,108708.64
+Male,Associate's,Southeast,Unemployed,Very Dissatisfied,45.61,61,97987.55
+Male,Master's,Southwest,Retired,Dissatisfied,78.52,61,84203.16
+Non-binary,Bachelor's,West,Full-time,Very Satisfied,19.97,37,28414
+Non-binary,Doctorate,Midwest,Self-employed,Very Satisfied,51.42,47,36162.87
+Female,Master's,Southeast,Unemployed,Very Satisfied,59.24,28,109855.42
+Non-binary,Bachelor's,West,Part-time,Very Dissatisfied,4.65,45,80642.91
+Male,Bachelor's,West,Retired,Satisfied,60.75,42,20919.71
+Male,Bachelor's,Southeast,Retired,Very Dissatisfied,17.05,56,30147.15
+Male,Doctorate,Midwest,Unemployed,Very Satisfied,6.51,50,86350.18
+Male,Bachelor's,Midwest,Part-time,Very Satisfied,94.89,18,20506.16
+Male,Doctorate,Northeast,Full-time,Dissatisfied,96.56,44,36080.81
+Male,Doctorate,Southeast,Part-time,Dissatisfied,80.84,30,74873.38
+Non-binary,Associate's,Midwest,Retired,Very Dissatisfied,30.46,58,89189.52
+Female,Associate's,West,Part-time,Neutral,9.77,20,85196.13
+Female,Bachelor's,Southwest,Retired,Dissatisfied,68.42,56,42426.93
+Male,Associate's,Southeast,Full-time,Neutral,44.02,23,91217.92
+Male,Doctorate,West,Part-time,Very Dissatisfied,12.2,25,43724.91
+Male,High School,Northeast,Full-time,Satisfied,49.52,44,52539.97
+Male,High School,Midwest,Full-time,Very Dissatisfied,3.44,26,94649.14
+Male,Bachelor's,Southwest,Part-time,Very Dissatisfied,90.93,54,84963.29
+Male,Doctorate,West,Unemployed,Satisfied,25.88,50,104922.34
+Female,Master's,Southeast,Full-time,Very Satisfied,66.25,59,85761.29
+Non-binary,Master's,Midwest,Unemployed,Dissatisfied,31.17,61,76830.86
+Female,High School,Northeast,Full-time,Dissatisfied,52.01,41,29367.48
+Non-binary,Bachelor's,Northeast,Part-time,Satisfied,54.67,32,56771.58
+Male,Doctorate,Southwest,Part-time,Dissatisfied,18.49,49,46520.24
+Male,Bachelor's,Southwest,Part-time,Very Satisfied,96.96,49,44398.96
+Female,Doctorate,Northeast,Full-time,Very Dissatisfied,77.51,41,117301.06
+Male,High School,Southeast,Part-time,Dissatisfied,93.95,58,59309.77
+Female,Master's,Southeast,Unemployed,Very Satisfied,89.48,29,109204.66
+Male,Master's,Northeast,Unemployed,Neutral,59.79,56,83113.86
+Female,Bachelor's,Southwest,Retired,Dissatisfied,92.19,19,99481.13
+Male,Associate's,Midwest,Part-time,Very Satisfied,8.85,20,70263.71
+Non-binary,Doctorate,Northeast,Self-employed,Very Satisfied,19.6,54,77690.39
+Male,Doctorate,Southwest,Retired,Very Dissatisfied,4.52,34,69251.77
+Male,High School,West,Full-time,Satisfied,32.53,19,39524.3
+Male,Doctorate,Northeast,Part-time,Dissatisfied,38.87,19,92245.21
+Male,Doctorate,Southeast,Retired,Very Dissatisfied,27.13,45,48077.24
+Male,Doctorate,Northeast,Unemployed,Very Dissatisfied,82.87,40,22431.6
+Non-binary,Doctorate,Midwest,Self-employed,Satisfied,35.68,54,84547.23
+Non-binary,Bachelor's,Southeast,Self-employed,Dissatisfied,28.09,49,37711.07
+Male,Bachelor's,Southwest,Self-employed,Very Satisfied,54.27,50,114045.86
+Male,Master's,West,Retired,Very Satisfied,14.09,18,115392.86
+Male,Doctorate,Southeast,Retired,Neutral,80.22,36,111486.44
+Male,Bachelor's,Northeast,Part-time,Neutral,7.46,19,57015.87
+Female,Associate's,Southwest,Retired,Neutral,98.69,61,21545.66
+Non-binary,Doctorate,Northeast,Retired,Neutral,77.22,43,112831.86
+Non-binary,High School,Southeast,Self-employed,Very Satisfied,19.87,49,62818.41
+Male,Doctorate,Southeast,Self-employed,Neutral,0.55,23,116665.48
+Non-binary,Associate's,Midwest,Part-time,Neutral,81.55,49,116362
+Non-binary,Master's,Midwest,Full-time,Very Satisfied,70.69,21,105300.95
+Non-binary,Master's,Midwest,Full-time,Very Satisfied,72.9,28,49444.89
+Female,Associate's,Midwest,Part-time,Dissatisfied,77.13,34,58509.77
+Non-binary,Master's,West,Full-time,Very Satisfied,7.4,55,105113.67
+Male,Associate's,West,Full-time,Neutral,35.85,41,51692.2
+Non-binary,Doctorate,Southeast,Unemployed,Satisfied,11.59,22,36949.27
+Male,Bachelor's,Midwest,Full-time,Neutral,86.31,51,75680.13
+Male,Associate's,Northeast,Self-employed,Very Dissatisfied,62.33,23,113615.48
+Female,Doctorate,Southeast,Part-time,Satisfied,33.09,39,89602.98
+Male,Master's,Northeast,Part-time,Neutral,6.36,28,77006.12
+Female,Associate's,Midwest,Part-time,Very Satisfied,31.1,33,29717.65
+Female,High School,Southwest,Part-time,Satisfied,32.52,50,81500.72
+Female,Bachelor's,Midwest,Part-time,Satisfied,72.96,26,119005.39
+Male,Associate's,Southwest,Self-employed,Neutral,63.76,23,34008.4
+Male,Bachelor's,Midwest,Retired,Dissatisfied,88.72,33,71832.97
+Non-binary,Doctorate,Midwest,Full-time,Very Satisfied,47.22,46,107737.31
+Female,Associate's,West,Self-employed,Very Satisfied,11.96,20,94076.86
+Male,Doctorate,Southwest,Self-employed,Neutral,71.32,37,89701.57
+Female,Doctorate,West,Full-time,Dissatisfied,76.08,53,90248.41
+Non-binary,Associate's,Midwest,Full-time,Dissatisfied,56.13,36,55949.12
+Male,Doctorate,West,Part-time,Neutral,77.1,43,49359.18
+Female,High School,Midwest,Retired,Neutral,49.38,20,100936.12
+Non-binary,High School,Midwest,Retired,Neutral,52.27,36,101011.34
+Non-binary,Master's,Midwest,Unemployed,Neutral,42.75,37,106707.23
+Non-binary,Associate's,Southeast,Unemployed,Dissatisfied,2.54,49,111324.06
+Non-binary,Associate's,West,Retired,Neutral,10.79,24,71134.24
