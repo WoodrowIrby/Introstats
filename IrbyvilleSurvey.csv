@@ -1,0 +1,101 @@
+Respondent ID,First Name,Last Name,Age,Gender,Region of Birth,Favorite Food Type,Car Preference,Political Leaning
+R001,Mary,Mitchell,53,Female,Southwest,Greek,Foreign,Liberal
+R002,Kimberly,Garcia,93,Female,Mountain West,Mexican,Foreign,Liberal
+R003,Mary,Scott,43,Female,Deep South,Southern/Soul Food,Foreign,Conservative
+R004,Mary,Carter,38,Female,Mountain West,Korean,Foreign,Liberal
+R005,Linda,Garcia,66,Female,Southeast,Vietnamese,No Preference,Conservative
+R006,Melissa,Robinson,86,Female,Southeast,Middle Eastern,Foreign,Liberal
+R007,Laura,White,91,Female,Southwest,Japanese,Foreign,Liberal
+R008,Robert,Anderson,30,Male,Mountain West,French,Domestic,Centrist
+R009,Daniel,Wilson,52,Male,Southeast,Ethiopian,Domestic,Conservative
+R010,Mark,Harris,52,Male,Deep South,Greek,Domestic,Centrist
+R011,Jessica,Williams,58,Female,Mountain West,French,Foreign,Centrist
+R012,Amanda,Lee,45,Female,Pacific Northwest,Middle Eastern,No Preference,Conservative
+R013,William,Thomas,89,Male,Deep South,French,Domestic,Conservative
+R014,Nancy,Anderson,35,Female,Deep South,Seafood,Foreign,Liberal
+R015,Kenneth,Hernandez,72,Male,New England,Japanese,Domestic,Conservative
+R016,Thomas,Scott,19,Male,Southeast,Pizza,Domestic,Centrist
+R017,Charles,Ramirez,38,Male,Pacific Northwest,Italian,No Preference,Centrist
+R018,Steven,Carter,40,Male,Deep South,Chinese,No Preference,Liberal
+R019,Donna,Gonzalez,37,Female,Mid-Atlantic,Indian,Domestic,Centrist
+R020,Mary,Hill,59,Female,Pacific Northwest,Italian,Foreign,Conservative
+R021,Casey,Thomas,25,Non-binary,Southwest,Sushi,No Preference,Liberal
+R022,Jennifer,Carter,86,Female,Midwest,American BBQ,Domestic,Centrist
+R023,Steven,Hill,72,Male,Southwest,Pizza,Domestic,Centrist
+R024,Betty,Nelson,65,Female,Pacific Northwest,Steakhouse,Domestic,Liberal
+R025,James,Nguyen,88,Male,Southwest,Sushi,Foreign,Liberal
+R026,Jessica,Jones,22,Female,Mid-Atlantic,Japanese,Domestic,Liberal
+R027,Kimberly,Rodriguez,91,Female,New England,Seafood,Foreign,Conservative
+R028,Michael,Miller,73,Male,Mid-Atlantic,Southern/Soul Food,Domestic,Centrist
+R029,Kenneth,Adams,30,Male,Northeast,Middle Eastern,Domestic,Centrist
+R030,Richard,Gonzalez,86,Male,Pacific Northwest,American BBQ,Domestic,Liberal
+R031,Ryan,Jones,74,Male,Deep South,Chinese,Foreign,Centrist
+R032,Jennifer,Carter,48,Female,Midwest,Southern/Soul Food,Domestic,Liberal
+R033,John,Hernandez,66,Male,Northeast,Middle Eastern,Foreign,Centrist
+R034,Anthony,Hall,89,Male,Pacific Northwest,American BBQ,Foreign,Liberal
+R035,George,Wright,25,Male,Mid-Atlantic,Mexican,Foreign,Conservative
+R036,Dorothy,Hernandez,25,Female,Deep South,Japanese,No Preference,Liberal
+R037,Jason,Thomas,69,Male,Southeast,Sushi,Foreign,Conservative
+R038,Margaret,Nelson,92,Female,New England,Steakhouse,Foreign,Liberal
+R039,Lisa,Thomas,51,Female,Mountain West,American BBQ,Domestic,Liberal
+R040,Timothy,Jones,19,Male,Pacific Northwest,Ethiopian,No Preference,Centrist
+R041,Richard,Allen,51,Male,Midwest,Vietnamese,No Preference,Centrist
+R042,David,Lewis,87,Male,West,Ethiopian,No Preference,Centrist
+R043,Carol,Scott,56,Female,Southeast,American BBQ,Foreign,Centrist
+R044,Barbara,Moore,54,Female,New England,Thai,Domestic,Liberal
+R045,Sarah,Allen,80,Female,West,Mexican,Foreign,Conservative
+R046,James,Perez,34,Male,West,Indian,Domestic,Conservative
+R047,James,Davis,27,Male,Midwest,Pizza,Foreign,Conservative
+R048,Margaret,Rodriguez,23,Female,West,Vietnamese,No Preference,Centrist
+R049,Laura,Thompson,44,Female,Southwest,Chinese,Foreign,Conservative
+R050,Donna,Mitchell,37,Female,Southwest,Indian,No Preference,Centrist
+R051,Mary,Lopez,60,Female,Mountain West,Greek,Foreign,Centrist
+R052,Jason,Williams,78,Male,Southwest,Thai,Domestic,Conservative
+R053,Ronald,Anderson,46,Male,Northeast,Thai,Domestic,Liberal
+R054,Timothy,Moore,62,Male,Deep South,Middle Eastern,Domestic,Centrist
+R055,James,Davis,51,Male,Midwest,Sushi,No Preference,Liberal
+R056,Anthony,Thompson,58,Male,Mountain West,Ethiopian,No Preference,Liberal
+R057,Susan,Taylor,23,Female,Mountain West,Italian,Domestic,Centrist
+R058,Melissa,Mitchell,43,Female,Mid-Atlantic,Southern/Soul Food,Foreign,Conservative
+R059,Christopher,Nelson,33,Male,West,Steakhouse,Foreign,Conservative
+R060,Charles,Scott,34,Male,Southwest,Southern/Soul Food,Domestic,Conservative
+R061,Elizabeth,Flores,90,Female,West,Middle Eastern,Domestic,Liberal
+R062,Anthony,Nguyen,95,Male,Mid-Atlantic,Tex-Mex,Domestic,Centrist
+R063,Stephanie,Mitchell,39,Female,Southeast,Mediterranean,Domestic,Conservative
+R064,Edward,Carter,48,Male,West,Greek,Domestic,Liberal
+R065,Donald,Flores,27,Male,Pacific Northwest,Southern/Soul Food,No Preference,Conservative
+R066,Betty,Young,69,Female,Southwest,American BBQ,Domestic,Liberal
+R067,Deborah,Miller,72,Female,Southwest,Indian,Domestic,Centrist
+R068,Paul,Thomas,33,Male,Pacific Northwest,American BBQ,Domestic,Conservative
+R069,River,Lee,74,Non-binary,New England,Steakhouse,Domestic,Centrist
+R070,David,Mitchell,78,Male,Pacific Northwest,French,Domestic,Centrist
+R071,Timothy,King,80,Male,Southwest,French,Domestic,Centrist
+R072,Christopher,Lee,87,Male,Southeast,American BBQ,Foreign,Conservative
+R073,Richard,Jones,71,Male,Mountain West,Korean,Domestic,Conservative
+R074,Anthony,Harris,92,Male,Northeast,Sushi,Domestic,Liberal
+R075,Timothy,Harris,71,Male,Deep South,Pizza,Domestic,Centrist
+R076,Sarah,Ramirez,80,Female,Northeast,Middle Eastern,Foreign,Centrist
+R077,David,Robinson,34,Male,New England,Pizza,Foreign,Conservative
+R078,Mary,Garcia,100,Female,Mountain West,American BBQ,No Preference,Liberal
+R079,Christopher,Wilson,76,Male,Mid-Atlantic,Korean,Domestic,Conservative
+R080,Rebecca,Clark,50,Female,Southeast,Seafood,Foreign,Conservative
+R081,Riley,Anderson,26,Non-binary,Northeast,Italian,No Preference,Liberal
+R082,William,Thomas,34,Male,Pacific Northwest,Chinese,Domestic,Liberal
+R083,Deborah,White,39,Female,New England,Ethiopian,No Preference,Centrist
+R084,Elizabeth,Martin,31,Female,New England,Italian,No Preference,Conservative
+R085,Betty,Sanchez,43,Female,Southeast,Sushi,Domestic,Conservative
+R086,Timothy,Martin,94,Male,Southeast,Sushi,Domestic,Conservative
+R087,Daniel,Jones,82,Male,Mid-Atlantic,Italian,No Preference,Centrist
+R088,Daniel,Green,76,Male,Midwest,Southern/Soul Food,Foreign,Conservative
+R089,Donna,Wright,79,Female,Pacific Northwest,Southern/Soul Food,Domestic,Conservative
+R090,Joseph,Garcia,53,Male,Pacific Northwest,Greek,Domestic,Conservative
+R091,Lisa,Johnson,81,Female,Mid-Atlantic,Indian,Domestic,Conservative
+R092,Thomas,Hill,53,Male,Deep South,Italian,Domestic,Liberal
+R093,Anthony,Young,89,Male,Southwest,Seafood,Domestic,Conservative
+R094,Jennifer,Jackson,46,Female,Mountain West,Greek,Foreign,Conservative
+R095,Steven,Thompson,72,Male,Deep South,Korean,Foreign,Conservative
+R096,Joseph,Davis,42,Male,Mid-Atlantic,Chinese,Domestic,Centrist
+R097,Susan,Wilson,79,Female,West,Sushi,No Preference,Conservative
+R098,Michael,Gonzalez,55,Male,Southwest,Vietnamese,Foreign,Liberal
+R099,Sarah,Williams,24,Female,Deep South,Mediterranean,Domestic,Liberal
+R100,Ashley,Miller,19,Female,New England,Mediterranean,Domestic,Conservative
