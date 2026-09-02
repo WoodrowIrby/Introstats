@@ -1,0 +1,322 @@
+Student ID,Gender,GPA,Favorite Music,Major,GPA in Major,Car,NonMajorStHrs,MajorStHrs,OffCampusWkHrs,OnCampusWkHrs,ParentsDegree
+S001,Male,3.25,Rock,Business,3.26,No,2,6,18,0,Yes
+S002,Female,3.08,Hip-Hop/Rap,Nursing,3.15,No,4,8,0,0,No
+S003,Male,3.68,Country,Education,3.83,Yes,6,10,12,8,Yes
+S004,Male,3.39,EDM/Electronic,Communications,3.57,Yes,0,9,0,0,No
+S005,Female,3.53,R&B,Business,3.43,Yes,3,9,0,0,Yes
+S006,Male,2.94,Alternative,Engineering,2.92,Yes,2,5,19,0,Yes
+S007,Male,2.78,Country,Biology,2.57,Yes,3,4,0,0,Yes
+S008,Male,2.98,Country,Business,2.89,Yes,4,5,0,0,Yes
+S009,Female,2.96,Hip-Hop/Rap,Psychology,2.82,Yes,3,2,16,0,Yes
+S010,Female,3.55,R&B,Kinesiology,3.35,Yes,4,3,0,8,Yes
+S011,Female,3.44,Hip-Hop/Rap,Biology,3.58,Yes,2,3,21,0,No
+S012,Male,3.03,R&B,Nursing,3.12,Yes,1,3,22,0,Yes
+S013,Male,3.75,EDM/Electronic,Communications,3.99,Yes,7,10,0,14,No
+S014,Male,3.79,Pop,Psychology,3.83,Yes,4,12,0,11,Yes
+S015,Female,3.20,Country,Communications,3.40,No,2,4,25,10,Yes
+S016,Female,2.75,Pop,Nursing,2.40,Yes,1,2,27,0,Yes
+S017,Male,3.88,R&B,Education,4.00,Yes,9,12,0,0,Yes
+S018,Female,3.12,Pop,Psychology,3.18,Yes,3,5,0,13,No
+S019,Male,3.20,Classical,Nursing,3.28,No,4,6,18,0,No
+S020,Male,3.01,Pop,Communications,3.14,Yes,6,5,0,0,No
+S021,Male,2.85,Jazz,Nursing,2.64,No,3,7,0,11,Yes
+S022,Female,2.60,Alternative,Business,2.35,No,1,3,13,0,Yes
+S023,Male,3.42,Country,Psychology,3.32,Yes,3,3,8,11,No
+S024,Male,2.89,Alternative,Biology,2.94,Yes,1,3,19,0,Yes
+S025,Male,4.00,Alternative,Computer Science,4.00,Yes,7,13,0,0,Yes
+S026,Female,2.76,Classical,Criminal Justice,2.53,No,3,3,0,12,Yes
+S027,Female,2.62,Hip-Hop/Rap,Nursing,2.41,Yes,3,4,0,0,No
+S028,Female,3.36,Country,Psychology,3.26,No,2,7,0,0,No
+S029,Female,3.79,Pop,Business,3.75,Yes,3,5,0,0,No
+S030,Male,3.18,Country,Education,2.98,Yes,8,6,0,0,No
+S031,Male,3.46,Pop,Criminal Justice,3.22,Yes,4,2,0,0,Yes
+S032,Male,2.38,Country,Biology,2.18,Yes,0,0,0,11,No
+S033,Female,2.94,Country,Education,3.01,Yes,6,8,0,0,Yes
+S034,Female,2.58,Rock,Psychology,2.40,Yes,1,1,21,0,No
+S035,Female,2.42,Country,Kinesiology,2.41,No,3,2,0,0,Yes
+S036,Female,3.20,Alternative,Engineering,3.31,No,3,7,0,0,No
+S037,Female,2.16,Alternative,Business,1.95,Yes,0,0,29,0,Yes
+S038,Female,2.66,Rock,Psychology,2.65,Yes,2,4,0,7,Yes
+S039,Female,2.99,Country,Business,3.19,Yes,0,6,11,0,Yes
+S040,Male,2.87,Classical,Nursing,2.76,No,2,0,18,12,Yes
+S041,Female,3.39,Pop,Business,3.31,Yes,5,6,0,0,Yes
+S042,Male,3.28,Pop,Engineering,3.41,No,7,5,12,0,No
+S043,Male,3.60,Pop,Education,3.59,Yes,5,3,0,0,Yes
+S044,Female,3.47,R&B,Psychology,3.70,Yes,0,5,0,0,No
+S045,Male,3.70,Rock,Engineering,3.70,Yes,5,12,0,0,Yes
+S046,Male,3.15,Alternative,Criminal Justice,3.11,Yes,9,6,8,0,No
+S047,Female,3.23,R&B,Computer Science,3.28,No,4,0,25,0,Yes
+S048,Female,3.24,Hip-Hop/Rap,Education,3.35,Yes,1,0,21,0,No
+S049,Male,3.21,EDM/Electronic,Nursing,3.36,Yes,4,5,14,10,No
+S050,Female,3.05,Alternative,Kinesiology,2.96,No,2,9,0,11,Yes
+S051,Female,3.01,Hip-Hop/Rap,Nursing,2.99,No,1,4,0,0,No
+S052,Female,2.88,Hip-Hop/Rap,Psychology,2.90,No,1,6,18,0,Yes
+S053,Male,3.40,Hip-Hop/Rap,Kinesiology,3.54,Yes,4,8,0,0,Yes
+S054,Male,3.11,Pop,Engineering,2.85,Yes,0,6,0,12,No
+S055,Male,2.87,Pop,Computer Science,3.01,No,0,0,17,0,No
+S056,Male,2.82,Classical,Education,2.95,Yes,1,5,23,0,Yes
+S057,Female,2.71,Rock,Biology,2.42,Yes,2,2,0,0,Yes
+S058,Male,3.56,Rock,Nursing,3.75,No,5,10,0,11,No
+S059,Female,3.18,R&B,Nursing,3.55,Yes,1,4,10,0,No
+S060,Female,2.79,Country,Psychology,3.00,Yes,4,5,0,0,No
+S061,Male,3.56,Classical,Business,3.84,No,2,9,0,14,Yes
+S062,Female,2.91,Alternative,Communications,2.99,Yes,6,5,0,0,No
+S063,Male,2.51,Rock,Nursing,2.18,Yes,0,1,22,0,Yes
+S064,Male,3.58,Hip-Hop/Rap,Education,3.30,Yes,2,5,3,13,No
+S065,Male,2.99,Other,Computer Science,3.00,Yes,4,3,0,9,Yes
+S066,Male,2.98,R&B,Computer Science,2.83,Yes,5,6,19,0,No
+S067,Male,3.24,Jazz,Engineering,3.00,No,4,8,0,0,Yes
+S068,Female,3.70,Pop,Engineering,3.61,No,6,6,0,13,Yes
+S069,Female,3.04,EDM/Electronic,Criminal Justice,3.17,Yes,2,5,24,0,No
+S070,Female,2.72,Country,Biology,2.41,Yes,0,1,0,0,Yes
+S071,Female,3.38,Pop,Computer Science,3.26,No,3,3,0,0,No
+S072,Female,3.02,Country,Kinesiology,3.30,Yes,1,9,0,0,Yes
+S073,Male,3.94,R&B,Computer Science,3.71,Yes,3,4,0,0,No
+S074,Female,3.22,Pop,Nursing,3.35,Yes,5,9,0,0,Yes
+S075,Female,2.28,Rock,Education,2.24,Yes,0,1,0,0,Yes
+S076,Female,3.37,Alternative,Business,3.49,Yes,5,6,0,0,Yes
+S077,Female,4.00,Hip-Hop/Rap,Biology,4.00,Yes,3,10,0,0,Yes
+S078,Male,3.88,Rock,Criminal Justice,4.00,Yes,6,10,0,0,Yes
+S079,Male,3.92,Rock,Engineering,4.00,Yes,4,7,3,14,No
+S080,Male,2.72,Hip-Hop/Rap,Engineering,2.43,Yes,5,4,9,0,No
+S081,Male,3.41,Classical,Business,3.63,Yes,3,5,31,0,No
+S082,Female,2.92,Alternative,Criminal Justice,2.79,Yes,6,1,0,13,Yes
+S083,Male,3.31,Pop,Business,3.38,Yes,3,6,0,7,Yes
+S084,Female,2.69,Other,Business,2.76,Yes,3,7,0,0,Yes
+S085,Female,2.88,EDM/Electronic,Nursing,2.94,Yes,1,9,0,9,No
+S086,Female,2.87,Hip-Hop/Rap,Business,2.95,Yes,2,7,0,0,No
+S087,Male,3.60,EDM/Electronic,Engineering,3.37,Yes,4,4,0,14,Yes
+S088,Female,3.37,Pop,Engineering,3.05,No,1,4,21,0,No
+S089,Female,3.34,Other,Psychology,3.53,Yes,2,9,0,0,Yes
+S090,Female,2.65,R&B,Business,2.70,No,0,6,0,0,Yes
+S091,Female,3.09,R&B,Business,3.32,No,0,8,0,12,Yes
+S092,Male,2.79,Pop,Psychology,2.81,Yes,0,3,25,4,Yes
+S093,Female,3.52,EDM/Electronic,Business,3.29,Yes,6,6,0,0,No
+S094,Female,3.64,Pop,Biology,3.76,No,2,7,0,0,No
+S095,Female,3.66,Hip-Hop/Rap,Nursing,3.56,Yes,2,2,0,0,Yes
+S096,Male,2.90,Pop,Psychology,2.99,Yes,7,6,0,7,Yes
+S097,Female,2.00,Alternative,Psychology,1.91,Yes,0,1,0,2,No
+S098,Female,2.29,Pop,Psychology,2.62,Yes,0,2,26,6,No
+S099,Female,3.75,Classical,Business,3.61,Yes,6,4,0,0,No
+S100,Male,3.05,R&B,Business,3.01,No,5,7,0,0,Yes
+S101,Male,2.83,Pop,Communications,2.91,No,0,10,0,0,No
+S102,Male,3.91,Pop,Business,3.73,Yes,4,7,14,0,Yes
+S103,Female,3.68,Pop,Engineering,3.66,Yes,2,7,0,0,No
+S104,Male,3.23,Country,Engineering,3.44,Yes,9,8,0,0,Yes
+S105,Male,3.03,Alternative,Psychology,2.97,No,0,9,12,15,No
+S106,Male,3.16,Hip-Hop/Rap,Engineering,3.15,Yes,2,3,0,0,Yes
+S107,Female,3.32,EDM/Electronic,Computer Science,2.79,No,2,5,0,0,Yes
+S108,Female,3.82,Pop,Communications,3.87,No,2,6,0,0,No
+S109,Female,3.33,Alternative,Nursing,3.24,Yes,7,5,0,14,No
+S110,Male,3.40,Classical,Psychology,3.28,Yes,7,3,32,0,Yes
+S111,Female,3.64,Alternative,Nursing,3.80,No,4,12,0,0,No
+S112,Female,2.54,R&B,Engineering,2.40,Yes,0,4,27,9,No
+S113,Female,3.54,EDM/Electronic,Biology,3.46,Yes,0,8,0,0,Yes
+S114,Male,3.10,Pop,Nursing,3.00,No,3,4,0,0,Yes
+S115,Female,2.16,Hip-Hop/Rap,Psychology,1.84,Yes,1,7,0,0,Yes
+S116,Male,2.14,Pop,Kinesiology,1.95,Yes,0,0,28,0,No
+S117,Male,2.79,Rock,Business,2.98,Yes,2,2,18,0,Yes
+S118,Male,3.44,Alternative,Engineering,2.98,Yes,5,0,0,0,Yes
+S119,Female,3.20,Country,Biology,3.01,No,4,9,0,0,No
+S120,Male,3.23,EDM/Electronic,Business,3.18,Yes,3,8,0,8,No
+S121,Male,3.85,Pop,Business,4.00,Yes,2,13,21,0,No
+S122,Male,2.50,R&B,Business,2.66,Yes,1,0,34,0,No
+S123,Female,3.14,Pop,Kinesiology,3.05,No,4,9,0,11,No
+S124,Female,3.16,Hip-Hop/Rap,Business,3.41,Yes,4,5,21,0,No
+S125,Female,2.84,R&B,Nursing,2.68,No,4,6,0,0,No
+S126,Female,3.23,Other,Business,3.43,Yes,1,3,0,5,Yes
+S127,Female,2.55,Country,Business,2.33,No,0,4,18,0,Yes
+S128,Female,3.81,Pop,Education,4.00,No,4,11,0,0,Yes
+S129,Female,2.74,Country,Nursing,2.64,No,0,1,22,0,No
+S130,Male,4.00,Pop,Education,3.86,No,7,10,0,0,Yes
+S131,Female,3.21,EDM/Electronic,Education,3.22,Yes,4,4,0,0,Yes
+S132,Male,3.58,R&B,Communications,3.69,No,7,6,0,0,No
+S133,Male,3.08,Pop,Business,3.01,Yes,3,1,25,5,Yes
+S134,Female,3.21,Pop,Communications,3.37,Yes,4,2,0,2,Yes
+S135,Male,2.90,Pop,Education,2.85,No,5,7,0,0,No
+S136,Female,3.20,Other,Business,3.33,No,3,7,20,6,No
+S137,Male,3.35,Rock,Computer Science,3.39,Yes,3,3,18,0,Yes
+S138,Female,2.89,Alternative,Communications,2.94,Yes,5,4,15,7,Yes
+S139,Male,3.17,Country,Nursing,3.06,Yes,4,5,0,0,Yes
+S140,Female,2.89,Country,Kinesiology,2.93,Yes,2,6,0,0,No
+S141,Female,4.00,Pop,Engineering,4.00,Yes,4,7,0,0,No
+S142,Female,3.18,Classical,Education,3.60,Yes,5,5,0,0,Yes
+S143,Male,3.80,Hip-Hop/Rap,Criminal Justice,3.99,Yes,8,12,0,5,No
+S144,Male,3.14,Country,Psychology,3.35,Yes,3,6,0,0,Yes
+S145,Female,3.33,R&B,Computer Science,3.85,No,7,13,0,0,Yes
+S146,Female,2.60,R&B,Psychology,2.72,Yes,0,4,0,0,No
+S147,Female,3.03,Classical,Computer Science,3.08,No,2,1,17,7,Yes
+S148,Female,3.31,Pop,Education,3.49,Yes,4,10,0,0,Yes
+S149,Female,3.89,Rock,Nursing,3.68,Yes,4,9,0,0,Yes
+S150,Female,3.24,Rock,Psychology,3.19,Yes,7,6,17,0,No
+S151,Male,3.73,Rock,Psychology,3.67,Yes,5,11,0,0,No
+S152,Male,3.30,Pop,Business,3.44,No,1,2,29,6,No
+S153,Female,3.90,Pop,Business,3.89,Yes,6,8,0,0,Yes
+S154,Male,3.20,Hip-Hop/Rap,Psychology,3.25,Yes,0,6,0,15,Yes
+S155,Female,4.00,Hip-Hop/Rap,Business,4.00,No,4,6,0,0,No
+S156,Male,3.02,Rock,Business,3.20,No,4,3,18,11,Yes
+S157,Female,2.83,Country,Biology,2.75,Yes,0,5,19,0,No
+S158,Male,2.64,Country,Biology,2.47,Yes,0,2,10,10,No
+S159,Male,4.00,Rock,Computer Science,4.00,Yes,8,5,3,0,Yes
+S160,Male,3.49,Rock,Psychology,3.66,Yes,6,2,19,11,No
+S161,Female,3.08,Hip-Hop/Rap,Kinesiology,2.80,Yes,3,6,20,0,Yes
+S162,Male,3.74,Country,Education,3.73,Yes,4,8,0,0,Yes
+S163,Female,3.39,Hip-Hop/Rap,Business,3.44,No,2,2,29,0,Yes
+S164,Female,3.93,Pop,Business,4.00,Yes,2,5,29,0,Yes
+S165,Male,2.50,Rock,Biology,2.61,Yes,0,0,0,0,No
+S166,Female,3.04,Rock,Nursing,3.06,Yes,1,9,0,0,No
+S167,Male,2.96,Hip-Hop/Rap,Engineering,2.99,No,2,4,0,0,No
+S168,Male,2.32,Country,Criminal Justice,2.35,Yes,0,6,0,10,No
+S169,Female,3.67,Country,Business,3.57,No,2,7,0,0,Yes
+S170,Male,3.11,R&B,Business,3.08,No,4,9,0,0,Yes
+S171,Female,3.46,R&B,Criminal Justice,3.48,Yes,5,8,0,14,No
+S172,Female,4.00,R&B,Education,4.00,Yes,9,11,0,0,No
+S173,Female,3.07,Hip-Hop/Rap,Business,2.75,Yes,2,6,0,4,Yes
+S174,Male,3.04,Alternative,Kinesiology,2.98,Yes,3,5,10,5,Yes
+S175,Female,3.27,Country,Communications,3.34,No,5,7,0,0,Yes
+S176,Female,3.63,Rock,Engineering,3.50,Yes,3,5,17,8,Yes
+S177,Female,2.91,Country,Education,2.92,No,5,9,0,0,No
+S178,Male,2.95,Hip-Hop/Rap,Nursing,3.01,Yes,4,1,16,0,Yes
+S179,Male,3.59,Rock,Business,3.42,Yes,5,6,3,0,No
+S180,Male,3.19,R&B,Education,2.95,Yes,2,3,22,0,No
+S181,Male,2.29,EDM/Electronic,Nursing,2.20,Yes,1,3,0,0,No
+S182,Male,2.71,Classical,Biology,2.80,Yes,0,1,18,0,Yes
+S183,Female,3.85,Rock,Communications,4.00,Yes,4,10,0,0,Yes
+S184,Female,3.32,Country,Business,3.48,Yes,3,6,0,5,No
+S185,Male,2.71,Alternative,Education,2.50,No,0,0,24,0,No
+S186,Male,3.15,Hip-Hop/Rap,Nursing,3.08,Yes,5,5,0,0,Yes
+S187,Female,3.16,EDM/Electronic,Communications,3.27,No,5,2,14,10,No
+S188,Female,3.41,Rock,Nursing,3.41,Yes,1,0,23,0,Yes
+S189,Male,2.58,Pop,Education,2.73,Yes,3,4,0,11,No
+S190,Female,2.87,Pop,Education,2.75,Yes,1,5,0,0,Yes
+S191,Male,3.21,EDM/Electronic,Psychology,3.25,Yes,2,5,23,10,Yes
+S192,Female,3.18,Pop,Biology,3.21,Yes,2,7,0,9,Yes
+S193,Female,3.46,Hip-Hop/Rap,Biology,3.56,Yes,4,1,18,9,Yes
+S194,Male,2.70,Hip-Hop/Rap,Education,2.60,No,1,0,0,12,Yes
+S195,Female,3.37,Pop,Computer Science,3.27,Yes,6,11,0,9,Yes
+S196,Female,3.68,Hip-Hop/Rap,Criminal Justice,3.21,Yes,4,3,0,4,Yes
+S197,Male,3.35,Alternative,Psychology,3.27,Yes,3,8,0,8,No
+S198,Male,3.28,Pop,Engineering,3.11,Yes,1,3,12,9,Yes
+S199,Female,3.11,Alternative,Business,2.95,Yes,4,5,0,0,No
+S200,Female,2.80,EDM/Electronic,Computer Science,2.79,Yes,5,3,0,0,No
+S201,Male,3.19,Hip-Hop/Rap,Engineering,3.10,Yes,4,7,0,0,Yes
+S202,Male,3.75,Pop,Psychology,3.37,Yes,9,6,13,0,Yes
+S203,Female,3.10,Country,Business,3.16,No,6,5,0,10,No
+S204,Female,2.78,Pop,Communications,2.67,Yes,2,1,0,14,No
+S205,Female,2.89,Hip-Hop/Rap,Psychology,3.01,No,1,3,25,2,Yes
+S206,Female,3.23,Jazz,Biology,2.95,Yes,3,0,20,0,No
+S207,Female,3.06,Other,Business,3.09,Yes,2,6,0,0,Yes
+S208,Male,3.42,Alternative,Criminal Justice,3.39,No,7,13,0,0,Yes
+S209,Female,3.37,Hip-Hop/Rap,Nursing,3.39,Yes,4,9,6,0,No
+S210,Female,3.59,R&B,Nursing,3.58,No,5,9,0,0,Yes
+S211,Male,3.75,R&B,Communications,3.76,Yes,6,8,0,0,No
+S212,Male,3.64,Rock,Kinesiology,3.37,Yes,8,2,0,0,Yes
+S213,Female,2.76,R&B,Nursing,2.46,No,3,0,0,0,No
+S214,Male,2.84,Pop,Engineering,2.65,Yes,3,7,0,0,Yes
+S215,Male,3.19,Hip-Hop/Rap,Computer Science,3.15,Yes,7,4,0,0,Yes
+S216,Male,3.03,Country,Communications,2.98,Yes,5,3,0,0,Yes
+S217,Female,2.74,Pop,Psychology,2.88,Yes,2,4,0,0,Yes
+S218,Female,2.96,Pop,Engineering,2.83,No,3,2,0,0,No
+S219,Male,3.02,EDM/Electronic,Computer Science,2.81,Yes,4,1,0,0,Yes
+S220,Female,2.94,Other,Computer Science,2.85,Yes,4,4,0,0,Yes
+S221,Female,3.09,Country,Computer Science,3.09,No,0,2,14,19,Yes
+S222,Female,3.71,EDM/Electronic,Education,3.82,Yes,2,6,0,0,Yes
+S223,Male,3.23,Other,Business,3.59,No,2,5,0,0,No
+S224,Male,4.00,Pop,Kinesiology,3.89,Yes,4,10,0,12,Yes
+S225,Female,3.22,Rock,Communications,3.27,Yes,3,5,0,0,No
+S226,Male,3.10,Rock,Computer Science,3.14,No,5,5,0,2,Yes
+S227,Female,3.15,Pop,Business,3.17,Yes,3,7,0,0,No
+S228,Male,3.33,Alternative,Nursing,3.21,Yes,4,5,0,0,Yes
+S229,Male,3.28,Rock,Computer Science,2.96,Yes,0,2,26,0,Yes
+S230,Female,3.90,Rock,Business,3.83,No,2,6,33,0,No
+S231,Female,2.79,Pop,Criminal Justice,2.62,No,3,4,14,8,No
+S232,Female,3.51,Pop,Psychology,3.23,Yes,5,4,18,12,No
+S233,Male,3.31,EDM/Electronic,Biology,3.12,Yes,3,6,0,0,Yes
+S234,Male,2.56,Pop,Communications,2.43,No,2,1,0,7,Yes
+S235,Male,3.47,Hip-Hop/Rap,Psychology,3.61,Yes,9,5,0,0,No
+S236,Male,3.75,Hip-Hop/Rap,Psychology,3.89,Yes,4,9,11,9,Yes
+S237,Female,2.79,Rock,Education,2.68,Yes,1,5,0,0,No
+S238,Male,3.22,Country,Education,3.22,Yes,2,5,16,0,Yes
+S239,Female,2.50,Rock,Psychology,2.20,No,2,3,0,0,Yes
+S240,Female,2.62,Pop,Education,2.58,No,1,2,11,10,No
+S241,Male,3.59,Hip-Hop/Rap,Kinesiology,3.67,Yes,5,9,0,0,No
+S242,Male,2.90,EDM/Electronic,Engineering,2.97,Yes,0,5,25,0,Yes
+S243,Female,2.75,Country,Nursing,2.59,Yes,1,6,0,0,Yes
+S244,Female,3.25,R&B,Psychology,3.47,Yes,4,7,0,0,No
+S245,Male,3.00,R&B,Psychology,2.76,Yes,3,8,0,0,Yes
+S246,Male,3.02,Alternative,Business,2.82,Yes,1,4,11,13,Yes
+S247,Male,3.53,Pop,Business,3.68,Yes,4,9,0,0,Yes
+S248,Female,2.66,Hip-Hop/Rap,Biology,2.91,Yes,3,5,0,6,No
+S249,Female,2.77,Country,Psychology,2.89,Yes,4,5,0,0,No
+S250,Female,3.28,Hip-Hop/Rap,Criminal Justice,3.29,Yes,4,4,0,0,Yes
+S251,Male,3.63,EDM/Electronic,Nursing,3.20,Yes,6,8,0,0,Yes
+S252,Male,3.62,Rock,Business,3.28,Yes,2,11,23,0,Yes
+S253,Female,2.82,Alternative,Computer Science,2.80,No,2,1,24,13,Yes
+S254,Female,3.61,EDM/Electronic,Communications,3.61,No,5,6,14,0,Yes
+S255,Female,2.89,Rock,Nursing,2.66,No,4,1,15,0,Yes
+S256,Male,3.92,EDM/Electronic,Nursing,3.90,Yes,7,7,0,0,No
+S257,Male,2.74,Country,Nursing,2.73,No,4,8,0,0,Yes
+S258,Female,3.78,EDM/Electronic,Engineering,3.87,Yes,5,7,0,20,Yes
+S259,Female,2.94,Hip-Hop/Rap,Engineering,2.88,Yes,4,3,0,0,Yes
+S260,Male,4.00,Rock,Nursing,4.00,Yes,8,5,0,7,No
+S261,Female,3.40,Country,Business,3.42,Yes,3,5,0,0,No
+S262,Male,2.79,Pop,Engineering,2.69,Yes,1,0,0,0,Yes
+S263,Female,2.93,Rock,Criminal Justice,3.14,Yes,3,7,5,15,No
+S264,Female,3.55,Classical,Biology,3.32,No,5,13,0,0,Yes
+S265,Male,3.66,Country,Engineering,4.00,Yes,3,8,0,11,Yes
+S266,Female,3.12,Pop,Business,3.21,Yes,2,0,17,0,No
+S267,Female,3.24,Hip-Hop/Rap,Nursing,3.28,Yes,4,8,0,0,Yes
+S268,Female,3.54,Pop,Nursing,3.60,Yes,0,6,0,9,Yes
+S269,Female,3.21,Pop,Computer Science,3.51,Yes,3,10,0,0,No
+S270,Female,2.68,Classical,Communications,2.88,Yes,2,4,0,0,Yes
+S271,Female,2.81,Rock,Kinesiology,2.53,Yes,2,2,0,7,No
+S272,Female,3.20,Hip-Hop/Rap,Criminal Justice,3.47,No,5,4,23,0,Yes
+S273,Female,3.73,Country,Criminal Justice,3.69,No,1,8,18,15,Yes
+S274,Male,3.90,Pop,Criminal Justice,3.94,Yes,4,8,0,0,Yes
+S275,Male,3.55,Hip-Hop/Rap,Business,3.34,Yes,0,5,0,6,Yes
+S276,Female,3.34,R&B,Business,3.45,No,3,6,0,0,Yes
+S277,Female,3.53,Country,Psychology,3.44,No,4,4,0,0,Yes
+S278,Female,2.87,Other,Education,2.94,Yes,2,6,0,12,No
+S279,Male,3.16,Country,Business,3.13,No,6,1,0,0,Yes
+S280,Male,2.87,Rock,Communications,3.28,No,4,5,4,0,Yes
+S281,Female,2.70,Alternative,Education,3.11,No,1,5,19,0,Yes
+S282,Female,3.24,EDM/Electronic,Education,3.30,Yes,2,5,23,0,Yes
+S283,Female,3.30,R&B,Business,3.33,Yes,5,6,16,8,Yes
+S284,Female,3.44,Jazz,Nursing,3.34,Yes,4,6,0,13,No
+S285,Male,3.45,Alternative,Business,3.67,Yes,3,11,0,0,Yes
+S286,Female,3.25,EDM/Electronic,Communications,3.25,Yes,0,6,20,0,No
+S287,Female,3.38,Pop,Education,3.35,Yes,3,8,0,0,No
+S288,Female,3.20,R&B,Computer Science,3.34,Yes,5,9,0,0,Yes
+S289,Female,3.39,Rock,Nursing,3.26,Yes,8,6,17,0,Yes
+S290,Female,2.92,Country,Psychology,2.94,No,2,2,19,2,Yes
+S291,Male,3.19,R&B,Psychology,2.94,Yes,1,0,24,10,No
+S292,Female,3.50,Jazz,Computer Science,3.59,Yes,2,8,0,0,Yes
+S293,Male,2.87,Other,Computer Science,3.18,No,3,5,18,0,No
+S294,Female,3.05,Hip-Hop/Rap,Nursing,3.15,No,0,6,24,0,No
+S295,Male,2.89,R&B,Kinesiology,3.16,No,3,2,13,0,No
+S296,Male,3.00,Alternative,Business,2.87,No,5,2,0,0,Yes
+S297,Male,2.68,Hip-Hop/Rap,Kinesiology,2.73,No,2,4,13,0,No
+S298,Male,3.75,Pop,Business,3.60,Yes,5,7,0,7,Yes
+S299,Male,3.55,Pop,Nursing,3.48,Yes,4,0,33,0,Yes
+S300,Male,3.45,Alternative,Communications,3.65,Yes,5,9,0,12,Yes
+S301,Male,3.98,Rock,Nursing,3.97,Yes,4,4,0,0,No
+S302,Female,3.14,Other,Psychology,2.92,No,7,2,0,12,Yes
+S303,Female,4.00,Rock,Engineering,3.68,Yes,3,8,27,3,No
+S304,Female,3.12,Jazz,Nursing,2.84,Yes,5,9,0,0,Yes
+S305,Male,3.26,Rock,Biology,3.30,Yes,0,3,0,0,No
+S306,Female,2.93,Alternative,Communications,3.36,Yes,4,3,25,0,Yes
+S307,Female,3.26,Pop,Communications,3.57,Yes,5,5,21,9,Yes
+S308,Male,3.50,Country,Psychology,3.19,Yes,5,10,0,0,No
+S309,Female,3.17,Alternative,Engineering,3.35,No,5,5,0,0,Yes
+S310,Female,3.85,Classical,Nursing,3.99,Yes,5,5,29,0,Yes
+S311,Female,3.13,Alternative,Nursing,2.82,No,1,6,21,2,No
+S312,Female,3.33,Pop,Business,3.30,Yes,5,5,0,0,Yes
+S313,Female,2.84,Hip-Hop/Rap,Kinesiology,3.05,Yes,1,7,0,0,Yes
+S314,Female,3.40,Pop,Communications,3.56,Yes,3,4,0,0,Yes
+S315,Female,3.16,Pop,Computer Science,2.88,No,6,4,0,0,Yes
+S316,Female,2.89,R&B,Engineering,2.92,Yes,5,1,0,5,No
+S317,Female,2.70,R&B,Engineering,2.24,No,0,0,24,0,No
+S318,Male,4.00,Alternative,Engineering,3.88,Yes,4,11,0,9,Yes
+S319,Female,3.11,EDM/Electronic,Engineering,3.23,Yes,1,4,14,0,Yes
+S320,Male,2.61,R&B,Engineering,2.53,No,3,1,18,10,Yes
+S321,Male,2.74,Alternative,Business,2.67,Yes,0,0,28,14,No
