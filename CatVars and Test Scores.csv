@@ -1,0 +1,318 @@
+Student ID,Test Score,Tutoring,Sleep (night before),Class Period,Study Method,Extracurricular
+1,89,No,6-8 hrs,2nd,Practice problems,One activity
+2,91,Yes,6-8 hrs,2nd,Practice problems,One activity
+3,82,No,>8 hrs,7th,Practice problems,Two or more
+4,77,No,>8 hrs,7th,Reread notes,One activity
+5,80,Yes,6-8 hrs,7th,Reread notes,One activity
+6,61,No,6-8 hrs,7th,Reread notes,One activity
+7,73,No,6-8 hrs,7th,Flashcards,None
+8,86,No,>8 hrs,7th,Flashcards,None
+9,81,Yes,6-8 hrs,2nd,Flashcards,None
+10,70,No,>8 hrs,2nd,Flashcards,None
+11,73,Yes,6-8 hrs,5th,Flashcards,Two or more
+12,74,No,6-8 hrs,7th,Practice problems,One activity
+13,66,No,6-8 hrs,2nd,Practice problems,One activity
+14,62,No,>8 hrs,5th,Reread notes,One activity
+15,91,Yes,<6 hrs,7th,Flashcards,One activity
+16,89,Yes,6-8 hrs,2nd,Reread notes,One activity
+17,94,No,>8 hrs,5th,Practice problems,Two or more
+18,59,Yes,<6 hrs,7th,Flashcards,Two or more
+19,81,No,6-8 hrs,7th,Practice problems,One activity
+20,94,No,<6 hrs,2nd,Practice problems,None
+21,82,No,6-8 hrs,7th,Practice problems,One activity
+22,87,Yes,<6 hrs,5th,Practice problems,One activity
+23,60,No,>8 hrs,7th,Reread notes,One activity
+24,98,No,<6 hrs,2nd,Practice problems,One activity
+25,54,No,>8 hrs,5th,Flashcards,One activity
+26,94,Yes,>8 hrs,5th,Flashcards,None
+27,71,No,6-8 hrs,2nd,Flashcards,One activity
+28,100,Yes,>8 hrs,7th,Flashcards,One activity
+29,100,Yes,>8 hrs,2nd,Practice problems,None
+30,32,No,>8 hrs,2nd,Reread notes,None
+31,66,No,<6 hrs,5th,Reread notes,Two or more
+32,63,No,6-8 hrs,7th,Flashcards,One activity
+33,100,Yes,<6 hrs,7th,Flashcards,None
+34,82,Yes,6-8 hrs,7th,Practice problems,One activity
+35,58,No,<6 hrs,2nd,Reread notes,Two or more
+36,100,Yes,6-8 hrs,5th,Practice problems,None
+37,96,Yes,6-8 hrs,2nd,Practice problems,Two or more
+38,84,No,6-8 hrs,5th,Practice problems,Two or more
+39,76,Yes,6-8 hrs,7th,Reread notes,One activity
+40,90,No,>8 hrs,7th,Flashcards,One activity
+41,81,Yes,>8 hrs,5th,Reread notes,None
+42,55,No,6-8 hrs,5th,Reread notes,Two or more
+43,93,No,6-8 hrs,7th,Practice problems,One activity
+44,70,Yes,>8 hrs,5th,Reread notes,Two or more
+45,82,No,<6 hrs,2nd,Flashcards,One activity
+46,67,No,<6 hrs,5th,Flashcards,None
+47,62,Yes,<6 hrs,2nd,Practice problems,None
+48,84,Yes,6-8 hrs,2nd,Reread notes,Two or more
+49,77,No,6-8 hrs,2nd,Practice problems,One activity
+50,100,Yes,>8 hrs,5th,Practice problems,None
+51,97,Yes,6-8 hrs,5th,Flashcards,Two or more
+52,84,Yes,6-8 hrs,5th,Practice problems,Two or more
+53,96,No,>8 hrs,5th,Practice problems,One activity
+54,72,No,>8 hrs,7th,Flashcards,One activity
+55,74,No,<6 hrs,7th,Practice problems,None
+56,72,No,6-8 hrs,5th,Reread notes,Two or more
+57,98,No,6-8 hrs,2nd,Practice problems,One activity
+58,71,No,<6 hrs,7th,Flashcards,Two or more
+59,75,Yes,<6 hrs,2nd,Flashcards,One activity
+60,92,Yes,>8 hrs,2nd,Flashcards,One activity
+61,73,No,6-8 hrs,7th,Flashcards,None
+62,76,No,6-8 hrs,5th,Flashcards,None
+63,76,No,6-8 hrs,7th,Reread notes,Two or more
+64,77,No,6-8 hrs,5th,Practice problems,One activity
+65,84,No,>8 hrs,5th,Practice problems,One activity
+66,66,No,>8 hrs,2nd,Flashcards,Two or more
+67,49,No,6-8 hrs,2nd,Reread notes,Two or more
+68,100,Yes,6-8 hrs,2nd,Practice problems,Two or more
+69,72,Yes,>8 hrs,2nd,Flashcards,None
+70,75,Yes,6-8 hrs,7th,Reread notes,One activity
+71,90,Yes,>8 hrs,2nd,Flashcards,Two or more
+72,100,Yes,<6 hrs,5th,Reread notes,One activity
+73,52,No,>8 hrs,7th,Flashcards,None
+74,88,Yes,6-8 hrs,7th,Flashcards,Two or more
+75,83,Yes,<6 hrs,5th,Practice problems,One activity
+76,80,Yes,6-8 hrs,5th,Reread notes,One activity
+77,87,Yes,6-8 hrs,7th,Practice problems,Two or more
+78,65,No,<6 hrs,7th,Flashcards,One activity
+79,76,No,6-8 hrs,7th,Flashcards,One activity
+80,75,No,>8 hrs,7th,Flashcards,One activity
+81,79,No,6-8 hrs,7th,Flashcards,One activity
+82,70,Yes,6-8 hrs,2nd,Flashcards,None
+83,85,No,6-8 hrs,5th,Reread notes,Two or more
+84,90,Yes,6-8 hrs,2nd,Flashcards,Two or more
+85,95,Yes,>8 hrs,5th,Flashcards,None
+86,83,Yes,>8 hrs,7th,Practice problems,None
+87,66,No,<6 hrs,5th,Flashcards,Two or more
+88,97,No,>8 hrs,5th,Flashcards,None
+89,99,Yes,>8 hrs,2nd,Practice problems,One activity
+90,85,No,6-8 hrs,7th,Practice problems,One activity
+91,84,Yes,>8 hrs,2nd,Flashcards,Two or more
+92,42,No,<6 hrs,2nd,Flashcards,None
+93,79,Yes,>8 hrs,2nd,Flashcards,One activity
+94,93,Yes,6-8 hrs,2nd,Practice problems,One activity
+95,96,Yes,6-8 hrs,5th,Practice problems,One activity
+96,63,No,<6 hrs,5th,Practice problems,None
+97,82,Yes,>8 hrs,2nd,Reread notes,One activity
+98,68,Yes,<6 hrs,2nd,Reread notes,One activity
+99,100,Yes,<6 hrs,2nd,Practice problems,None
+100,58,No,<6 hrs,5th,Flashcards,None
+101,85,No,>8 hrs,2nd,Practice problems,None
+102,82,No,<6 hrs,7th,Practice problems,One activity
+103,100,Yes,>8 hrs,2nd,Practice problems,None
+104,92,No,6-8 hrs,2nd,Practice problems,Two or more
+105,74,No,<6 hrs,5th,Flashcards,One activity
+106,65,No,<6 hrs,5th,Reread notes,Two or more
+107,99,Yes,<6 hrs,2nd,Practice problems,Two or more
+108,100,Yes,6-8 hrs,2nd,Flashcards,None
+109,85,Yes,>8 hrs,7th,Flashcards,One activity
+110,64,No,<6 hrs,2nd,Reread notes,Two or more
+111,70,No,>8 hrs,5th,Flashcards,One activity
+112,100,Yes,<6 hrs,5th,Practice problems,One activity
+113,67,Yes,>8 hrs,2nd,Flashcards,One activity
+114,92,No,>8 hrs,5th,Practice problems,None
+115,59,Yes,>8 hrs,7th,Reread notes,One activity
+116,100,No,6-8 hrs,7th,Practice problems,Two or more
+117,76,No,>8 hrs,2nd,Flashcards,Two or more
+118,96,No,<6 hrs,2nd,Practice problems,None
+119,100,Yes,<6 hrs,2nd,Flashcards,Two or more
+120,69,No,<6 hrs,5th,Reread notes,None
+121,80,No,6-8 hrs,7th,Flashcards,Two or more
+122,61,No,>8 hrs,2nd,Flashcards,None
+123,84,Yes,6-8 hrs,2nd,Reread notes,Two or more
+124,74,Yes,>8 hrs,7th,Reread notes,Two or more
+125,96,Yes,<6 hrs,2nd,Practice problems,None
+126,66,No,>8 hrs,5th,Flashcards,None
+127,77,Yes,<6 hrs,7th,Flashcards,Two or more
+128,85,Yes,<6 hrs,2nd,Flashcards,None
+129,100,Yes,6-8 hrs,2nd,Practice problems,One activity
+130,87,No,>8 hrs,2nd,Practice problems,Two or more
+131,71,Yes,6-8 hrs,7th,Reread notes,One activity
+132,83,No,<6 hrs,2nd,Reread notes,One activity
+133,59,No,6-8 hrs,2nd,Reread notes,One activity
+134,90,Yes,<6 hrs,2nd,Reread notes,None
+135,89,No,>8 hrs,2nd,Flashcards,Two or more
+136,69,Yes,6-8 hrs,5th,Reread notes,None
+137,49,No,<6 hrs,2nd,Reread notes,None
+138,85,No,<6 hrs,5th,Flashcards,None
+139,88,No,<6 hrs,5th,Flashcards,Two or more
+140,86,Yes,>8 hrs,7th,Practice problems,None
+141,80,No,6-8 hrs,2nd,Flashcards,Two or more
+142,89,No,>8 hrs,7th,Practice problems,Two or more
+143,82,No,6-8 hrs,5th,Practice problems,Two or more
+144,83,No,6-8 hrs,2nd,Flashcards,Two or more
+145,80,No,<6 hrs,7th,Flashcards,Two or more
+146,82,Yes,>8 hrs,7th,Practice problems,Two or more
+147,82,Yes,6-8 hrs,2nd,Reread notes,None
+148,75,No,6-8 hrs,7th,Reread notes,Two or more
+149,87,Yes,6-8 hrs,5th,Practice problems,One activity
+150,97,Yes,6-8 hrs,5th,Practice problems,One activity
+151,90,No,>8 hrs,7th,Practice problems,Two or more
+152,63,No,<6 hrs,5th,Reread notes,Two or more
+153,100,Yes,6-8 hrs,7th,Reread notes,Two or more
+154,75,No,6-8 hrs,2nd,Practice problems,One activity
+155,73,Yes,6-8 hrs,7th,Reread notes,One activity
+156,65,No,<6 hrs,5th,Practice problems,One activity
+157,97,Yes,<6 hrs,2nd,Practice problems,One activity
+158,78,No,<6 hrs,5th,Reread notes,One activity
+159,48,No,6-8 hrs,2nd,Practice problems,None
+160,84,No,6-8 hrs,2nd,Practice problems,None
+161,92,Yes,6-8 hrs,2nd,Flashcards,Two or more
+162,63,No,6-8 hrs,5th,Flashcards,One activity
+163,80,Yes,6-8 hrs,2nd,Reread notes,Two or more
+164,86,Yes,6-8 hrs,2nd,Reread notes,One activity
+165,89,No,<6 hrs,7th,Practice problems,None
+166,82,Yes,6-8 hrs,7th,Practice problems,None
+167,50,No,6-8 hrs,7th,Reread notes,None
+168,92,No,<6 hrs,2nd,Practice problems,Two or more
+169,82,Yes,6-8 hrs,7th,Reread notes,None
+170,83,No,6-8 hrs,5th,Flashcards,One activity
+171,100,Yes,<6 hrs,2nd,Practice problems,Two or more
+172,75,No,6-8 hrs,2nd,Reread notes,Two or more
+173,92,Yes,6-8 hrs,7th,Practice problems,None
+174,85,No,6-8 hrs,2nd,Flashcards,None
+175,74,Yes,6-8 hrs,5th,Flashcards,None
+176,99,Yes,6-8 hrs,7th,Flashcards,None
+177,80,Yes,6-8 hrs,2nd,Flashcards,None
+178,74,No,>8 hrs,2nd,Flashcards,One activity
+179,85,No,6-8 hrs,7th,Reread notes,Two or more
+180,79,No,6-8 hrs,5th,Reread notes,One activity
+181,100,No,6-8 hrs,2nd,Flashcards,One activity
+182,75,No,6-8 hrs,7th,Practice problems,None
+183,77,No,6-8 hrs,7th,Flashcards,Two or more
+184,75,Yes,>8 hrs,5th,Reread notes,One activity
+185,90,No,>8 hrs,5th,Practice problems,Two or more
+186,78,No,>8 hrs,2nd,Flashcards,Two or more
+187,90,Yes,6-8 hrs,2nd,Flashcards,One activity
+188,91,Yes,6-8 hrs,5th,Practice problems,None
+189,91,No,>8 hrs,2nd,Flashcards,None
+190,88,Yes,6-8 hrs,5th,Practice problems,One activity
+191,92,No,>8 hrs,7th,Reread notes,Two or more
+192,92,Yes,6-8 hrs,2nd,Reread notes,One activity
+193,90,Yes,<6 hrs,5th,Reread notes,Two or more
+194,79,No,<6 hrs,2nd,Flashcards,One activity
+195,97,Yes,>8 hrs,7th,Practice problems,None
+196,70,Yes,<6 hrs,2nd,Flashcards,None
+197,74,No,6-8 hrs,5th,Reread notes,One activity
+198,69,No,6-8 hrs,5th,Flashcards,Two or more
+199,73,Yes,<6 hrs,5th,Reread notes,One activity
+200,100,Yes,6-8 hrs,7th,Practice problems,None
+201,67,No,>8 hrs,7th,Reread notes,Two or more
+202,86,No,<6 hrs,5th,Practice problems,None
+203,87,No,>8 hrs,7th,Practice problems,Two or more
+204,97,Yes,>8 hrs,7th,Flashcards,None
+205,98,Yes,6-8 hrs,5th,Practice problems,None
+206,89,Yes,<6 hrs,5th,Practice problems,One activity
+207,96,Yes,6-8 hrs,2nd,Practice problems,One activity
+208,61,No,<6 hrs,7th,Flashcards,One activity
+209,83,Yes,6-8 hrs,5th,Reread notes,One activity
+210,80,No,>8 hrs,5th,Practice problems,Two or more
+211,75,No,>8 hrs,2nd,Flashcards,One activity
+212,90,No,>8 hrs,7th,Reread notes,One activity
+213,100,Yes,6-8 hrs,5th,Practice problems,One activity
+214,71,No,6-8 hrs,7th,Practice problems,None
+215,75,No,6-8 hrs,2nd,Reread notes,One activity
+216,69,No,6-8 hrs,7th,Reread notes,None
+217,71,Yes,6-8 hrs,2nd,Flashcards,One activity
+218,51,Yes,<6 hrs,2nd,Reread notes,None
+219,84,No,<6 hrs,7th,Practice problems,Two or more
+220,91,Yes,6-8 hrs,7th,Practice problems,One activity
+221,67,Yes,<6 hrs,2nd,Flashcards,Two or more
+222,76,No,<6 hrs,5th,Practice problems,One activity
+223,88,No,>8 hrs,7th,Reread notes,None
+224,77,No,>8 hrs,7th,Flashcards,Two or more
+225,95,Yes,6-8 hrs,5th,Reread notes,One activity
+226,71,No,>8 hrs,5th,Flashcards,Two or more
+227,94,Yes,>8 hrs,7th,Practice problems,One activity
+228,83,No,<6 hrs,7th,Practice problems,One activity
+229,89,No,6-8 hrs,7th,Practice problems,Two or more
+230,87,Yes,6-8 hrs,5th,Reread notes,One activity
+231,100,Yes,<6 hrs,2nd,Practice problems,One activity
+232,93,Yes,>8 hrs,7th,Practice problems,One activity
+233,88,No,6-8 hrs,7th,Practice problems,Two or more
+234,76,No,6-8 hrs,7th,Practice problems,Two or more
+235,92,No,<6 hrs,2nd,Reread notes,One activity
+236,88,No,<6 hrs,2nd,Practice problems,One activity
+237,62,No,>8 hrs,7th,Reread notes,Two or more
+238,85,No,<6 hrs,2nd,Practice problems,One activity
+239,83,Yes,<6 hrs,7th,Flashcards,Two or more
+240,76,Yes,6-8 hrs,5th,Flashcards,One activity
+241,87,No,6-8 hrs,7th,Practice problems,None
+242,86,No,6-8 hrs,7th,Reread notes,Two or more
+243,69,Yes,6-8 hrs,5th,Reread notes,None
+244,67,No,<6 hrs,2nd,Reread notes,None
+245,100,No,<6 hrs,5th,Practice problems,One activity
+246,64,No,>8 hrs,5th,Practice problems,Two or more
+247,72,No,6-8 hrs,5th,Flashcards,Two or more
+248,97,Yes,6-8 hrs,5th,Practice problems,None
+249,92,Yes,6-8 hrs,7th,Flashcards,None
+250,84,Yes,>8 hrs,5th,Flashcards,Two or more
+251,95,No,<6 hrs,2nd,Flashcards,None
+252,74,No,6-8 hrs,5th,Reread notes,None
+253,73,No,6-8 hrs,5th,Flashcards,None
+254,92,Yes,6-8 hrs,2nd,Practice problems,One activity
+255,95,Yes,>8 hrs,2nd,Practice problems,Two or more
+256,72,No,6-8 hrs,7th,Flashcards,Two or more
+257,75,No,>8 hrs,2nd,Flashcards,Two or more
+258,97,Yes,>8 hrs,7th,Practice problems,None
+259,88,Yes,6-8 hrs,2nd,Flashcards,One activity
+260,71,No,>8 hrs,2nd,Reread notes,One activity
+261,67,Yes,6-8 hrs,7th,Reread notes,None
+262,87,No,>8 hrs,7th,Flashcards,None
+263,97,Yes,6-8 hrs,2nd,Practice problems,None
+264,88,Yes,6-8 hrs,2nd,Practice problems,None
+265,96,No,6-8 hrs,2nd,Flashcards,One activity
+266,78,Yes,<6 hrs,5th,Practice problems,Two or more
+267,81,Yes,6-8 hrs,5th,Flashcards,None
+268,100,Yes,>8 hrs,2nd,Flashcards,One activity
+269,99,Yes,6-8 hrs,2nd,Practice problems,Two or more
+270,100,Yes,<6 hrs,5th,Practice problems,Two or more
+271,89,Yes,6-8 hrs,7th,Practice problems,Two or more
+272,92,Yes,<6 hrs,5th,Reread notes,One activity
+273,85,Yes,<6 hrs,5th,Flashcards,Two or more
+274,83,No,>8 hrs,2nd,Practice problems,None
+275,75,No,6-8 hrs,2nd,Reread notes,One activity
+276,87,Yes,6-8 hrs,2nd,Flashcards,None
+277,88,Yes,6-8 hrs,7th,Flashcards,One activity
+278,88,No,<6 hrs,7th,Reread notes,One activity
+279,84,No,<6 hrs,7th,Practice problems,None
+280,75,No,6-8 hrs,7th,Practice problems,Two or more
+281,100,Yes,6-8 hrs,7th,Flashcards,None
+282,100,Yes,>8 hrs,7th,Practice problems,None
+283,88,Yes,6-8 hrs,2nd,Flashcards,None
+284,90,Yes,6-8 hrs,2nd,Practice problems,One activity
+285,78,No,>8 hrs,2nd,Practice problems,None
+286,100,Yes,>8 hrs,5th,Practice problems,One activity
+287,93,Yes,6-8 hrs,2nd,Flashcards,None
+288,88,Yes,>8 hrs,7th,Practice problems,Two or more
+289,82,No,>8 hrs,5th,Practice problems,Two or more
+290,89,Yes,>8 hrs,5th,Reread notes,One activity
+291,83,No,<6 hrs,2nd,Practice problems,One activity
+292,97,Yes,>8 hrs,2nd,Practice problems,Two or more
+293,85,No,6-8 hrs,2nd,Practice problems,Two or more
+294,100,Yes,6-8 hrs,7th,Practice problems,One activity
+295,75,No,6-8 hrs,5th,Practice problems,Two or more
+296,76,No,>8 hrs,7th,Flashcards,Two or more
+297,89,No,>8 hrs,2nd,Practice problems,Two or more
+298,79,No,6-8 hrs,5th,Reread notes,One activity
+299,54,No,>8 hrs,5th,Reread notes,None
+300,75,No,>8 hrs,7th,Practice problems,None
+301,79,No,6-8 hrs,7th,Practice problems,One activity
+302,100,Yes,<6 hrs,2nd,Practice problems,One activity
+303,73,No,<6 hrs,7th,Flashcards,One activity
+304,97,No,>8 hrs,2nd,Practice problems,One activity
+305,91,No,6-8 hrs,7th,Reread notes,One activity
+306,58,No,>8 hrs,2nd,Reread notes,Two or more
+307,85,Yes,6-8 hrs,2nd,Reread notes,None
+308,74,No,>8 hrs,7th,Flashcards,None
+309,90,Yes,6-8 hrs,2nd,Reread notes,Two or more
+310,88,Yes,>8 hrs,5th,Practice problems,Two or more
+311,66,No,<6 hrs,5th,Flashcards,Two or more
+312,93,Yes,6-8 hrs,2nd,Practice problems,Two or more
+313,99,Yes,>8 hrs,7th,Reread notes,Two or more
+314,100,Yes,>8 hrs,7th,Flashcards,None
+315,78,Yes,>8 hrs,7th,Reread notes,One activity
+316,100,Yes,<6 hrs,2nd,Practice problems,None
+317,81,Yes,6-8 hrs,5th,Reread notes,One activity
