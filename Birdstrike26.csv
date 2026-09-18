@@ -1,0 +1,388 @@
+Strike_ID,Airline,Number_of_Birds,Phase_of_Flight,Altitude_ft_AGL,Speed_knots,Number_of_Engines_on_Aircraft,Number_of_Engines_Struck,Result_of_Strike,Time_of_Day
+1,Delta Air Lines,5,Climb,602,221,2,1,No Damage,Daytime
+2,Delta Air Lines,1,Takeoff,379,139,2,1,No Damage,Morning
+3,Hawaiian Airlines,8,Approach,1126,155,2,1,Damage,Daytime
+4,Spirit Airlines,2,Takeoff,125,171,2,0,Damage,Night
+5,Alaska Airlines,3,Landing,14,113,2,2,Damage,Evening
+6,Hawaiian Airlines,2,Approach,571,134,2,0,Damage,Night
+7,Southwest Airlines,8,Taxi,0,22,2,0,No Damage,Night
+8,Alaska Airlines,5,Descent,9067,232,2,1,Damage,Evening
+9,United Airlines,1,Climb,2228,226,2,2,No Damage,Daytime
+10,Southwest Airlines,1,Landing,2,147,2,0,No Damage,Evening
+11,JetBlue Airways,5,Landing,1,113,2,0,No Damage,Evening
+12,Frontier Airlines,3,Takeoff,47,162,2,1,No Damage,Evening
+13,Allegiant Air,3,Climb,2569,207,2,0,Damage,Night
+14,Delta Air Lines,3,Takeoff,308,132,2,0,No Damage,Evening
+15,Frontier Airlines,1,Taxi,0,7,2,1,No Damage,Night
+16,Hawaiian Airlines,1,Landing,1,137,2,0,Damage,Daytime
+17,JetBlue Airways,1,Landing,35,136,4,1,No Damage,Daytime
+18,Hawaiian Airlines,3,Takeoff,101,134,2,1,No Damage,Evening
+19,American Airlines,2,Approach,2932,145,2,2,No Damage,Morning
+20,Southwest Airlines,1,Landing,41,115,2,0,Damage,Night
+21,Hawaiian Airlines,3,Takeoff,359,165,2,0,No Damage,Daytime
+22,Spirit Airlines,5,Landing,34,137,4,1,Damage,Evening
+23,Alaska Airlines,1,Approach,1718,133,2,0,No Damage,Morning
+24,Southwest Airlines,1,Takeoff,112,166,2,0,Damage,Evening
+25,Alaska Airlines,1,Climb,1639,195,2,0,No Damage,Evening
+26,Allegiant Air,2,Climb,3553,208,2,0,No Damage,Daytime
+27,Alaska Airlines,4,Approach,653,170,2,2,Damage,Evening
+28,Spirit Airlines,1,Landing,44,150,2,0,Damage,Morning
+29,United Airlines,2,Climb,1638,254,2,1,No Damage,Night
+30,American Airlines,1,Approach,636,133,2,1,Damage,Morning
+31,Spirit Airlines,1,Climb,1878,253,2,0,No Damage,Daytime
+32,JetBlue Airways,5,Landing,6,147,3,1,No Damage,Daytime
+33,Frontier Airlines,3,Climb,896,230,2,0,No Damage,Night
+34,American Airlines,3,Approach,1470,133,2,0,No Damage,Night
+35,United Airlines,2,Takeoff,433,144,2,2,No Damage,Night
+36,Allegiant Air,3,Approach,1408,132,2,0,No Damage,Daytime
+37,Southwest Airlines,1,Cruise,9611,297,2,1,No Damage,Daytime
+38,Delta Air Lines,1,Approach,177,148,2,0,No Damage,Evening
+39,United Airlines,2,Landing,46,136,3,0,No Damage,Night
+40,JetBlue Airways,1,Taxi,0,9,2,1,No Damage,Evening
+41,Delta Air Lines,1,Takeoff,235,164,3,1,Damage,Morning
+42,Allegiant Air,8,Descent,2550,235,2,0,Damage,Evening
+43,American Airlines,1,Descent,2200,293,2,1,No Damage,Daytime
+44,JetBlue Airways,3,Approach,2574,149,2,0,No Damage,Evening
+45,United Airlines,1,Landing,39,145,2,0,No Damage,Evening
+46,American Airlines,1,Climb,6462,267,2,1,No Damage,Daytime
+47,Spirit Airlines,1,Landing,36,121,4,0,No Damage,Night
+48,United Airlines,2,Takeoff,98,136,2,2,No Damage,Evening
+49,Southwest Airlines,8,Landing,45,147,2,1,Damage,Morning
+50,Frontier Airlines,1,Landing,4,146,2,1,No Damage,Night
+51,JetBlue Airways,4,Taxi,0,25,2,0,No Damage,Daytime
+52,Hawaiian Airlines,1,Takeoff,23,142,2,1,No Damage,Night
+53,American Airlines,2,Descent,4166,267,2,1,No Damage,Evening
+54,Spirit Airlines,2,Climb,826,192,2,0,No Damage,Morning
+55,Southwest Airlines,2,Takeoff,437,165,2,0,No Damage,Evening
+56,JetBlue Airways,5,Approach,953,175,2,0,Damage,Daytime
+57,Spirit Airlines,1,Landing,6,114,2,0,Damage,Evening
+58,JetBlue Airways,2,Landing,24,146,2,0,No Damage,Evening
+59,Hawaiian Airlines,1,Landing,17,113,2,0,No Damage,Evening
+60,Allegiant Air,4,Landing,29,149,2,0,Damage,Evening
+61,American Airlines,6,Taxi,0,11,2,0,No Damage,Evening
+62,Allegiant Air,1,Approach,2603,161,2,1,Damage,Daytime
+63,Delta Air Lines,5,Climb,4832,267,2,0,No Damage,Night
+64,Delta Air Lines,18,Landing,23,144,2,1,No Damage,Evening
+65,Frontier Airlines,7,Approach,1455,157,2,0,No Damage,Daytime
+66,Frontier Airlines,1,Landing,13,159,2,1,No Damage,Night
+67,Southwest Airlines,1,Takeoff,343,150,2,0,No Damage,Daytime
+68,United Airlines,1,Descent,3799,279,2,0,No Damage,Morning
+69,Frontier Airlines,10,Climb,2995,254,2,1,No Damage,Daytime
+70,Allegiant Air,6,Takeoff,325,159,2,1,No Damage,Daytime
+71,Spirit Airlines,10,Approach,700,153,2,0,Damage,Evening
+72,Frontier Airlines,2,Cruise,5005,318,2,0,No Damage,Evening
+73,United Airlines,3,Approach,669,145,4,1,Damage,Night
+74,Spirit Airlines,2,Approach,1893,180,2,0,No Damage,Morning
+75,Spirit Airlines,7,Landing,24,121,2,0,No Damage,Daytime
+76,American Airlines,6,Descent,3621,251,4,1,No Damage,Evening
+77,Southwest Airlines,1,Takeoff,352,135,2,1,No Damage,Morning
+78,Southwest Airlines,3,Climb,3304,253,2,2,No Damage,Daytime
+79,United Airlines,2,Takeoff,166,149,4,1,No Damage,Morning
+80,Spirit Airlines,7,Climb,3958,247,3,0,No Damage,Evening
+81,JetBlue Airways,17,Approach,938,161,2,1,Damage,Morning
+82,Spirit Airlines,1,Takeoff,420,151,2,0,No Damage,Evening
+83,Spirit Airlines,5,Approach,131,176,4,0,No Damage,Night
+84,JetBlue Airways,2,Landing,20,138,2,1,No Damage,Evening
+85,Alaska Airlines,9,Landing,25,128,2,0,No Damage,Morning
+86,Allegiant Air,2,Cruise,4728,289,2,0,No Damage,Daytime
+87,JetBlue Airways,1,Landing,36,117,2,0,No Damage,Evening
+88,Delta Air Lines,1,Descent,7177,285,2,0,No Damage,Evening
+89,Frontier Airlines,5,Takeoff,108,156,2,0,No Damage,Daytime
+90,Frontier Airlines,3,Descent,2620,241,2,0,No Damage,Night
+91,JetBlue Airways,1,Takeoff,452,178,2,0,No Damage,Morning
+92,United Airlines,3,Approach,2633,151,2,1,No Damage,Daytime
+93,Delta Air Lines,1,Climb,1584,199,2,1,Damage,Daytime
+94,American Airlines,1,Approach,571,161,4,1,No Damage,Evening
+95,American Airlines,1,Approach,1010,156,2,0,No Damage,Daytime
+96,Frontier Airlines,3,Takeoff,381,132,2,1,Damage,Daytime
+97,Allegiant Air,3,Takeoff,287,172,3,0,No Damage,Daytime
+98,Allegiant Air,2,Approach,2207,134,2,1,No Damage,Daytime
+99,JetBlue Airways,1,Takeoff,134,178,2,1,No Damage,Night
+100,JetBlue Airways,1,Takeoff,382,165,2,0,No Damage,Morning
+101,Allegiant Air,1,Takeoff,299,166,2,1,Damage,Daytime
+102,Southwest Airlines,4,Landing,27,160,3,2,Damage,Evening
+103,Hawaiian Airlines,1,Takeoff,459,150,2,0,No Damage,Daytime
+104,Allegiant Air,1,Approach,2390,151,2,1,No Damage,Daytime
+105,JetBlue Airways,1,Approach,1635,174,2,0,No Damage,Morning
+106,JetBlue Airways,8,Climb,1066,224,2,1,Damage,Evening
+107,JetBlue Airways,3,Landing,32,148,2,0,No Damage,Morning
+108,Allegiant Air,2,Landing,31,141,2,0,No Damage,Night
+109,Delta Air Lines,1,Cruise,3385,338,2,2,No Damage,Evening
+110,Hawaiian Airlines,1,Takeoff,440,134,2,1,No Damage,Daytime
+111,American Airlines,1,Approach,449,135,2,0,No Damage,Daytime
+112,Frontier Airlines,11,Climb,1155,214,2,0,No Damage,Evening
+113,Delta Air Lines,5,Approach,2787,160,2,0,Damage,Evening
+114,Spirit Airlines,2,Taxi,0,7,2,0,No Damage,Night
+115,Frontier Airlines,2,Climb,760,187,3,0,No Damage,Evening
+116,Frontier Airlines,3,Descent,3440,259,2,1,No Damage,Night
+117,JetBlue Airways,6,Landing,29,151,2,0,Damage,Daytime
+118,JetBlue Airways,8,Approach,2167,166,2,0,No Damage,Evening
+119,Alaska Airlines,2,Approach,1029,173,2,0,No Damage,Daytime
+120,Allegiant Air,2,Landing,35,138,2,0,No Damage,Daytime
+121,Spirit Airlines,16,Approach,47,148,2,0,Damage,Night
+122,Hawaiian Airlines,8,Cruise,3938,329,4,0,No Damage,Morning
+123,American Airlines,1,Descent,3199,264,2,0,No Damage,Evening
+124,Alaska Airlines,2,Descent,9850,222,2,1,No Damage,Morning
+125,Alaska Airlines,3,Landing,21,139,2,1,Damage,Daytime
+126,JetBlue Airways,1,Landing,7,132,4,1,No Damage,Daytime
+127,Frontier Airlines,2,Climb,1147,201,2,0,No Damage,Morning
+128,Spirit Airlines,6,Approach,1858,169,2,0,Damage,Evening
+129,Spirit Airlines,1,Climb,3457,194,2,0,No Damage,Night
+130,JetBlue Airways,1,Landing,46,141,2,0,Damage,Daytime
+131,Alaska Airlines,5,Climb,2550,187,4,0,No Damage,Night
+132,Spirit Airlines,2,Takeoff,390,143,2,0,No Damage,Daytime
+133,American Airlines,3,Approach,731,179,4,1,No Damage,Daytime
+134,American Airlines,10,Landing,32,128,2,1,Damage,Night
+135,Alaska Airlines,6,Climb,5944,196,2,1,No Damage,Daytime
+136,United Airlines,2,Landing,40,157,2,0,No Damage,Evening
+137,United Airlines,1,Climb,1314,211,2,0,No Damage,Evening
+138,Alaska Airlines,1,Landing,9,135,2,1,No Damage,Night
+139,JetBlue Airways,14,Cruise,4323,330,2,0,No Damage,Morning
+140,Spirit Airlines,6,Landing,34,141,4,0,No Damage,Daytime
+141,Frontier Airlines,2,Landing,49,115,2,1,No Damage,Daytime
+142,Southwest Airlines,2,Approach,2172,140,2,1,No Damage,Night
+143,Frontier Airlines,1,Cruise,19813,337,2,2,Damage,Daytime
+144,Frontier Airlines,2,Climb,579,231,2,0,No Damage,Evening
+145,Hawaiian Airlines,2,Landing,7,145,2,0,No Damage,Morning
+146,Spirit Airlines,1,Climb,6019,215,3,0,No Damage,Evening
+147,Alaska Airlines,16,Approach,980,138,2,0,Damage,Evening
+148,Southwest Airlines,1,Landing,3,137,4,0,No Damage,Night
+149,American Airlines,6,Cruise,7647,350,2,0,No Damage,Night
+150,Hawaiian Airlines,2,Climb,4201,215,2,0,No Damage,Night
+151,American Airlines,3,Taxi,0,18,2,1,Damage,Night
+152,American Airlines,3,Descent,5166,265,2,0,No Damage,Evening
+153,United Airlines,2,Approach,2181,173,2,1,No Damage,Evening
+154,Delta Air Lines,5,Climb,4551,228,2,2,No Damage,Evening
+155,JetBlue Airways,2,Taxi,0,12,2,0,No Damage,Morning
+156,Frontier Airlines,2,Approach,2702,139,2,0,Damage,Night
+157,Allegiant Air,19,Approach,1946,135,2,0,Damage,Daytime
+158,Allegiant Air,4,Landing,35,121,2,1,No Damage,Morning
+159,Southwest Airlines,7,Landing,10,119,2,0,No Damage,Daytime
+160,Alaska Airlines,1,Approach,1085,144,2,2,Damage,Daytime
+161,Delta Air Lines,7,Takeoff,270,172,2,0,No Damage,Evening
+162,Hawaiian Airlines,9,Approach,2484,144,2,2,Damage,Daytime
+163,American Airlines,3,Approach,1733,130,4,0,No Damage,Daytime
+164,Southwest Airlines,1,Descent,9017,282,2,0,No Damage,Evening
+165,Spirit Airlines,4,Taxi,0,23,2,1,Damage,Night
+166,JetBlue Airways,11,Climb,5147,203,2,0,Damage,Evening
+167,United Airlines,4,Descent,7868,253,2,0,No Damage,Morning
+168,Southwest Airlines,2,Approach,2751,148,2,0,No Damage,Morning
+169,Allegiant Air,4,Takeoff,332,130,2,1,Damage,Morning
+170,Spirit Airlines,6,Approach,1529,139,2,0,No Damage,Daytime
+171,JetBlue Airways,2,Approach,1794,156,2,0,No Damage,Evening
+172,American Airlines,1,Cruise,17397,348,2,0,No Damage,Morning
+173,American Airlines,3,Descent,1920,267,2,0,No Damage,Morning
+174,Alaska Airlines,1,Landing,4,149,2,2,No Damage,Morning
+175,Allegiant Air,1,Descent,3409,292,2,0,No Damage,Evening
+176,United Airlines,11,Approach,2268,150,2,0,No Damage,Night
+177,Southwest Airlines,8,Descent,1902,236,2,1,Damage,Morning
+178,United Airlines,1,Approach,29,174,2,1,No Damage,Evening
+179,United Airlines,3,Takeoff,36,162,2,1,No Damage,Morning
+180,United Airlines,3,Approach,2899,169,4,1,No Damage,Daytime
+181,Allegiant Air,15,Taxi,0,25,2,0,Damage,Daytime
+182,Frontier Airlines,1,Cruise,4875,286,2,0,No Damage,Daytime
+183,Frontier Airlines,4,Descent,1128,278,2,2,Damage,Daytime
+184,Allegiant Air,6,Approach,1353,179,2,1,Damage,Evening
+185,Allegiant Air,1,Cruise,4949,330,2,0,Damage,Daytime
+186,Alaska Airlines,1,Takeoff,142,155,4,1,No Damage,Evening
+187,Hawaiian Airlines,1,Takeoff,342,155,2,0,No Damage,Daytime
+188,Allegiant Air,2,Approach,1988,155,2,0,No Damage,Daytime
+189,JetBlue Airways,9,Approach,877,136,2,0,No Damage,Night
+190,United Airlines,4,Cruise,8925,341,2,0,No Damage,Evening
+191,Delta Air Lines,7,Descent,9277,271,2,1,No Damage,Evening
+192,Hawaiian Airlines,1,Approach,2360,133,2,0,No Damage,Daytime
+193,Alaska Airlines,1,Approach,1936,142,3,0,No Damage,Daytime
+194,Delta Air Lines,3,Approach,995,134,2,1,No Damage,Evening
+195,Allegiant Air,7,Descent,7934,246,2,1,No Damage,Morning
+196,United Airlines,5,Takeoff,97,158,2,2,No Damage,Daytime
+197,Frontier Airlines,6,Climb,3199,200,2,1,Damage,Night
+198,Allegiant Air,2,Approach,1765,137,4,0,No Damage,Daytime
+199,Southwest Airlines,4,Takeoff,181,151,2,1,No Damage,Daytime
+200,Delta Air Lines,1,Approach,1734,168,2,0,No Damage,Morning
+201,Hawaiian Airlines,1,Descent,4538,226,2,0,No Damage,Night
+202,American Airlines,2,Descent,9953,233,2,0,No Damage,Daytime
+203,Alaska Airlines,6,Landing,41,110,3,0,Damage,Evening
+204,Frontier Airlines,2,Takeoff,50,166,2,0,Damage,Evening
+205,JetBlue Airways,4,Takeoff,31,139,2,0,No Damage,Night
+206,Southwest Airlines,6,Takeoff,206,164,2,0,Damage,Daytime
+207,Frontier Airlines,1,Takeoff,372,136,2,0,No Damage,Daytime
+208,Allegiant Air,4,Approach,1389,153,2,0,No Damage,Morning
+209,Hawaiian Airlines,1,Landing,6,149,2,1,Damage,Daytime
+210,Spirit Airlines,6,Climb,1279,183,4,0,No Damage,Morning
+211,Delta Air Lines,1,Approach,2196,134,2,0,No Damage,Daytime
+212,United Airlines,2,Approach,1837,143,2,0,Damage,Night
+213,Frontier Airlines,9,Climb,1251,258,2,0,Damage,Evening
+214,Spirit Airlines,6,Approach,1140,154,4,0,No Damage,Daytime
+215,American Airlines,2,Cruise,3617,299,2,1,No Damage,Morning
+216,Spirit Airlines,2,Climb,2754,261,2,1,Damage,Evening
+217,Delta Air Lines,7,Takeoff,50,146,2,0,Damage,Evening
+218,Delta Air Lines,5,Climb,2714,224,2,0,No Damage,Daytime
+219,Frontier Airlines,20,Landing,0,148,2,0,No Damage,Daytime
+220,American Airlines,6,Approach,382,153,2,1,No Damage,Daytime
+221,United Airlines,1,Approach,968,160,2,0,No Damage,Daytime
+222,Alaska Airlines,4,Approach,681,137,2,2,Damage,Evening
+223,Delta Air Lines,4,Approach,1664,137,2,0,Damage,Daytime
+224,United Airlines,1,Descent,1875,282,2,0,No Damage,Evening
+225,Allegiant Air,1,Landing,25,139,2,1,No Damage,Daytime
+226,Frontier Airlines,17,Landing,3,140,4,1,Damage,Night
+227,Hawaiian Airlines,5,Landing,10,140,2,2,No Damage,Night
+228,Alaska Airlines,1,Takeoff,194,149,2,1,Damage,Morning
+229,Hawaiian Airlines,1,Approach,8,135,2,1,Damage,Night
+230,Spirit Airlines,6,Approach,1599,139,4,1,Damage,Evening
+231,Alaska Airlines,2,Approach,1086,136,2,1,No Damage,Evening
+232,Allegiant Air,10,Taxi,0,15,2,0,Damage,Daytime
+233,United Airlines,1,Takeoff,474,177,2,2,No Damage,Night
+234,JetBlue Airways,3,Climb,7227,213,2,0,No Damage,Evening
+235,Hawaiian Airlines,3,Approach,1168,160,2,0,No Damage,Evening
+236,Allegiant Air,8,Landing,27,154,2,0,No Damage,Morning
+237,Allegiant Air,4,Climb,3492,200,2,0,No Damage,Evening
+238,Hawaiian Airlines,7,Landing,50,143,2,1,Damage,Daytime
+239,Delta Air Lines,2,Takeoff,284,131,2,0,Damage,Daytime
+240,Alaska Airlines,1,Landing,42,123,2,0,No Damage,Night
+241,Alaska Airlines,1,Takeoff,367,163,2,0,No Damage,Daytime
+242,Allegiant Air,7,Taxi,0,16,2,2,No Damage,Night
+243,Southwest Airlines,3,Approach,1993,139,2,0,Damage,Daytime
+244,Spirit Airlines,2,Taxi,0,22,2,0,No Damage,Morning
+245,Frontier Airlines,1,Takeoff,79,131,2,0,No Damage,Morning
+246,Spirit Airlines,1,Descent,1891,287,2,0,Damage,Evening
+247,Hawaiian Airlines,4,Approach,239,149,2,1,Damage,Night
+248,Delta Air Lines,12,Landing,37,151,2,1,Damage,Daytime
+249,Hawaiian Airlines,5,Takeoff,376,135,2,1,No Damage,Morning
+250,United Airlines,4,Approach,2220,174,2,0,No Damage,Daytime
+251,JetBlue Airways,3,Approach,249,146,2,0,No Damage,Daytime
+252,American Airlines,3,Approach,1284,163,2,1,No Damage,Night
+253,American Airlines,15,Climb,2892,226,2,1,Damage,Evening
+254,American Airlines,4,Takeoff,244,140,2,1,Damage,Evening
+255,Southwest Airlines,1,Landing,32,132,2,0,Damage,Morning
+256,Southwest Airlines,9,Landing,33,159,2,1,Damage,Night
+257,United Airlines,2,Approach,644,144,2,0,No Damage,Night
+258,Frontier Airlines,6,Descent,3080,288,2,1,No Damage,Daytime
+259,JetBlue Airways,3,Climb,1261,249,2,0,No Damage,Daytime
+260,JetBlue Airways,3,Approach,280,179,2,0,No Damage,Evening
+261,JetBlue Airways,10,Approach,2437,162,2,0,Damage,Evening
+262,United Airlines,2,Climb,1463,222,2,0,No Damage,Evening
+263,Frontier Airlines,3,Landing,25,150,2,0,Damage,Daytime
+264,Allegiant Air,1,Takeoff,61,144,2,0,Damage,Night
+265,Alaska Airlines,1,Takeoff,482,169,2,0,No Damage,Evening
+266,Spirit Airlines,4,Landing,36,160,2,1,Damage,Daytime
+267,JetBlue Airways,3,Landing,15,158,2,0,No Damage,Morning
+268,American Airlines,1,Takeoff,296,142,2,2,No Damage,Night
+269,Spirit Airlines,9,Climb,3036,210,2,0,Damage,Evening
+270,JetBlue Airways,1,Takeoff,41,155,2,2,No Damage,Night
+271,Frontier Airlines,1,Takeoff,214,177,2,1,No Damage,Daytime
+272,Frontier Airlines,2,Approach,2692,144,2,0,No Damage,Morning
+273,Southwest Airlines,7,Landing,37,122,2,0,Damage,Night
+274,Delta Air Lines,1,Takeoff,289,163,2,0,No Damage,Daytime
+275,JetBlue Airways,1,Cruise,5136,343,4,1,No Damage,Evening
+276,American Airlines,4,Approach,836,152,2,2,No Damage,Morning
+277,JetBlue Airways,2,Approach,2743,176,2,0,No Damage,Night
+278,Frontier Airlines,2,Landing,45,111,2,0,No Damage,Evening
+279,Hawaiian Airlines,4,Landing,20,111,2,1,No Damage,Evening
+280,Hawaiian Airlines,3,Approach,977,180,2,0,No Damage,Morning
+281,Hawaiian Airlines,8,Approach,1087,147,2,0,No Damage,Morning
+282,Allegiant Air,1,Landing,25,140,2,0,No Damage,Daytime
+283,Allegiant Air,5,Approach,536,146,2,0,No Damage,Night
+284,Southwest Airlines,1,Takeoff,343,142,2,2,No Damage,Daytime
+285,Delta Air Lines,1,Approach,2643,174,4,0,No Damage,Daytime
+286,Spirit Airlines,11,Landing,19,148,2,0,Damage,Daytime
+287,Hawaiian Airlines,18,Landing,29,132,2,0,Damage,Morning
+288,Southwest Airlines,2,Landing,20,138,2,1,No Damage,Night
+289,Spirit Airlines,1,Climb,4094,272,2,2,No Damage,Daytime
+290,Delta Air Lines,12,Approach,38,152,2,1,Damage,Evening
+291,Delta Air Lines,5,Takeoff,234,153,2,0,No Damage,Evening
+292,Spirit Airlines,6,Approach,2544,135,2,0,No Damage,Evening
+293,Southwest Airlines,3,Approach,2306,144,2,1,Damage,Daytime
+294,JetBlue Airways,2,Taxi,0,8,2,0,No Damage,Evening
+295,Allegiant Air,2,Landing,6,124,2,0,No Damage,Evening
+296,Spirit Airlines,1,Cruise,4746,340,2,0,No Damage,Daytime
+297,Frontier Airlines,1,Climb,1042,205,2,0,Damage,Night
+298,Spirit Airlines,1,Approach,1429,151,4,0,No Damage,Morning
+299,Frontier Airlines,1,Takeoff,451,143,2,0,No Damage,Evening
+300,Allegiant Air,3,Takeoff,35,160,2,1,Damage,Night
+301,Southwest Airlines,1,Cruise,16054,280,2,2,No Damage,Night
+302,Delta Air Lines,5,Landing,18,140,2,1,Damage,Night
+303,Southwest Airlines,3,Landing,10,151,2,0,No Damage,Daytime
+304,Hawaiian Airlines,5,Approach,1794,152,2,1,Damage,Night
+305,Southwest Airlines,1,Descent,7078,230,2,0,No Damage,Evening
+306,Allegiant Air,2,Descent,4305,235,2,0,No Damage,Morning
+307,Frontier Airlines,6,Landing,41,134,2,0,No Damage,Daytime
+308,Frontier Airlines,1,Approach,2166,180,2,0,No Damage,Daytime
+309,Hawaiian Airlines,7,Landing,0,155,4,0,No Damage,Evening
+310,American Airlines,1,Descent,3271,245,2,1,Damage,Night
+311,Hawaiian Airlines,12,Takeoff,153,160,2,2,Damage,Evening
+312,American Airlines,3,Approach,2717,141,2,0,No Damage,Morning
+313,American Airlines,12,Approach,424,157,2,0,No Damage,Daytime
+314,Hawaiian Airlines,7,Climb,4600,261,2,0,No Damage,Evening
+315,Alaska Airlines,5,Approach,1083,151,4,0,No Damage,Daytime
+316,Delta Air Lines,1,Landing,7,115,2,0,No Damage,Evening
+317,American Airlines,8,Approach,438,176,2,1,Damage,Morning
+318,Delta Air Lines,10,Landing,47,135,2,1,Damage,Daytime
+319,JetBlue Airways,10,Takeoff,283,159,2,0,Damage,Night
+320,Alaska Airlines,7,Climb,1654,231,2,1,No Damage,Morning
+321,JetBlue Airways,2,Climb,3439,275,2,1,No Damage,Night
+322,United Airlines,5,Approach,1404,135,2,0,Damage,Morning
+323,Southwest Airlines,14,Descent,3597,240,2,0,No Damage,Evening
+324,American Airlines,1,Landing,16,120,2,0,No Damage,Daytime
+325,United Airlines,4,Approach,2070,138,2,1,No Damage,Morning
+326,Delta Air Lines,1,Descent,4465,223,2,0,No Damage,Evening
+327,Delta Air Lines,1,Cruise,8196,299,2,0,No Damage,Daytime
+328,Frontier Airlines,1,Approach,1734,167,2,0,No Damage,Morning
+329,Alaska Airlines,6,Takeoff,424,159,2,1,No Damage,Daytime
+330,Southwest Airlines,1,Takeoff,141,171,2,0,No Damage,Daytime
+331,Delta Air Lines,6,Climb,1866,198,2,0,No Damage,Daytime
+332,Frontier Airlines,2,Climb,5645,258,2,2,Damage,Morning
+333,Allegiant Air,2,Landing,10,148,2,1,No Damage,Daytime
+334,Allegiant Air,1,Cruise,7519,340,2,0,No Damage,Night
+335,Alaska Airlines,3,Approach,2890,172,2,0,No Damage,Daytime
+336,Spirit Airlines,20,Landing,27,132,2,0,No Damage,Morning
+337,American Airlines,2,Approach,2297,139,4,0,No Damage,Evening
+338,Spirit Airlines,1,Takeoff,4,165,2,0,No Damage,Daytime
+339,Spirit Airlines,2,Taxi,0,22,2,0,No Damage,Daytime
+340,Spirit Airlines,10,Landing,7,118,2,0,No Damage,Daytime
+341,Delta Air Lines,1,Climb,3330,182,2,1,No Damage,Evening
+342,Spirit Airlines,1,Cruise,18938,281,4,0,No Damage,Evening
+343,Hawaiian Airlines,2,Approach,147,176,2,0,No Damage,Daytime
+344,Hawaiian Airlines,1,Taxi,0,25,2,2,Damage,Daytime
+345,United Airlines,3,Descent,9371,233,2,0,Damage,Evening
+346,Frontier Airlines,1,Cruise,6520,347,2,1,No Damage,Night
+347,United Airlines,3,Landing,8,157,3,0,No Damage,Daytime
+348,Frontier Airlines,4,Descent,2493,237,2,0,Damage,Morning
+349,Allegiant Air,1,Approach,163,157,2,0,No Damage,Daytime
+350,Delta Air Lines,2,Landing,22,122,2,0,Damage,Evening
+351,Frontier Airlines,4,Approach,860,143,2,1,Damage,Evening
+352,Frontier Airlines,1,Landing,43,111,2,1,Damage,Evening
+353,United Airlines,2,Climb,921,212,2,0,No Damage,Morning
+354,Allegiant Air,4,Descent,3293,247,2,1,No Damage,Morning
+355,United Airlines,2,Approach,1664,148,2,0,Damage,Morning
+356,Alaska Airlines,2,Approach,2542,162,4,1,No Damage,Morning
+357,Spirit Airlines,3,Descent,6539,250,2,0,Damage,Night
+358,Southwest Airlines,1,Climb,4950,277,2,0,No Damage,Evening
+359,Frontier Airlines,6,Takeoff,451,167,2,1,Damage,Morning
+360,American Airlines,2,Approach,1688,150,2,1,No Damage,Morning
+361,Southwest Airlines,2,Taxi,0,13,2,1,No Damage,Daytime
+362,Delta Air Lines,3,Climb,1860,249,2,0,No Damage,Night
+363,Spirit Airlines,1,Takeoff,400,156,2,0,No Damage,Morning
+364,JetBlue Airways,1,Takeoff,476,138,2,0,No Damage,Night
+365,Hawaiian Airlines,14,Approach,1686,133,4,1,No Damage,Morning
+366,JetBlue Airways,1,Takeoff,410,177,2,1,No Damage,Night
+367,Spirit Airlines,2,Approach,2743,152,2,0,No Damage,Daytime
+368,Delta Air Lines,9,Landing,47,139,2,0,No Damage,Evening
+369,Allegiant Air,5,Landing,15,152,2,0,No Damage,Evening
+370,Alaska Airlines,15,Landing,17,147,2,1,Damage,Daytime
+371,Alaska Airlines,3,Cruise,8744,346,2,0,No Damage,Evening
+372,American Airlines,1,Approach,442,156,2,2,Damage,Night
+373,Frontier Airlines,4,Landing,24,142,2,0,No Damage,Morning
+374,United Airlines,2,Landing,2,118,2,0,No Damage,Morning
+375,United Airlines,6,Approach,1927,164,2,0,Damage,Evening
+376,Delta Air Lines,1,Approach,911,139,2,1,Damage,Morning
+377,Alaska Airlines,1,Taxi,0,21,2,0,No Damage,Daytime
+378,Delta Air Lines,2,Descent,2885,285,2,1,No Damage,Daytime
+379,United Airlines,1,Approach,1432,131,2,0,No Damage,Evening
+380,United Airlines,1,Approach,1250,158,2,1,Damage,Daytime
+381,Delta Air Lines,2,Descent,6464,243,2,0,No Damage,Night
+382,Delta Air Lines,1,Approach,913,168,2,2,Damage,Evening
+383,JetBlue Airways,2,Approach,96,130,2,1,No Damage,Morning
+384,Southwest Airlines,3,Takeoff,337,179,2,0,No Damage,Daytime
+385,Alaska Airlines,3,Takeoff,98,139,3,0,No Damage,Night
+386,Frontier Airlines,1,Landing,25,121,4,0,Damage,Morning
+387,American Airlines,5,Descent,4540,238,3,1,No Damage,Daytime
