@@ -1,0 +1,1001 @@
+Catch_ID,Fish_Species,Length_cm,Weight_g,Depth_Caught_m,Time_of_Day,Air_Temp_C,Water_Temp_C,Month_Caught
+1,Smallmouth Bass,26.8,440.2,9,Evening,27,19.1,August
+2,Smallmouth Bass,23,272,3.5,Daytime,0.7,1.2,January
+3,Common Carp,36.6,820.6,3.2,Night,17.3,18.5,September
+4,Northern Pike,84.9,5625.2,2.9,Night,6.9,7,April
+5,Smallmouth Bass,37.9,1194.7,9.7,Night,-4.7,2,February
+6,Black Crappie,20.4,204.5,2.4,Evening,29.9,22.5,July
+7,Bluegill,24,395.2,0.3,Daytime,30.1,18,June
+8,Common Carp,65.7,3757.5,3.8,Daytime,33.6,21,July
+9,Smallmouth Bass,45.1,2201.4,4.1,Daytime,15.8,6.2,April
+10,Channel Catfish,60.2,3035.8,11.5,Evening,23.4,14.5,September
+11,Common Carp,51.8,2018.9,5.3,Night,19.8,19.4,July
+12,Channel Catfish,33.8,624.7,4.2,Evening,19.4,18.5,September
+13,Largemouth Bass,57.7,3973.7,1.2,Night,18.1,19.3,June
+14,Black Crappie,25.9,385.6,5.2,Morning,-4.6,1.4,January
+15,Channel Catfish,64.8,3176.5,8.5,Night,10.6,12.8,May
+16,Yellow Perch,16,95.9,9.8,Night,19.2,19.4,August
+17,Largemouth Bass,28.9,496.4,4.1,Morning,3.2,2.9,March
+18,Walleye,36.4,634.7,12.9,Morning,22.7,16,July
+19,Black Crappie,11.3,41.1,1.4,Night,6.4,16.2,October
+20,Black Crappie,13,58.6,2.1,Evening,18,14.3,May
+21,Bluegill,16.3,140,3,Night,21.1,22.3,July
+22,Yellow Perch,23.1,303.2,6.9,Daytime,35.5,18.8,July
+23,Largemouth Bass,44.2,1732.5,3.9,Morning,3.7,2.7,March
+24,Bluegill,12.8,67,1.9,Daytime,34,21.4,July
+25,Channel Catfish,48.9,1671.3,8,Evening,18.9,17.5,September
+26,Bluegill,24.2,420.1,3.1,Evening,29.8,21.6,July
+27,Yellow Perch,27.2,460.2,9.2,Morning,26.4,19.9,August
+28,Largemouth Bass,29,477.9,0.7,Daytime,26.2,13.4,May
+29,Black Crappie,33.4,674.4,2.2,Morning,21.9,18.1,June
+30,Walleye,55.7,2311.7,11.2,Daytime,11.5,6.6,November
+31,Walleye,42.8,1094.2,6.4,Night,17.4,14.8,June
+32,Walleye,54.2,2403.5,11.5,Night,7,4.2,April
+33,Largemouth Bass,22.1,205.8,1,Evening,26.8,23.1,August
+34,Rainbow Trout,46.4,1682.8,3.6,Morning,20.5,16.4,June
+35,Bluegill,21.3,308.3,0.3,Evening,16.9,14.1,May
+36,Rainbow Trout,25.8,327,10.3,Evening,20.9,15.6,September
+37,Channel Catfish,46,1461.1,10.8,Evening,21.8,12.2,June
+38,Bluegill,10.4,37.9,2.1,Morning,24.8,23.2,August
+39,Largemouth Bass,35.2,889.7,4.5,Night,-2.1,3.7,March
+40,Channel Catfish,54.2,2225.2,2.9,Morning,16,13.7,May
+41,Smallmouth Bass,47.6,2453.1,8.1,Night,8.2,14.8,October
+42,Rainbow Trout,59.4,3560.5,3.1,Morning,-2.4,3.5,December
+43,Yellow Perch,25.8,390.1,9.1,Evening,23.5,15.4,September
+44,Bluegill,22.6,318.7,1.8,Evening,21.2,19.4,September
+45,Channel Catfish,50.2,1814.5,1.3,Daytime,27.6,18.6,June
+46,Largemouth Bass,55.6,3340.3,1.8,Evening,6.7,9.4,November
+47,Black Crappie,19.8,176.2,4.4,Evening,21.2,18.1,September
+48,Bluegill,18.9,217.5,3,Evening,-0.6,2.7,February
+49,Northern Pike,63.3,2669.8,2.4,Evening,-0.8,1.3,January
+50,Channel Catfish,68.2,3929.2,6.1,Morning,25.6,19.4,July
+51,Yellow Perch,17.3,117.2,9,Night,23.1,19.6,August
+52,Smallmouth Bass,28.5,521.4,2.7,Night,6.8,16,October
+53,Yellow Perch,18.6,155.6,3.7,Morning,15.2,13.4,May
+54,Yellow Perch,12.8,52.7,5.3,Morning,22.9,15.3,June
+55,Yellow Perch,18,136.9,9.7,Evening,-1.3,1,January
+56,Yellow Perch,20.3,192.5,6.1,Daytime,30.4,15.1,June
+57,Largemouth Bass,39.3,1230.4,1,Evening,25.3,23.4,August
+58,Black Crappie,13.2,59,1.5,Daytime,25.7,13.9,May
+59,Smallmouth Bass,30.1,631.6,3.2,Evening,6.2,4.1,March
+60,Largemouth Bass,30.7,572.2,2.7,Evening,19.8,13.4,May
+61,Largemouth Bass,54.2,3434.6,0.6,Daytime,26,13.8,May
+62,Black Crappie,30.2,583.9,6.4,Morning,25.2,19.9,July
+63,Smallmouth Bass,29.8,615.8,2,Evening,22,17.5,June
+64,Walleye,39.8,802.7,10.9,Night,13.7,14.9,September
+65,Northern Pike,65.6,2723.7,4.9,Daytime,17.5,14.5,October
+66,Bluegill,21,276.1,0.7,Daytime,22.6,12.9,May
+67,Rainbow Trout,40.9,1157.2,11.8,Evening,23.4,12.6,June
+68,Walleye,43.8,1122.8,14.2,Night,20.2,15.9,July
+69,Yellow Perch,29.5,548.3,10,Evening,20.4,15.2,September
+70,Common Carp,48.5,1703.5,2.7,Daytime,19.2,7.6,April
+71,Black Crappie,32,632.5,5.9,Night,10.3,14.6,October
+72,Yellow Perch,14.3,69.1,3.1,Evening,22,16.3,June
+73,Bluegill,11.4,52.7,1.4,Morning,19.1,20.1,September
+74,Bluegill,13.9,93.4,1.8,Evening,22.8,19,June
+75,Yellow Perch,14.3,68.6,9.5,Evening,19.7,11.3,May
+76,Channel Catfish,47.4,1463.9,4.8,Night,10.6,12.2,May
+77,Channel Catfish,69.7,4385.3,7.8,Night,8.3,5.4,April
+78,Largemouth Bass,31,572.9,4.9,Daytime,12.2,9.5,November
+79,Black Crappie,19.8,190.5,4.5,Daytime,26.3,12,May
+80,Common Carp,45.3,1506,3.2,Evening,26.1,18,June
+81,Largemouth Bass,52.5,2999.5,1.2,Evening,28.1,23.9,August
+82,Largemouth Bass,40.4,1230.1,3.1,Morning,15.7,14.2,May
+83,Bluegill,14.8,111.7,0.6,Evening,25.3,18.3,June
+84,Smallmouth Bass,30.2,594.4,3.7,Night,0.2,3.4,March
+85,Largemouth Bass,30.6,536.3,2.4,Morning,26.7,21.3,July
+86,Yellow Perch,16.6,110.3,8.8,Evening,29.3,18.2,July
+87,Yellow Perch,27.5,468.6,9.2,Daytime,12.1,6.9,November
+88,Walleye,38.3,729.4,13.4,Evening,21.6,13.9,September
+89,Largemouth Bass,38.1,1137.8,1.9,Night,15.4,13.6,May
+90,Black Crappie,23.7,296,1.9,Evening,18.7,13.9,May
+91,Largemouth Bass,41.5,1550.5,3.1,Daytime,25.8,13.5,May
+92,Bluegill,14.1,92.2,1.6,Evening,25.8,22,July
+93,Yellow Perch,16.8,117.4,3.8,Morning,1.4,9.6,November
+94,Yellow Perch,26.6,447.3,5.8,Evening,21.5,18.5,September
+95,Smallmouth Bass,21.9,210.7,3.1,Night,18.7,17.5,June
+96,Bluegill,17.2,154.3,1.3,Night,16.1,17.6,June
+97,Walleye,45.6,1371.3,8.7,Evening,7.1,2.5,March
+98,Bluegill,13,73.7,2.1,Night,13,19.5,September
+99,Northern Pike,80.8,5165.7,3.9,Night,18.8,22.1,August
+100,Black Crappie,17.7,140.3,4,Daytime,34.1,22.4,August
+101,Black Crappie,34.5,732.1,2.3,Daytime,30.3,18.3,June
+102,Walleye,38.9,817.7,13.9,Night,17.8,12.2,June
+103,Black Crappie,17.5,135.9,2,Daytime,7.1,3.9,December
+104,Smallmouth Bass,46.4,2367.2,9.5,Evening,25.2,19.3,August
+105,Channel Catfish,83.2,6453,3.5,Night,16.5,16.6,June
+106,Smallmouth Bass,33.6,889.8,6.3,Morning,16.9,18.4,September
+107,Largemouth Bass,59.3,4469.7,5.1,Morning,24.9,19.7,July
+108,Northern Pike,66.8,2660.3,2.9,Daytime,31.3,16.7,June
+109,Bluegill,17.6,183.8,2.4,Daytime,33.6,21.2,July
+110,Largemouth Bass,28.6,461,1.4,Daytime,24.8,19.3,September
+111,Channel Catfish,82.3,6115.8,8.6,Night,19.5,14.8,June
+112,Northern Pike,59.5,2120.5,7,Evening,28.8,18.6,July
+113,Smallmouth Bass,34.5,998.8,2.9,Daytime,17.9,7.3,April
+114,Walleye,30.3,373.2,10.9,Morning,13.1,12.7,October
+115,Yellow Perch,26.9,463.2,3,Night,6.6,6.9,April
+116,Common Carp,69.4,4312.1,2.8,Daytime,24.2,13,May
+117,Rainbow Trout,39,1002.7,10.8,Evening,17.3,10.9,May
+118,Largemouth Bass,29.4,508.1,3,Evening,28.7,22.4,August
+119,Bluegill,20.1,248.6,0.4,Evening,26.2,18.7,June
+120,Common Carp,80.3,6152.9,1.2,Daytime,29.9,18.3,June
+121,Largemouth Bass,29.9,538.5,1.7,Evening,23.9,18.5,June
+122,Channel Catfish,62.4,3123.9,7.7,Night,19.9,18.5,July
+123,Rainbow Trout,56,3099.1,8.7,Evening,18.9,17.2,September
+124,Northern Pike,74.2,3795.6,5.7,Night,22.5,20.5,July
+125,Largemouth Bass,28,443,1.4,Morning,21.9,23.7,August
+126,Smallmouth Bass,34,875.4,8.1,Night,18.6,18.7,August
+127,Largemouth Bass,28.6,467.4,5.5,Evening,15.4,14,October
+128,Channel Catfish,47.6,1633.4,4.4,Night,-5.4,3.9,December
+129,Common Carp,51.2,2006.6,4.4,Morning,18.3,18.1,September
+130,Bluegill,23,337.1,2,Evening,18.8,13.8,May
+131,Largemouth Bass,42.7,1577.9,1,Night,20.1,24.2,August
+132,Bluegill,22.6,360.5,0.9,Evening,20.7,20.6,September
+133,Rainbow Trout,34,680.6,4.2,Evening,19.5,18.4,September
+134,Black Crappie,20,173.3,2.6,Night,5.2,7.5,April
+135,Common Carp,51.7,2018.5,2.8,Daytime,28.3,16.6,June
+136,Yellow Perch,13,51.8,7.3,Daytime,32.7,19.5,July
+137,Bluegill,12.4,67.5,2.3,Daytime,33.9,23,August
+138,Black Crappie,32.1,624.1,4.2,Morning,-0.7,4.5,December
+139,Channel Catfish,60,2921.1,1.7,Daytime,26.5,12.6,May
+140,Walleye,54.4,2283.9,10.3,Evening,-1.9,2,February
+141,Smallmouth Bass,29.3,567.6,9.5,Evening,23.1,16.7,September
+142,Common Carp,47.6,1690.3,1.8,Morning,9.7,8.5,April
+143,Largemouth Bass,28.8,498.2,1.5,Night,7.3,8.1,April
+144,Channel Catfish,69.8,4110.5,10.1,Morning,24.3,17.3,July
+145,Northern Pike,93.9,7856.6,1.6,Evening,19.4,13.3,May
+146,Northern Pike,67,3126.7,3,Night,-8.8,1.3,January
+147,Bluegill,20.6,255.7,2.8,Morning,-5.5,4.2,December
+148,Largemouth Bass,36.5,904.2,3.4,Night,14.1,18.3,September
+149,Largemouth Bass,31.1,547.6,0.7,Evening,30.4,21.9,July
+150,Largemouth Bass,33.1,768.5,4.9,Evening,26.7,21.1,August
+151,Common Carp,58.2,2873.7,2.1,Night,5.7,6.7,April
+152,Northern Pike,57.1,1919.5,2.4,Morning,14.7,14.3,May
+153,Bluegill,15.8,127.5,1.5,Evening,24.2,17.6,June
+154,Common Carp,82.5,6678.7,3.2,Night,-2.5,4.7,March
+155,Black Crappie,15.7,91.6,4.6,Morning,18.8,18.1,September
+156,Bluegill,18.9,202.2,2,Night,12.8,13.7,May
+157,Smallmouth Bass,46.9,2618.8,9.1,Night,7.2,14.1,October
+158,Yellow Perch,24.1,338.4,8,Evening,23.2,14,June
+159,Largemouth Bass,45.4,1782.5,3,Morning,22.4,18.2,June
+160,Smallmouth Bass,43,1722.1,2.2,Daytime,21.6,14.1,May
+161,Rainbow Trout,39.8,1134.9,12.9,Night,6.8,4.6,April
+162,Black Crappie,34.4,804.6,2.2,Daytime,22,13.1,May
+163,Channel Catfish,51.4,2054.2,1.8,Daytime,3.8,1.4,February
+164,Black Crappie,28.6,446,1.2,Morning,23.2,18.2,June
+165,Largemouth Bass,36.1,865.6,2,Evening,10.9,6.7,April
+166,Largemouth Bass,46.4,1933.3,2.6,Morning,3.3,9.9,November
+167,Smallmouth Bass,45,1988.5,5.2,Night,19.6,20.1,July
+168,Common Carp,82.2,7391.4,0.9,Evening,20.1,13.7,May
+169,Bluegill,20.9,267.6,1.8,Evening,13.9,6.8,April
+170,Common Carp,89.5,9326.4,1.7,Daytime,32.6,22.2,August
+171,Largemouth Bass,53.4,3298.2,5.8,Evening,-2.1,2.4,February
+172,Largemouth Bass,30.1,549.8,1,Night,-1.7,9,November
+173,Bluegill,20.6,277.3,1,Evening,24.9,18.7,June
+174,Largemouth Bass,47.6,2029.1,2,Daytime,12.2,8.6,November
+175,Smallmouth Bass,43.9,1963.7,8.2,Evening,19.4,16.4,September
+176,Yellow Perch,14.3,69.3,8.7,Daytime,28.3,15.9,September
+177,Northern Pike,97.7,8322.5,4.2,Evening,28.2,19.9,July
+178,Channel Catfish,51.3,1888,11.9,Evening,15.1,5.4,April
+179,Smallmouth Bass,33.1,834.3,1.7,Evening,25.4,17.5,June
+180,Smallmouth Bass,40.9,1566.7,9.4,Daytime,32.3,19.5,August
+181,Largemouth Bass,39.4,1165.3,2.5,Night,19.9,18,June
+182,Yellow Perch,26.2,406.8,4.6,Evening,6.3,3.5,March
+183,Yellow Perch,15.4,92.2,8.6,Night,20.8,18.6,August
+184,Channel Catfish,86.4,6856.1,8.6,Daytime,33.4,19,July
+185,Common Carp,70.1,4974.3,4.7,Morning,26.5,21.3,July
+186,Bluegill,21.3,304.8,3.7,Morning,-3.2,2.3,February
+187,Bluegill,10.3,38.7,2.2,Morning,-6.6,1.1,January
+188,Largemouth Bass,42.5,1600.8,2.7,Night,18,18.1,June
+189,Largemouth Bass,39.6,1242.8,1.3,Morning,11.2,7,April
+190,Common Carp,68.3,4381.5,4,Morning,23.9,22.5,August
+191,Black Crappie,16.5,113.7,3.9,Night,6.1,6.9,April
+192,Black Crappie,20.5,193,2,Night,-7.1,3.9,December
+193,Bluegill,22,301.3,0.5,Daytime,17.9,16.3,October
+194,Smallmouth Bass,44.7,2253.3,7.6,Night,22.3,19.3,August
+195,Smallmouth Bass,34.4,910.2,2.6,Daytime,11.5,3.1,March
+196,Bluegill,20,261,2.2,Evening,28,21.5,July
+197,Walleye,29,312.6,6.9,Night,4.6,5.4,April
+198,Yellow Perch,15.6,92.5,4.2,Evening,20.1,18.2,September
+199,Largemouth Bass,54.5,3444,4.6,Night,0.9,2.9,March
+200,Smallmouth Bass,43.3,1756.3,7.9,Daytime,33.7,18.7,July
+201,Largemouth Bass,33.3,669.9,0.6,Evening,22.9,19.5,June
+202,Largemouth Bass,25.2,308.7,2.3,Morning,16.5,13.5,May
+203,Walleye,54.9,2223.1,8.7,Night,18.8,15,June
+204,Walleye,41.1,997.3,11.3,Daytime,29.2,13.4,June
+205,Walleye,43.1,1042.7,8.3,Evening,29.3,19,August
+206,Yellow Perch,19.3,161.1,8.8,Daytime,28.7,14.7,June
+207,Bluegill,21.3,272.2,2,Evening,22.1,17.3,June
+208,Bluegill,22.5,352.5,3.4,Morning,23.2,21.4,August
+209,Walleye,62.3,3507.7,10.3,Night,17.7,14.3,June
+210,Largemouth Bass,27.2,400.6,1.6,Morning,4.1,3,March
+211,Bluegill,10.7,46.8,2.8,Daytime,23.9,19,September
+212,Yellow Perch,30,564.1,3.5,Evening,4.1,9.1,November
+213,Bluegill,13.1,80.9,0.6,Daytime,23.7,19.9,September
+214,Bluegill,20.8,267.2,3.4,Evening,-2.6,2.2,January
+215,Black Crappie,15.8,99.9,4.6,Evening,29.4,21.3,August
+216,Smallmouth Bass,32.9,762.4,5.7,Evening,15.4,14.5,October
+217,Rainbow Trout,52.4,2214.6,8.6,Evening,4.1,2.4,March
+218,Bluegill,17.1,162.6,0.4,Evening,15.1,8.3,April
+219,Common Carp,53.1,2231.4,0.8,Evening,-1.8,2.2,February
+220,Channel Catfish,31.9,525.7,6.5,Night,-1.7,3.3,March
+221,Largemouth Bass,44.1,1627.7,2.7,Night,14.9,13.9,May
+222,Northern Pike,76.6,4001.9,1.3,Daytime,3.6,4.3,December
+223,Smallmouth Bass,26.5,379.3,9.1,Morning,26.2,18.7,July
+224,Bluegill,9.5,31.2,1.1,Daytime,13.3,10,November
+225,Yellow Perch,22.9,254.6,9.7,Evening,21.4,12.1,May
+226,Bluegill,15.7,125.3,3.3,Daytime,30.9,23.1,August
+227,Walleye,45.6,1265.3,8.5,Daytime,4.7,2.9,December
+228,Black Crappie,31.2,618.3,5.8,Night,14.9,18.1,September
+229,Common Carp,51.2,1920.7,4.5,Night,21.1,20.4,July
+230,Walleye,47.7,1391.6,9.4,Daytime,33.8,17.9,July
+231,Yellow Perch,29,544.4,6.6,Daytime,24.9,18,September
+232,Walleye,44.4,1285.3,14,Evening,29,15.4,July
+233,Northern Pike,64.8,2689.9,7.8,Night,0.4,3,March
+234,Black Crappie,25.9,336.5,3.2,Night,22.5,21.9,August
+235,Rainbow Trout,23.8,241.9,11.1,Evening,27,16,July
+236,Walleye,48.9,1720.6,6.8,Morning,11.1,6.9,April
+237,Largemouth Bass,40.3,1330.1,2.7,Night,8.6,7.9,April
+238,Largemouth Bass,53.4,2927.6,3.1,Night,14,20.2,September
+239,Northern Pike,60.3,2072.2,2.8,Daytime,23.2,14.2,May
+240,Walleye,59.5,3241,6.7,Night,9.2,13.3,October
+241,Yellow Perch,19.4,173.1,5.3,Night,17,15.5,June
+242,Black Crappie,29.9,497.1,1.7,Evening,26.6,22.6,July
+243,Bluegill,14.4,101.3,3.8,Evening,27.8,21.6,July
+244,Black Crappie,21.7,238.3,4.2,Night,13.1,13,May
+245,Yellow Perch,16,90.8,2.6,Daytime,25.5,18.9,September
+246,Largemouth Bass,30,519.2,5.3,Evening,22,18.8,September
+247,Northern Pike,82.2,5314.5,1.4,Evening,13.9,14.8,October
+248,Black Crappie,22.3,241.9,2.3,Evening,24.5,17.2,June
+249,Channel Catfish,61.8,3148.4,1.1,Night,22,23.3,July
+250,Largemouth Bass,39.6,1151.6,4.6,Evening,22.5,18.8,September
+251,Bluegill,11,46.4,1.1,Daytime,9,9.2,November
+252,Yellow Perch,18.6,151.1,6.8,Night,7.7,14.8,October
+253,Largemouth Bass,54.3,3342,2.4,Morning,18.4,13.5,May
+254,Smallmouth Bass,26.8,439.5,6.6,Daytime,34.8,18.9,July
+255,Largemouth Bass,30.6,526.7,2.4,Night,9.5,8.1,April
+256,Common Carp,53.7,2324.9,0.6,Morning,18.1,19.7,September
+257,Yellow Perch,24.3,348.7,2.7,Night,13.6,14,May
+258,Bluegill,24.1,405.3,1.1,Daytime,29.2,17.7,June
+259,Rainbow Trout,56,3033.3,11.5,Evening,28.5,18,August
+260,Walleye,39.7,911.9,12.8,Daytime,32.3,17,August
+261,Yellow Perch,16.4,104.1,3.7,Morning,18.4,12.5,May
+262,Northern Pike,68.6,3071.9,6.6,Morning,18,16.4,September
+263,Yellow Perch,13.9,61.2,2.4,Evening,20.4,13.2,May
+264,Smallmouth Bass,40.7,1652.5,2.5,Daytime,26,13.7,May
+265,Largemouth Bass,28.3,436.4,1.1,Morning,20.4,18.9,June
+266,Largemouth Bass,43.7,1618.4,2.6,Evening,30.3,22,July
+267,Bluegill,13.7,86.9,1.4,Daytime,29.6,22.9,August
+268,Largemouth Bass,53.2,3033.3,5.4,Daytime,19.9,14.5,October
+269,Black Crappie,27.5,430.2,3.7,Morning,22.9,17.9,June
+270,Yellow Perch,13.8,58.6,4.8,Daytime,12.9,3.4,March
+271,Common Carp,81.6,6803.6,3.7,Daytime,11.9,8.2,November
+272,Largemouth Bass,40.8,1365.5,2.4,Evening,27.1,22.2,July
+273,Smallmouth Bass,26.6,404,8.1,Daytime,28.2,14.5,June
+274,Largemouth Bass,58.5,4183.3,1.9,Evening,23.8,18.5,June
+275,Walleye,56.4,2366,9.2,Night,23,18.7,August
+276,Bluegill,15.9,132.7,2,Morning,22.1,17.1,June
+277,Common Carp,73.7,5165.9,3,Evening,25.3,23,August
+278,Bluegill,14.6,103.2,3.1,Daytime,10.8,8.4,November
+279,Bluegill,13.7,93.8,0.3,Evening,3.6,10.3,November
+280,Walleye,37.6,705.1,14,Evening,27.2,15.9,August
+281,Bluegill,13.8,92.1,3.6,Evening,15.1,14.3,October
+282,Bluegill,20.8,285.2,2,Evening,24.1,18.6,June
+283,Yellow Perch,17.5,129.9,2.2,Daytime,20.7,14.7,October
+284,Yellow Perch,17.3,124.9,2.7,Evening,-1.1,1.1,January
+285,Yellow Perch,14.3,75.3,6.6,Daytime,32.1,20.2,August
+286,Largemouth Bass,51.4,2642.4,1.3,Morning,17.4,13.2,May
+287,Rainbow Trout,24.1,262.8,14.7,Evening,29.1,16.7,August
+288,Largemouth Bass,32.7,739.8,1.8,Night,21.9,22.3,August
+289,Walleye,46.7,1396,12.6,Daytime,30.7,17.2,August
+290,Smallmouth Bass,28.9,491,1.8,Morning,3.6,4.6,March
+291,Smallmouth Bass,26.1,397.7,8.1,Night,14.9,16.1,September
+292,Walleye,48,1637.3,14,Night,15.7,11.6,June
+293,Northern Pike,67.6,3003.4,6.1,Daytime,3.9,3.6,December
+294,Northern Pike,45,875.4,3.2,Daytime,19.4,7.5,April
+295,Bluegill,20.8,259.9,3.3,Daytime,10,4,March
+296,Yellow Perch,12.4,47,9.2,Daytime,12.4,4.2,March
+297,Channel Catfish,34.7,648.9,1.6,Evening,18.2,13,May
+298,Northern Pike,58.9,2115.6,4.1,Night,24.3,21.2,July
+299,Rainbow Trout,53.1,2326,11.7,Evening,17.5,11.4,May
+300,Common Carp,64.4,3514.1,5,Night,20.6,20.1,July
+301,Bluegill,21.1,294.9,1.7,Evening,29,22.4,August
+302,Bluegill,16.2,130.9,2.1,Evening,4.1,9.8,November
+303,Northern Pike,49.5,1221.7,3,Morning,16.9,19.4,September
+304,Bluegill,14.8,108.3,3.3,Evening,13.3,14.6,October
+305,Largemouth Bass,34.3,816.2,2.1,Daytime,28.6,18,June
+306,Bluegill,13.4,87.1,1.1,Evening,13.6,6.9,April
+307,Northern Pike,81.9,4955.5,3.8,Evening,22.8,17.6,June
+308,Largemouth Bass,55.2,3331,2.1,Evening,15.1,8.1,April
+309,Bluegill,12.6,64.8,1.9,Daytime,19.9,7.1,April
+310,Bluegill,21.9,323.1,0.5,Night,-9.8,2.7,January
+311,Yellow Perch,26.3,441,7.2,Daytime,23.7,16.3,September
+312,Smallmouth Bass,28.3,527.5,7.5,Daytime,9.1,3,March
+313,Largemouth Bass,57.3,3794,2.8,Morning,14.3,12.4,May
+314,Largemouth Bass,54.3,3460.7,2.6,Night,20.9,21.6,July
+315,Walleye,40.5,837.1,10.5,Evening,27.3,19.1,August
+316,Walleye,45.5,1252.9,8.6,Evening,27.2,17.7,July
+317,Black Crappie,27.1,385.7,6.5,Evening,-1.9,1.2,February
+318,Yellow Perch,21.2,235.2,7.8,Night,19.1,20.1,August
+319,Walleye,41.1,967.7,9.1,Morning,21.1,14,June
+320,Black Crappie,15.5,92.4,3.9,Daytime,24,19.3,September
+321,Smallmouth Bass,32.8,801.3,3.7,Night,12.8,19,September
+322,Common Carp,82,6669.7,1.3,Night,10.8,14.5,May
+323,Walleye,64.1,4050.7,10.8,Evening,18.3,10.3,May
+324,Walleye,57.8,2774.6,8.3,Morning,10.6,5.5,April
+325,Northern Pike,68.5,3186.9,4,Morning,-7.4,1.9,January
+326,Yellow Perch,21.1,226.6,5.3,Evening,14.7,13.9,October
+327,Yellow Perch,25.1,332.1,7.4,Morning,4.6,8.4,November
+328,Bluegill,9.1,29.4,0.9,Evening,25,22.7,August
+329,Rainbow Trout,32.7,576.5,10.4,Daytime,16.8,12.9,October
+330,Black Crappie,17.9,134.9,6.2,Evening,-4.1,1.8,January
+331,Walleye,54.2,2362.1,13.2,Night,20.2,15.2,July
+332,Black Crappie,22.4,266.1,1.8,Evening,20.4,12.7,May
+333,Smallmouth Bass,47.2,2628.8,6.7,Morning,25.8,18.7,July
+334,Smallmouth Bass,23.8,285.3,2.2,Night,0.5,2.9,March
+335,Black Crappie,12.7,57.6,4.4,Night,-1.3,8.1,November
+336,Smallmouth Bass,46.8,2521.6,8.1,Daytime,12.7,7.4,November
+337,Common Carp,59.5,3167.4,5.3,Daytime,13.5,3.5,March
+338,Yellow Perch,19.6,183.6,6.1,Daytime,24.9,17.3,September
+339,Northern Pike,99.9,8634.4,2.4,Evening,18.2,13.5,May
+340,Largemouth Bass,25.3,315.3,1.2,Night,8.2,8.5,April
+341,Largemouth Bass,45.6,2025.8,2.9,Morning,16.4,13.2,May
+342,Bluegill,21.5,284.2,1.7,Night,10.7,13.5,May
+343,Black Crappie,34.3,774.4,1.6,Morning,22.7,22.9,July
+344,Common Carp,85.2,7641,2.9,Evening,21.1,19.2,September
+345,Yellow Perch,11.8,43,6.4,Daytime,33.1,20.1,August
+346,Bluegill,15,108.1,1.1,Morning,23.4,18.5,June
+347,Yellow Perch,15.1,78.3,8,Morning,15.1,11.8,May
+348,Smallmouth Bass,27.6,458.1,2.5,Night,13.1,19.2,September
+349,Bluegill,19.8,248.7,1.9,Daytime,32.5,23.2,August
+350,Yellow Perch,22.6,262.4,8.8,Evening,22.8,16.1,September
+351,Largemouth Bass,57.7,3730.4,2.1,Morning,2.7,9,November
+352,Smallmouth Bass,29.1,506.8,1.9,Evening,15.4,6.6,April
+353,Yellow Perch,26.3,378.8,3.6,Night,14.4,12.2,May
+354,Smallmouth Bass,38.9,1379.6,2.6,Daytime,29.9,16.7,June
+355,Bluegill,21,300.1,1.5,Morning,27,22,July
+356,Black Crappie,15.4,99.2,2.3,Evening,20.9,14.4,May
+357,Bluegill,12,55.8,1.9,Daytime,18.4,14.8,October
+358,Bluegill,15.1,114.2,2.1,Evening,23.8,17.8,June
+359,Black Crappie,20.9,191.3,6.4,Daytime,4.8,2,February
+360,Common Carp,52.7,2150.1,4.4,Daytime,31,21.2,July
+361,Bluegill,22.5,331.8,1.8,Daytime,35,22.1,July
+362,Yellow Perch,23.2,304.3,10,Daytime,3.9,3.3,December
+363,Bluegill,17.9,173.8,1.4,Morning,21.5,23.6,August
+364,Rainbow Trout,33.4,685.2,5.9,Evening,18.5,18.1,September
+365,Largemouth Bass,43.9,1720,1.3,Morning,1,10.4,November
+366,Bluegill,15.3,110.5,1.2,Evening,27,23.5,August
+367,Walleye,61.8,3626.6,14.4,Night,-3.8,2.9,December
+368,Common Carp,38.1,996.1,1.3,Morning,0.6,9.7,November
+369,Black Crappie,16.5,115,4.7,Night,8.6,14.1,October
+370,Northern Pike,48.2,1060.5,7.5,Evening,27.6,18.9,August
+371,Yellow Perch,29.9,607.4,6,Evening,5.2,7.7,November
+372,Largemouth Bass,58.9,4275.3,1.3,Daytime,34.5,22.3,July
+373,Rainbow Trout,33,584.6,6.4,Morning,14.4,12.3,May
+374,Black Crappie,19,161.1,3.2,Evening,25.8,22.7,August
+375,Bluegill,18.9,202,1.3,Daytime,34.8,22.9,July
+376,Yellow Perch,25.2,374.8,4.2,Morning,12.3,15.9,October
+377,Channel Catfish,49.4,1846.6,11.9,Night,16.8,11.7,June
+378,Walleye,68,4309.8,8.3,Evening,12.4,13.3,October
+379,Walleye,40.9,916.7,10.8,Night,23,16.6,July
+380,Bluegill,22.7,319.3,2.1,Daytime,29.5,18.2,June
+381,Yellow Perch,27.2,457.6,8.1,Morning,16.7,17.3,September
+382,Largemouth Bass,27.5,420.7,0.6,Evening,16.2,16.4,October
+383,Northern Pike,50.5,1380,2,Night,13.5,13.8,May
+384,Yellow Perch,26.3,386.4,7.4,Daytime,26.4,12.7,May
+385,Largemouth Bass,40.6,1387.5,2.9,Evening,6,4.5,March
+386,Yellow Perch,15,86.4,3.9,Evening,2,2.5,February
+387,Largemouth Bass,41.7,1343.7,4.2,Morning,22.7,22.5,August
+388,Common Carp,48.6,1699.1,2.9,Morning,24.7,21.7,August
+389,Black Crappie,18.6,147.3,3.6,Morning,18.9,17.4,June
+390,Black Crappie,17.4,125.9,4.2,Evening,16.1,15.1,October
+391,Largemouth Bass,41.5,1532.6,3,Evening,28.1,20.4,July
+392,Bluegill,8.5,24,2.2,Evening,6.8,3.4,March
+393,Walleye,44.7,1209.9,10,Morning,12.5,13.7,October
+394,Northern Pike,37.5,556.2,6.1,Daytime,26.1,18.3,September
+395,Common Carp,61.2,3174.8,1.7,Daytime,30.2,23.7,August
+396,Channel Catfish,44.5,1343.3,7,Night,22.1,20.5,August
+397,Bluegill,10,36.4,3,Daytime,33.8,22,July
+398,Walleye,66.4,4459,3.4,Night,-5.5,2.4,February
+399,Northern Pike,85.4,6037.6,1.5,Morning,26.2,24.1,August
+400,Bluegill,17.5,169.3,2.8,Daytime,28.1,19.4,September
+401,Northern Pike,61.1,2072.6,1.8,Evening,21.3,13,May
+402,Common Carp,42.8,1350.4,1.1,Daytime,17.8,8.2,April
+403,Bluegill,13.8,94.3,1,Daytime,17.6,15.1,October
+404,Largemouth Bass,32,629.5,1.9,Morning,23.1,23.9,August
+405,Common Carp,33.4,634.3,0.7,Evening,24.1,19.4,June
+406,Channel Catfish,53.1,2131.8,9.4,Night,12.1,11.4,May
+407,Black Crappie,16.6,114.2,3.4,Daytime,9.4,9,November
+408,Walleye,28.1,284.5,12,Evening,28.1,16.9,August
+409,Yellow Perch,19.6,188.4,4.6,Daytime,18.2,5.9,April
+410,Common Carp,72.7,5287,2.3,Morning,2.5,4.6,March
+411,Largemouth Bass,33.5,732.9,1.7,Morning,21.1,19,June
+412,Black Crappie,24.2,285.8,4.9,Night,-6.3,0.9,January
+413,Bluegill,13.2,81.9,1.5,Evening,3.6,9.1,November
+414,Channel Catfish,79.4,5579.4,5.1,Evening,24.6,20.5,August
+415,Smallmouth Bass,38.7,1244,6.2,Morning,9,15,October
+416,Channel Catfish,85,7353.8,10.2,Evening,25.3,17.9,August
+417,Largemouth Bass,30.7,578.9,0.6,Morning,8,7.1,April
+418,Smallmouth Bass,43.9,2096.6,5.6,Daytime,32.4,20.2,July
+419,Black Crappie,21.9,231,2.4,Daytime,20,8.1,April
+420,Largemouth Bass,29.2,493.4,4.6,Evening,7.4,3.3,March
+421,Largemouth Bass,42.8,1598.5,2.5,Evening,14.5,14.8,October
+422,Yellow Perch,15.1,82.7,7.8,Daytime,24.4,16.3,September
+423,Channel Catfish,68,4114.1,8.1,Evening,16.9,12.7,May
+424,Walleye,66.2,4102.4,6.5,Evening,20.9,16.5,September
+425,Smallmouth Bass,31.3,656.7,9.4,Night,-8.4,2.3,December
+426,Largemouth Bass,30.9,593,2.2,Morning,13.6,13.9,May
+427,Common Carp,62,3294.2,4.5,Morning,25.1,20.4,July
+428,Bluegill,20.9,290.1,2.9,Evening,20.7,19.8,September
+429,Yellow Perch,11.7,39.6,4.6,Evening,20.3,18.1,September
+430,Bluegill,14.3,103.9,1.3,Evening,29,22.6,July
+431,Bluegill,14.6,97.1,2.9,Night,15.2,19.6,September
+432,Largemouth Bass,57.2,3836.8,5.4,Morning,-1.3,1.4,February
+433,Largemouth Bass,32.9,654.1,2.9,Evening,13.2,7.4,April
+434,Bluegill,13.8,89,1,Morning,8.9,15.4,October
+435,Black Crappie,27.2,389.8,3.6,Morning,-4.1,1.9,January
+436,Bluegill,23.4,376.6,3.1,Morning,25.7,20.6,July
+437,Black Crappie,30.5,535.4,4.1,Night,22,20,July
+438,Walleye,39,791.8,10.5,Morning,4.7,2.3,March
+439,Black Crappie,16.2,103.2,5.5,Evening,19.6,19,September
+440,Rainbow Trout,41.6,1278.5,12.8,Evening,16.4,13.4,October
+441,Black Crappie,19.1,171.6,1.4,Daytime,30.5,19.1,June
+442,Largemouth Bass,36.8,1003.1,2.5,Evening,18.9,19.6,September
+443,Walleye,64.1,3831.4,7,Evening,22.3,18,September
+444,Yellow Perch,27.6,438.5,4.8,Evening,16.6,12.5,May
+445,Largemouth Bass,59.7,4457.7,3,Evening,17.7,13.4,May
+446,Yellow Perch,11.8,37.8,7.1,Night,17.9,15.3,June
+447,Channel Catfish,59.3,2845,1.9,Night,14.8,19,September
+448,Yellow Perch,19.6,186.6,2.4,Daytime,23,13.3,May
+449,Bluegill,16,123.3,0.7,Evening,3.8,3.5,March
+450,Walleye,35.2,576.7,13.2,Night,20.7,16,August
+451,Largemouth Bass,29.4,473,3.5,Evening,-1.6,3.1,December
+452,Largemouth Bass,32.5,660.5,0.7,Evening,14.3,7.4,April
+453,Bluegill,24.9,420,1.5,Morning,16.6,20.9,September
+454,Bluegill,20.4,262.3,3.6,Morning,23.9,22.7,August
+455,Largemouth Bass,45.1,1926.7,2.7,Night,13.3,19.1,September
+456,Yellow Perch,22.3,248.9,3.4,Night,14.5,19,September
+457,Walleye,59.1,3059.8,12.4,Evening,27.5,16.3,August
+458,Common Carp,55.8,2424.8,5.4,Night,1.9,3.3,March
+459,Bluegill,13.9,87.8,0.8,Daytime,12.5,3.6,March
+460,Walleye,49.2,1727.8,5.6,Night,-1.4,8,November
+461,Black Crappie,12.1,50.9,5.9,Evening,5.6,3.4,March
+462,Yellow Perch,29.1,546.4,6.1,Daytime,28.4,14.7,June
+463,Smallmouth Bass,49.3,2750.3,2.6,Daytime,17.9,6.4,April
+464,Channel Catfish,85.8,6971.7,3.9,Night,2.3,9.1,November
+465,Walleye,51.4,1930.5,14.3,Night,6.8,3.4,April
+466,Rainbow Trout,53.5,2644.6,13.2,Morning,26.4,16.3,July
+467,Largemouth Bass,58.8,4343.4,0.6,Daytime,22.9,13.6,May
+468,Yellow Perch,16.2,93.2,6.7,Daytime,21.3,13.5,October
+469,Walleye,42.2,949.5,9.6,Evening,27.8,18.9,August
+470,Walleye,58.8,2881.1,14.5,Evening,20,12.1,September
+471,Largemouth Bass,23.4,257.6,3.9,Morning,23.6,22.4,August
+472,Smallmouth Bass,33,789.9,4.9,Evening,21.1,13.4,May
+473,Yellow Perch,16.8,111,4.7,Daytime,10.3,2.7,March
+474,Common Carp,61.6,3112.6,3,Evening,6.6,3.5,March
+475,Largemouth Bass,24.9,315.9,3.1,Evening,28.4,21.9,August
+476,Smallmouth Bass,18.9,138,2.4,Evening,7.6,9.3,November
+477,Bluegill,19.9,247.1,0.7,Morning,24.2,22.3,July
+478,Largemouth Bass,51.7,2625.5,4.4,Night,21,20.7,July
+479,Largemouth Bass,33.2,674.7,4.9,Morning,-6.2,2,January
+480,Largemouth Bass,45.5,1879.8,5.6,Evening,27.7,20.2,August
+481,Smallmouth Bass,48.4,2547.7,7.3,Morning,12.2,14.7,October
+482,Yellow Perch,15.2,86.8,4.9,Evening,-1.9,0.8,February
+483,Common Carp,61.2,3036.4,2.3,Morning,9.6,7.4,April
+484,Yellow Perch,18.6,153.9,2.6,Morning,11.5,6.7,April
+485,Yellow Perch,16.1,97.6,6,Night,23.4,19.6,July
+486,Largemouth Bass,30.8,584,1.1,Daytime,26.2,12.9,May
+487,Black Crappie,21.6,235.6,1.3,Morning,11.3,16.3,October
+488,Common Carp,66.5,4014.5,3.4,Morning,25.1,21.2,July
+489,Largemouth Bass,34.5,760.7,2.8,Night,5.4,6.5,April
+490,Yellow Perch,16.4,112.6,8.5,Daytime,23.6,12.9,May
+491,Largemouth Bass,40,1356,1.8,Daytime,29.5,17.1,June
+492,Channel Catfish,40.3,1013,6.2,Night,5.1,6.1,April
+493,Smallmouth Bass,46.5,2462.9,5.9,Morning,26.6,20.4,July
+494,Rainbow Trout,37.1,866.3,10.2,Evening,15,13.1,October
+495,Yellow Perch,13.1,55.6,9.6,Morning,9.9,4.8,April
+496,Yellow Perch,24.2,331.8,9.8,Night,14.9,11.4,May
+497,Largemouth Bass,35.9,926.9,2.2,Night,17.9,18.5,June
+498,Bluegill,21.5,301.5,0.4,Morning,15,14.3,May
+499,Walleye,68.6,4474.6,6.1,Evening,19.6,13.1,May
+500,Largemouth Bass,30.1,508.2,1.1,Morning,23.4,22.2,July
+501,Common Carp,43.8,1341,3.8,Evening,25.6,21.2,July
+502,Largemouth Bass,43.9,1686.2,1.1,Evening,28.2,23,July
+503,Largemouth Bass,34.2,839.3,4,Evening,28.8,21.4,July
+504,Yellow Perch,19.3,169.6,3,Evening,11.8,14.8,October
+505,Largemouth Bass,34.6,767.2,4.3,Morning,24.5,21.5,July
+506,Walleye,68.6,4939.7,11.8,Daytime,10.6,2.1,March
+507,Walleye,52.4,1904.5,9.4,Night,12.5,12.3,May
+508,Bluegill,16.1,138.7,2.5,Evening,-0.7,1.7,January
+509,Largemouth Bass,35.1,844.7,1.5,Morning,-2.3,2.7,February
+510,Smallmouth Bass,44.3,2106,4.3,Evening,16.2,15.4,October
+511,Common Carp,77.4,5967.5,2.3,Morning,23.5,21.6,July
+512,Walleye,46.7,1415.9,13,Evening,26.1,10.9,June
+513,Largemouth Bass,38.7,1102.2,2.9,Evening,20.5,20,September
+514,Largemouth Bass,31.1,582,0.7,Evening,21.6,18.2,June
+515,Smallmouth Bass,27.3,456.2,3.4,Morning,19.4,19.4,September
+516,Bluegill,17,150.6,0.4,Morning,17.9,13,May
+517,Black Crappie,28.7,465.1,1.5,Evening,25.2,17.7,June
+518,Largemouth Bass,39.2,1236.4,0.5,Evening,25.2,23.2,August
+519,Northern Pike,88.4,6007.8,7.7,Morning,27,19,July
+520,Channel Catfish,85.8,6646.7,2.4,Night,17.2,17.9,June
+521,Yellow Perch,19.6,187.4,7.9,Morning,3,4,March
+522,Yellow Perch,21,229.4,9.1,Morning,25.5,17.5,July
+523,Largemouth Bass,52.4,2883.8,3.1,Morning,19.3,17,June
+524,Bluegill,12,56.2,1,Morning,22.9,18,June
+525,Bluegill,19,211.1,1.3,Daytime,20.8,16.4,October
+526,Black Crappie,13.4,60.2,5.6,Evening,3.8,9.1,November
+527,Bluegill,16.3,147.9,0.6,Morning,8.8,8.3,April
+528,Channel Catfish,86,7086,6.6,Evening,27.9,19,July
+529,Smallmouth Bass,36.2,1000.6,6.4,Daytime,29.2,14.5,June
+530,Bluegill,11.7,56.7,1.3,Evening,16.3,15.6,October
+531,Bluegill,11.5,51.5,2.5,Morning,25.2,21.6,July
+532,Largemouth Bass,21.6,188.8,1.5,Night,7.8,7.2,April
+533,Black Crappie,25.3,359,1,Night,15.8,20.1,September
+534,Rainbow Trout,44.9,1471.2,11.2,Daytime,33.5,17.5,August
+535,Yellow Perch,19,160.5,3.4,Evening,16.3,14.4,October
+536,Smallmouth Bass,31.1,722,9.3,Night,16.5,13,June
+537,Rainbow Trout,27,361.3,9.4,Morning,26.9,18.6,July
+538,Channel Catfish,39.4,1021.1,9.5,Night,21.9,18.4,July
+539,Channel Catfish,48.7,1780.2,5.7,Night,-2.2,3.1,March
+540,Black Crappie,15,91.9,1.3,Night,18.8,17.8,June
+541,Largemouth Bass,23.2,248.8,4.8,Night,20.2,19.7,July
+542,Bluegill,10,34.2,2.5,Daytime,30.6,22.3,July
+543,Bluegill,16.5,138.2,0.8,Daytime,31.8,21.7,July
+544,Smallmouth Bass,28.6,520.7,7.7,Night,24.2,19.5,July
+545,Largemouth Bass,31.3,579.8,3.3,Night,-6.7,2.3,February
+546,Black Crappie,19.9,183.9,1.7,Morning,21.6,22.7,August
+547,Largemouth Bass,28.4,431.4,1.6,Evening,19.9,14.3,May
+548,Black Crappie,18.1,132.3,4.1,Morning,19,16.8,June
+549,Smallmouth Bass,45.3,2167.1,9.6,Daytime,30.5,14,June
+550,Channel Catfish,39,954.5,3.9,Evening,27.1,20.5,July
+551,Channel Catfish,43.5,1279.6,7.7,Evening,15.9,13.1,October
+552,Northern Pike,94.4,7386.4,3,Morning,9.8,7.9,April
+553,Yellow Perch,25.8,374.7,9,Night,9.1,5.4,April
+554,Walleye,59.8,3167.2,11.4,Night,-1,3.8,March
+555,Northern Pike,40.5,680.3,3,Morning,22.3,23.2,August
+556,Yellow Perch,18.8,144.8,5.8,Daytime,26,13,May
+557,Bluegill,18.4,202.7,2.7,Evening,28.8,22.6,August
+558,Common Carp,40.3,1142.1,4.5,Night,13.5,19.2,September
+559,Channel Catfish,52,1957.4,5.5,Night,11.3,13.4,May
+560,Yellow Perch,15.4,80.4,6.5,Night,5.9,13.5,October
+561,Rainbow Trout,25.3,282.3,12.5,Night,-2.2,3.1,March
+562,Bluegill,11,50.7,3.2,Daytime,34.4,21.6,July
+563,Yellow Perch,16,101.5,8.7,Evening,26.7,18.8,August
+564,Bluegill,13.4,87.7,3.5,Evening,15.3,15.4,October
+565,Channel Catfish,36.8,769.8,7.2,Evening,29.4,20.4,August
+566,Bluegill,21.2,300.2,1.4,Evening,12.9,16.5,October
+567,Smallmouth Bass,44.8,2202,8.6,Daytime,30.8,13.6,June
+568,Northern Pike,34.6,469.1,3.8,Morning,14.5,12.2,May
+569,Black Crappie,34.8,771.7,1.5,Morning,22,17.3,June
+570,Rainbow Trout,33.3,606.8,13.1,Daytime,4.2,1,January
+571,Common Carp,68.3,4536.4,1.8,Night,14,13.5,May
+572,Walleye,43.6,1114.7,5.4,Night,16.5,16.7,June
+573,Black Crappie,15.1,87,1.9,Daytime,30.9,17.5,June
+574,Bluegill,18.6,214.3,1.1,Evening,14.9,8.1,April
+575,Yellow Perch,20.1,175,9,Daytime,29.8,20,August
+576,Northern Pike,88.5,6743.8,7.8,Evening,22.9,17.4,September
+577,Smallmouth Bass,19.8,153.4,7.4,Night,18.5,14.7,June
+578,Yellow Perch,18.7,145.7,8,Night,20.7,18.2,July
+579,Black Crappie,16.9,109.5,3.4,Morning,15.8,12.2,May
+580,Northern Pike,37.4,533.4,2.2,Daytime,17.4,8.1,April
+581,Northern Pike,60.2,2069.8,5.7,Evening,4.7,9.1,November
+582,Yellow Perch,22.1,241.5,3.7,Morning,-3.3,2.3,January
+583,Largemouth Bass,59.6,4467.1,1.3,Night,18.6,23.4,August
+584,Black Crappie,31.3,584.5,7.6,Evening,6.3,7.4,November
+585,Bluegill,16.2,129.6,1,Morning,-2.9,1.7,February
+586,Yellow Perch,29,530.9,3.8,Evening,10.5,6.8,April
+587,Walleye,40.9,902.9,8,Evening,13.3,14.4,October
+588,Common Carp,49.6,1971.9,1.6,Morning,-6.1,2.7,January
+589,Yellow Perch,19.3,161.9,7.5,Evening,18.8,11.4,May
+590,Largemouth Bass,27.2,374.1,1.1,Daytime,24.4,21.1,September
+591,Northern Pike,54.7,1692.2,2.3,Night,17.2,17.1,June
+592,Largemouth Bass,59.9,4583,2.4,Daytime,33.8,21.1,July
+593,Black Crappie,16.8,118,4.7,Evening,8.3,2.7,March
+594,Bluegill,24.2,405.8,1.2,Evening,25.2,18.4,June
+595,Yellow Perch,28,517,7.3,Daytime,34.2,20.9,August
+596,Northern Pike,67.8,3210.3,1.5,Morning,15.5,13.5,May
+597,Bluegill,16.4,152.2,1.8,Evening,18.3,14.4,May
+598,Channel Catfish,83.6,6508,5.6,Night,7.8,5.7,April
+599,Largemouth Bass,46.3,2017.9,2.2,Morning,25.7,21.4,July
+600,Smallmouth Bass,27.4,469.3,2.8,Morning,5,8.4,November
+601,Black Crappie,31,557.7,3,Daytime,29.3,18.3,June
+602,Bluegill,19.9,224.1,2.9,Morning,-7.5,0.9,January
+603,Walleye,29.3,347.2,14.9,Daytime,12.7,3.2,March
+604,Walleye,55.4,2481.4,6.5,Evening,17.4,12.8,May
+605,Common Carp,46.6,1491.6,1.7,Evening,20.9,13.5,May
+606,Black Crappie,26.5,360.8,7.6,Daytime,17.3,15,October
+607,Yellow Perch,20.4,200.6,7.5,Daytime,24.6,11.5,May
+608,Yellow Perch,12.6,52.4,3.7,Night,12.5,12.1,May
+609,Largemouth Bass,35.1,789.4,0.6,Evening,17.3,13.8,May
+610,Bluegill,23.2,396,0.9,Evening,28.6,21.6,July
+611,Black Crappie,19.6,186,5.2,Morning,15.9,18.2,September
+612,Walleye,60.1,2914.6,15,Evening,25.8,15.8,August
+613,Yellow Perch,20.1,201.2,6.7,Morning,27.3,18.8,July
+614,Largemouth Bass,42.4,1487.3,5.7,Daytime,23.7,17.5,September
+615,Bluegill,11.6,55.2,1.7,Evening,25.1,23,August
+616,Rainbow Trout,40,1091.8,3,Night,12.1,12.9,May
+617,Rainbow Trout,51.6,2089.7,8.7,Evening,13.4,14.3,October
+618,Bluegill,16.5,146,3.2,Morning,17.4,20.2,September
+619,Bluegill,10.7,47.1,3.4,Evening,29,21.3,August
+620,Northern Pike,56.3,1663.4,1.5,Evening,30.3,22.5,July
+621,Black Crappie,28.7,441.2,4.7,Evening,26.2,21.7,August
+622,Walleye,30.5,349.3,4,Morning,19.3,18.3,September
+623,Smallmouth Bass,33,804.3,6.2,Daytime,17.6,14,October
+624,Black Crappie,23.8,273.2,7.5,Morning,25.8,19.7,August
+625,Yellow Perch,28.3,496.8,9.4,Morning,11.6,14.1,October
+626,Largemouth Bass,42.5,1594.7,5.1,Daytime,33.8,20.6,August
+627,Bluegill,15.9,131.3,0.6,Evening,-2.3,1.5,February
+628,Bluegill,22.8,346.7,0.6,Morning,-2.6,2.8,February
+629,Walleye,42.1,995.4,10,Evening,29.4,18.1,July
+630,Black Crappie,22.2,235.8,1.4,Evening,12,16.1,October
+631,Bluegill,22.7,369.4,2,Morning,20.2,17,June
+632,Yellow Perch,14.9,83.7,6.7,Evening,25.5,18.7,July
+633,Largemouth Bass,31.8,612.9,3.1,Evening,25.4,18.1,June
+634,Walleye,44.9,1154.4,9.9,Morning,23.1,18.5,August
+635,Walleye,63,3765.1,5.9,Evening,2.2,4.1,December
+636,Walleye,61.4,3142.4,14.7,Night,-5.6,0.5,February
+637,Largemouth Bass,26,331.8,3.8,Night,20.9,21.6,July
+638,Black Crappie,26.6,382.6,3.6,Evening,5.4,9.1,November
+639,Northern Pike,55.7,1813.5,6.4,Evening,20.2,17.2,September
+640,Bluegill,12.1,66.7,1.2,Night,19.9,23.8,August
+641,Bluegill,11.9,57.7,2.3,Evening,-1.3,0.9,February
+642,Walleye,35.7,588.5,9.9,Morning,3.7,2.6,March
+643,Walleye,36.3,690.9,10.6,Evening,6.6,2.8,March
+644,Bluegill,24.4,425.6,2,Morning,18.4,20.8,September
+645,Smallmouth Bass,22.6,237.6,3.1,Night,10.2,15,October
+646,Common Carp,48.3,1885.8,2.8,Morning,10.7,7.3,April
+647,Largemouth Bass,40.7,1440.2,1.3,Evening,17.8,13.8,May
+648,Largemouth Bass,54.2,3089.9,1.2,Morning,19.1,18.6,June
+649,Largemouth Bass,28.6,424.9,2,Daytime,16.1,8,April
+650,Walleye,66.1,4252.4,6.4,Morning,21.3,14.5,June
+651,Bluegill,17.8,187.9,0.7,Evening,21.8,21.1,September
+652,Black Crappie,25.9,391.6,4.7,Night,13.2,18.4,September
+653,Common Carp,42.3,1148.2,2,Night,0.3,9.7,November
+654,Largemouth Bass,26,325.8,2.6,Night,7.4,15.9,October
+655,Northern Pike,72.3,3584.2,4.2,Night,20.1,16.2,June
+656,Bluegill,18.1,193.5,2.8,Daytime,31.9,21.8,August
+657,Smallmouth Bass,41.4,1653.1,7.8,Night,12.1,11.4,May
+658,Channel Catfish,43.8,1339.3,10.7,Daytime,25.3,14.6,September
+659,Smallmouth Bass,25.2,371.7,5.7,Morning,4.6,8.1,November
+660,Common Carp,88.6,8724.9,3.5,Evening,-2.4,1.5,January
+661,Bluegill,17.1,160.9,1.6,Daytime,16.1,8.3,April
+662,Yellow Perch,12.4,45.9,5.9,Night,11.3,13.2,May
+663,Walleye,37.9,706.7,6.8,Evening,24.6,14.6,June
+664,Bluegill,21.3,295.3,1,Morning,22.8,18.1,June
+665,Northern Pike,55.3,1746.5,2.7,Night,1.7,3.2,March
+666,Yellow Perch,15.3,85.6,5.4,Daytime,18.1,14,October
+667,Walleye,57.8,2598.4,12.6,Evening,28.4,17.9,August
+668,Rainbow Trout,52.2,2520.3,11.1,Night,22.7,17.9,August
+669,Bluegill,14.3,97.5,3.1,Evening,21.4,19.8,September
+670,Bluegill,9.9,34.9,2.9,Daytime,33.1,22.6,August
+671,Bluegill,13.2,73.7,2.8,Evening,25.3,22.6,August
+672,Northern Pike,43.4,829.1,6.1,Daytime,33.3,20.3,August
+673,Bluegill,22.3,347,2.9,Evening,7.6,3.6,March
+674,Northern Pike,83.6,5599.4,5.7,Night,19.1,21.5,August
+675,Walleye,35.4,566.2,8.1,Night,21.7,18,July
+676,Bluegill,15.1,116.5,1.2,Daytime,30.3,19.3,June
+677,Largemouth Bass,29.8,546,3.2,Evening,26.6,21.4,August
+678,Smallmouth Bass,34.5,993.7,8.8,Morning,22.7,19.5,August
+679,Largemouth Bass,42.6,1470.5,2.1,Night,-2.1,9.8,November
+680,Black Crappie,26,357.5,6.8,Daytime,4.9,1.9,January
+681,Rainbow Trout,44.3,1580.1,12.4,Morning,21.1,12.8,June
+682,Common Carp,47.3,1750.6,0.7,Evening,7.4,4.6,March
+683,Yellow Perch,18.5,136.4,8.1,Daytime,31.1,18.8,August
+684,Yellow Perch,20.4,183.5,9.3,Morning,11.3,14.4,October
+685,Bluegill,14.6,110.2,0.8,Night,12.7,20.9,September
+686,Yellow Perch,25.6,384.3,2.4,Night,16.2,17,June
+687,Walleye,48.9,1499.1,4,Evening,21.5,18.6,September
+688,Yellow Perch,20.4,191.2,4.6,Daytime,18.2,7.6,April
+689,Smallmouth Bass,27.8,507.8,5.9,Morning,22.8,20.2,July
+690,Bluegill,12.9,78.8,0.7,Daytime,3.4,2.1,January
+691,Black Crappie,23.4,277.2,2,Morning,14.7,13.1,May
+692,Rainbow Trout,37.2,875.2,5.9,Morning,19.3,16.5,June
+693,Smallmouth Bass,35.4,944,7.4,Daytime,24.7,11.6,May
+694,Largemouth Bass,44.6,1933.2,1.6,Evening,25.5,21.5,July
+695,Yellow Perch,22.6,246.4,2.1,Morning,3.2,9.7,November
+696,Bluegill,23.8,418.8,1.7,Morning,21.8,22.5,August
+697,Black Crappie,23,277.1,5.5,Morning,23.1,19.7,July
+698,Black Crappie,19.6,161.4,2,Night,-0.2,3.6,March
+699,Black Crappie,23.1,254.4,4.4,Morning,3.5,2.8,March
+700,Walleye,44.5,1198.3,7.2,Morning,22.3,15.6,June
+701,Yellow Perch,14,61.7,9.3,Daytime,26,11.8,May
+702,Bluegill,9,27,3.5,Morning,16,18.2,September
+703,Common Carp,79.5,6885,1.2,Evening,4.8,3.7,March
+704,Smallmouth Bass,31.8,698.7,2.1,Night,20.2,17.7,June
+705,Channel Catfish,72.7,4533.2,2.5,Evening,12.8,7,April
+706,Yellow Perch,23.8,328.6,5.4,Night,16.6,17.7,September
+707,Bluegill,15.2,111,0.5,Night,17.1,19.8,September
+708,Bluegill,17.6,169.1,3.1,Evening,-0.5,2.6,February
+709,Bluegill,18.9,211.9,1,Morning,19.9,20.6,September
+710,Black Crappie,33.4,717.5,2.3,Evening,23.1,17.6,June
+711,Rainbow Trout,42.4,1210.2,10.9,Evening,0.4,1,January
+712,Yellow Perch,29.2,574.3,7.5,Daytime,31,15.2,June
+713,Yellow Perch,18.1,150.1,6.4,Evening,27.2,19.8,July
+714,Bluegill,11.5,55.3,1.7,Morning,22.7,23.9,August
+715,Smallmouth Bass,26.4,427.2,7.7,Evening,23.6,14.8,June
+716,Rainbow Trout,51.7,2311.2,13.9,Morning,26.1,17.3,August
+717,Bluegill,22.9,345.9,0.8,Morning,-1.3,2.5,February
+718,Yellow Perch,22.8,249.6,7.6,Daytime,28.4,13.9,June
+719,Black Crappie,25.6,360.5,1.3,Evening,25,19,June
+720,Channel Catfish,63.2,3490,6.6,Night,8.4,13.9,October
+721,Smallmouth Bass,22,224,8.8,Evening,1.7,2,February
+722,Walleye,42.1,1047.4,11.9,Evening,16.3,13.3,October
+723,Bluegill,21,257.5,2.9,Evening,19.2,19.1,September
+724,Common Carp,33.7,698.8,1.4,Morning,17.9,12.7,May
+725,Smallmouth Bass,35.2,961.3,7.1,Evening,18.6,17.2,September
+726,Walleye,44.2,1251.9,11.1,Night,0.8,2.2,March
+727,Walleye,36.2,586.4,9.6,Night,22.9,17.4,July
+728,Common Carp,52.7,2242.2,1.2,Daytime,24.9,14.1,May
+729,Black Crappie,31.8,649.5,2.1,Morning,18.5,18.7,June
+730,Yellow Perch,21.7,252.8,9.5,Daytime,24.9,14.8,September
+731,Common Carp,50.5,1812.3,1.1,Daytime,16.2,8.4,April
+732,Channel Catfish,75.8,4769.1,9.6,Evening,28.2,18,August
+733,Largemouth Bass,27.4,369.6,5.1,Morning,27.2,21,July
+734,Yellow Perch,19.6,167.9,3.1,Night,-7.2,1.7,January
+735,Rainbow Trout,49.5,1903.7,8.8,Night,8.9,4.9,April
+736,Largemouth Bass,28.5,414.7,1.1,Evening,18.6,13.1,May
+737,Channel Catfish,63.9,3440,1.8,Night,7.6,8.2,April
+738,Largemouth Bass,43.6,1667.4,1.6,Night,14.1,20.3,September
+739,Largemouth Bass,46.1,1965.8,1.5,Morning,-4.7,3.7,December
+740,Common Carp,37.9,860.3,0.6,Morning,14.1,13.6,May
+741,Largemouth Bass,37.8,1157.8,3.1,Evening,13.6,15,October
+742,Bluegill,25,439.4,0.4,Evening,22.4,21.5,September
+743,Common Carp,46.2,1555.6,1.4,Daytime,25.8,13,May
+744,Bluegill,18.4,191.3,0.4,Daytime,31.3,23.4,August
+745,Bluegill,16.2,135.1,1.3,Evening,23.4,18.3,June
+746,Yellow Perch,17.2,111.2,8,Evening,25.7,20,August
+747,Black Crappie,17.3,129.3,1.1,Evening,-0.6,4.5,December
+748,Channel Catfish,88.4,7156.9,11.2,Night,21.7,17.5,July
+749,Bluegill,21.6,313.2,1.9,Night,14.9,19.8,September
+750,Bluegill,16.5,154.1,1.5,Evening,7.7,3,March
+751,Walleye,53.1,2075.2,3.2,Night,5.6,15.9,October
+752,Smallmouth Bass,37.9,1266.4,5.2,Daytime,19.7,14.6,October
+753,Smallmouth Bass,29.1,556.9,3,Morning,16.4,20.1,September
+754,Largemouth Bass,31.3,600.1,2.6,Evening,25.8,17.4,June
+755,Largemouth Bass,40.7,1426.8,5.7,Evening,12.7,15.2,October
+756,Yellow Perch,18.9,167.3,2.3,Evening,25.1,17.2,June
+757,Bluegill,14.1,91.8,2.6,Daytime,33.6,22.7,August
+758,Bluegill,12.4,65.6,3.3,Morning,25,20.9,July
+759,Walleye,32.8,464.4,14.9,Daytime,27.7,12.4,September
+760,Black Crappie,33,715.9,1.7,Evening,19.1,14.4,May
+761,Smallmouth Bass,27.6,484.1,7.2,Morning,23.1,14.8,June
+762,Largemouth Bass,38.6,1074.8,2,Evening,23.4,18.9,June
+763,Largemouth Bass,32.3,669.2,1.7,Morning,12.3,7.4,April
+764,Northern Pike,58,2048.9,1.1,Daytime,34.3,23.4,August
+765,Largemouth Bass,33.6,798.6,5.4,Morning,26.3,20.6,August
+766,Rainbow Trout,45.6,1507.7,11.3,Morning,19.7,14.4,September
+767,Largemouth Bass,42.8,1595.3,3.2,Night,6.8,8.2,April
+768,Bluegill,17.7,188,0.9,Daytime,33.6,23.6,August
+769,Walleye,47.4,1455.4,9.2,Night,19.7,18.1,July
+770,Northern Pike,64.3,2442.6,1.3,Night,7.8,8.2,April
+771,Largemouth Bass,35,908.6,3.4,Evening,29.7,20.7,July
+772,Rainbow Trout,35.3,720.9,11,Morning,22.7,18.1,August
+773,Yellow Perch,24,303.8,6.4,Daytime,28.4,15.8,June
+774,Largemouth Bass,27.6,381.5,1.1,Night,23.3,23.6,August
+775,Largemouth Bass,30.4,566.4,5.3,Night,21.4,21.2,August
+776,Black Crappie,24.1,305.9,7.7,Night,-4.1,3.3,December
+777,Largemouth Bass,30.9,579.4,3.5,Night,22.6,22.8,August
+778,Walleye,30.4,361.6,5.2,Night,-8.2,2.9,December
+779,Channel Catfish,57.7,2516.5,8.1,Night,20.1,14.5,June
+780,Yellow Perch,17.9,139.5,4.8,Evening,23.4,19,September
+781,Walleye,38,744.6,11.8,Morning,25.8,16.1,July
+782,Largemouth Bass,27.3,363.3,0.5,Morning,18,13.3,May
+783,Common Carp,71.4,5069.6,2.1,Evening,25.3,18.2,June
+784,Smallmouth Bass,31.7,753.9,6.3,Night,21.6,19.8,August
+785,Walleye,64.2,3893.9,4.2,Evening,26.1,16.6,June
+786,Walleye,40.5,838.4,14.3,Daytime,21.1,12,October
+787,Largemouth Bass,41.5,1480.3,5.9,Evening,23.1,18.6,September
+788,Smallmouth Bass,31.5,670.8,6.3,Daytime,29.5,16.4,June
+789,Yellow Perch,19.4,168.7,7.3,Morning,19.9,15.8,June
+790,Bluegill,19.3,209,1.1,Night,20.9,22.5,August
+791,Yellow Perch,20.9,204,8.9,Morning,10.1,14.3,October
+792,Channel Catfish,83.2,6717.8,11.9,Night,-7.5,3.8,December
+793,Walleye,61.8,3501.7,9.9,Daytime,34.7,16.9,July
+794,Channel Catfish,62.1,3104.1,4.4,Night,13.8,13.7,May
+795,Largemouth Bass,49.1,2452.9,5.2,Morning,-5.2,2.1,February
+796,Rainbow Trout,24.1,247.5,12.3,Night,-1.3,6.3,November
+797,Yellow Perch,15.9,93.5,8.9,Night,16.2,15.5,September
+798,Common Carp,60.1,2918.9,4.3,Evening,16.3,15.1,October
+799,Black Crappie,27.9,426.1,2.8,Morning,23.9,21.9,July
+800,Largemouth Bass,59.6,4594.9,0.9,Evening,25.3,24.4,August
+801,Largemouth Bass,39,1186.5,5,Daytime,28.4,17.4,September
+802,Bluegill,18.4,185.5,1,Daytime,31.9,23.3,August
+803,Black Crappie,27.8,434.5,3.5,Evening,12.3,7.8,April
+804,Bluegill,13.3,85.1,2.4,Morning,18.5,18.9,September
+805,Walleye,63.5,3621.7,11.6,Evening,30.1,17.1,July
+806,Black Crappie,18.2,135.4,5.9,Evening,-1.6,1.3,January
+807,Yellow Perch,12.6,45.6,4.6,Daytime,10.8,8.4,November
+808,Bluegill,14.4,95.8,3,Daytime,20.2,15.4,October
+809,Rainbow Trout,28.6,422.3,13.5,Morning,19.9,11.3,June
+810,Bluegill,20.6,263.8,1.1,Daytime,22.4,13.6,May
+811,Yellow Perch,18,145.1,7.7,Evening,-1.9,2.1,February
+812,Bluegill,16.6,149.8,2.5,Daytime,6.1,1.8,February
+813,Largemouth Bass,42.7,1605.8,5.8,Daytime,32.2,20,July
+814,Black Crappie,31.2,627.9,3.2,Evening,22.6,16.8,June
+815,Walleye,67.5,4516.5,6,Morning,16.1,16.8,September
+816,Black Crappie,33,700.4,7.3,Evening,20,17.4,September
+817,Common Carp,73.1,5241.7,2.2,Evening,3.9,4.1,March
+818,Common Carp,61.4,3287.3,3.3,Evening,29.5,21.2,July
+819,Largemouth Bass,27.1,396.9,4.7,Morning,24.4,20.4,August
+820,Bluegill,9.9,37.1,1.7,Morning,13.8,13.3,May
+821,Common Carp,84.8,7313.7,1.9,Evening,0.5,1.3,February
+822,Common Carp,62.7,3564.9,5.8,Night,13.8,18,September
+823,Walleye,51.8,1958.1,10.8,Night,24,16.4,July
+824,Smallmouth Bass,29,514,9.6,Night,11.7,11.8,May
+825,Smallmouth Bass,31.2,666,3.5,Morning,18.3,19,September
+826,Black Crappie,27.4,445.1,6.2,Daytime,29.5,21,August
+827,Rainbow Trout,46.4,1650.6,4.9,Morning,1.7,4.3,March
+828,Northern Pike,71.2,3708.7,1.2,Daytime,21.8,12.9,May
+829,Largemouth Bass,39.3,1212.1,0.6,Morning,24.7,22.8,July
+830,Yellow Perch,16.9,114.9,5.1,Evening,22.4,15.5,June
+831,Black Crappie,29.2,491.3,5.8,Morning,3.8,3.1,March
+832,Walleye,37,651.1,9.2,Evening,23.6,14,June
+833,Bluegill,9.6,33.9,0.6,Daytime,22.5,14.3,May
+834,Bluegill,13.6,89.7,2,Evening,17.1,12.8,May
+835,Black Crappie,20.3,180.5,2.4,Evening,26.1,21.3,July
+836,Black Crappie,20.8,212.5,6.9,Evening,19.6,16.3,September
+837,Largemouth Bass,36.3,873.7,2.8,Night,11.9,14.2,May
+838,Largemouth Bass,52,2936.9,3.5,Night,-1.5,9.2,November
+839,Bluegill,18.6,213.1,3.8,Daytime,7.2,3.8,December
+840,Black Crappie,24.5,290.7,4.3,Evening,21.4,13.6,May
+841,Largemouth Bass,40.9,1427.6,3.1,Morning,2,9.8,November
+842,Channel Catfish,67.5,3758.5,3,Morning,21.2,18.3,June
+843,Channel Catfish,63.3,3313.5,3.5,Morning,19.1,19.2,September
+844,Largemouth Bass,34.6,844.1,4.6,Daytime,6.5,1.2,February
+845,Largemouth Bass,51.7,2716.9,3.9,Evening,20.3,19.2,September
+846,Common Carp,56.3,2681,3.9,Daytime,26,18,September
+847,Walleye,68.6,4796,7.9,Evening,7.2,4.4,March
+848,Largemouth Bass,59.8,4257.4,4.8,Evening,30.3,20.8,July
+849,Bluegill,19.7,251.4,1.3,Evening,-1.7,4.1,December
+850,Smallmouth Bass,30.2,640.5,8.3,Morning,24.7,18.2,July
+851,Smallmouth Bass,30.4,642.3,8.1,Evening,25.8,17.8,July
+852,Yellow Perch,18.9,151,3.7,Daytime,26.5,12.3,May
+853,Walleye,56,2461.9,7.9,Daytime,33.9,18.9,July
+854,Walleye,65.6,4290.2,11.3,Daytime,20.9,12.5,October
+855,Black Crappie,33,737.4,4.8,Daytime,7.4,3.3,December
+856,Common Carp,40,1094.2,0.6,Morning,23.4,18,June
+857,Northern Pike,54.7,1531.8,1.2,Daytime,17.9,16.7,October
+858,Largemouth Bass,57,3884.2,0.8,Night,19.6,19.1,June
+859,Rainbow Trout,43.6,1370.9,9,Morning,18.2,11.1,May
+860,Rainbow Trout,53.9,2571,14.9,Morning,15.7,12,September
+861,Largemouth Bass,46.5,2053.1,4.8,Night,-7.2,2.8,December
+862,Common Carp,61.6,3229.7,2.2,Morning,17.7,13.4,May
+863,Channel Catfish,41.7,1151.7,8.1,Daytime,28.5,17.5,September
+864,Bluegill,21.4,313.9,1.7,Evening,20.2,13.6,May
+865,Walleye,64.9,3805.9,10.6,Daytime,16.1,4.8,April
+866,Largemouth Bass,28.5,450.4,4,Evening,13.7,15.7,October
+867,Yellow Perch,17.9,138.7,7.8,Morning,-4,4,December
+868,Black Crappie,20,193.7,2.7,Night,24.4,21.1,July
+869,Largemouth Bass,53.6,3137.7,1.9,Morning,8.3,6.7,April
+870,Channel Catfish,68.2,3889.9,4.4,Night,5.9,13.9,October
+871,Largemouth Bass,34.3,803.7,2.1,Morning,16.6,14.4,May
+872,Largemouth Bass,22,203.5,1,Morning,17.5,13.5,May
+873,Walleye,51,1813.8,11,Night,23.6,17.8,July
+874,Largemouth Bass,24.6,296.6,1.9,Evening,28.8,22.5,July
+875,Black Crappie,18.6,144.3,6.5,Morning,8.8,14.1,October
+876,Walleye,55.6,2284.7,11,Night,20.4,17.2,August
+877,Largemouth Bass,38.3,1154,2,Night,-2.2,4.8,March
+878,Black Crappie,15.9,104.2,7.9,Morning,19.9,17.5,September
+879,Largemouth Bass,46.4,2054.8,4.4,Evening,20.3,18.8,September
+880,Bluegill,14.9,115.3,0.8,Evening,23.6,17.9,June
+881,Largemouth Bass,34.1,844.1,3.1,Night,16.4,17.5,June
+882,Yellow Perch,26.9,444.8,9,Evening,30.3,18.9,July
+883,Largemouth Bass,59.7,4751.8,0.9,Night,16.4,17.7,June
+884,Walleye,41.1,893.1,12.4,Evening,22.8,12.5,June
+885,Common Carp,62.5,3691.9,3.7,Night,24.1,20.6,July
+886,Rainbow Trout,36.6,890.8,9.4,Morning,27.4,18.5,July
+887,Common Carp,52.5,2248,4.5,Morning,22.8,21.5,July
+888,Bluegill,20.5,245.2,1,Night,5.8,15.3,October
+889,Black Crappie,28.8,514.7,3.1,Evening,25.2,21.7,August
+890,Yellow Perch,26.2,411.8,4.2,Night,15.8,16.3,June
+891,Bluegill,19.1,210.1,1.3,Daytime,30.2,22.9,August
+892,Smallmouth Bass,43.9,2022.4,9.6,Night,1.7,6.9,November
+893,Common Carp,83.8,7009.3,2.1,Evening,28.1,22.8,July
+894,Common Carp,72.5,5382.1,3.8,Evening,-3.9,1.1,January
+895,Common Carp,45.5,1385.5,4.8,Night,22.8,20.5,August
+896,Bluegill,17,158.8,2.9,Evening,-0.3,1,January
+897,Black Crappie,20.9,212.2,1.5,Night,19.8,22.1,July
+898,Largemouth Bass,58.5,4382.7,1.6,Evening,26,22.1,July
+899,Black Crappie,17.6,136.6,1.2,Evening,28.4,23.1,July
+900,Common Carp,86.6,8091.6,3,Evening,23.3,17.2,June
+901,Bluegill,22.1,318,2,Daytime,17.7,15.6,October
+902,Bluegill,23.2,348.7,1.9,Evening,18.2,14.1,May
+903,Channel Catfish,67.7,4106.8,8.3,Morning,18.1,12.5,May
+904,Walleye,57.1,2572.4,9.8,Evening,-0.3,3.5,December
+905,Northern Pike,53.2,1441.4,2.1,Morning,8.5,6.6,April
+906,Largemouth Bass,41.1,1375.6,5.7,Evening,4.8,4.1,March
+907,Smallmouth Bass,20.7,198.5,9.6,Morning,26.2,19,August
+908,Yellow Perch,29.6,549.1,4.7,Evening,2.3,4.1,December
+909,Walleye,43.9,1220.2,8.6,Morning,23,17.3,July
+910,Walleye,32.2,430.8,13.7,Evening,27.7,15,July
+911,Bluegill,12.5,69.6,0.9,Morning,17.5,14.6,May
+912,Largemouth Bass,28.7,494.3,2.1,Morning,20.4,19.6,September
+913,Bluegill,18.2,195.4,4,Evening,28.8,22,August
+914,Yellow Perch,26.3,392.8,9.4,Daytime,5.2,1.7,February
+915,Largemouth Bass,53,3084.9,3.3,Morning,4.5,3.7,March
+916,Largemouth Bass,50.5,2476.2,5.6,Evening,21,17.7,September
+917,Smallmouth Bass,27.4,462.5,8.9,Morning,19.5,14.5,June
+918,Bluegill,12.2,60.3,1.6,Evening,11.9,7.6,April
+919,Channel Catfish,60.1,2837.2,9.6,Night,10.2,13.3,October
+920,Northern Pike,55.1,1671.5,3.6,Morning,13.8,12.8,May
+921,Yellow Perch,28.9,509.8,4.8,Night,11.3,13.2,May
+922,Common Carp,78.4,6235,3.4,Morning,24.6,20.5,July
+923,Yellow Perch,17.4,128,2.2,Daytime,17.5,14.7,October
+924,Common Carp,57,2793.1,1.7,Night,20.9,23.9,August
+925,Smallmouth Bass,37,1206.5,4.3,Morning,13.3,14.7,October
+926,Northern Pike,100,9550.7,1.2,Night,12.2,14.2,May
+927,Walleye,31.6,442.2,12.7,Evening,12.6,4,April
+928,Largemouth Bass,51.4,2722.3,2.4,Evening,25.9,18.5,June
+929,Yellow Perch,16.2,99.8,2.5,Morning,-4.2,2.7,January
+930,Channel Catfish,73.4,4788.9,10.1,Evening,8.1,2.6,March
+931,Smallmouth Bass,19.3,144.4,2.7,Night,15.3,12.8,May
+932,Largemouth Bass,41.9,1528,5.6,Morning,23.2,20.6,July
+933,Black Crappie,13.9,75.2,1.5,Morning,13.7,13,May
+934,Common Carp,45.2,1385.1,2.9,Morning,11.2,7.4,April
+935,Black Crappie,33.4,687.7,1.9,Morning,16.5,19.5,September
+936,Largemouth Bass,43.7,1721.2,1.4,Morning,17.7,13.4,May
+937,Black Crappie,18.9,156.9,4.7,Morning,-3.4,1.3,January
+938,Common Carp,74.5,5088.9,1.2,Morning,20,19.1,June
+939,Bluegill,15,114,0.7,Evening,22.9,19.7,September
+940,Smallmouth Bass,47.2,2468.7,9.9,Morning,-5.2,4,December
+941,Yellow Perch,13,57,8.9,Daytime,32,18.9,July
+942,Rainbow Trout,27.1,346.9,7.1,Night,-1.1,3.7,March
+943,Bluegill,12.2,59.4,0.6,Daytime,22.3,13.5,May
+944,Largemouth Bass,36.2,954,3.1,Morning,19.5,16.5,June
+945,Northern Pike,60.6,2192.5,1.6,Daytime,33.8,22.9,August
+946,Northern Pike,97.1,8899.7,6.3,Night,8,15,October
+947,Walleye,39.7,793.9,14.7,Evening,11.1,5,April
+948,Smallmouth Bass,26.1,361.4,7.8,Morning,19.8,15.4,June
+949,Bluegill,13.5,85.5,3.4,Night,0.9,8.7,November
+950,Channel Catfish,65.8,3302.2,4.8,Daytime,9.9,3.1,March
+951,Bluegill,21.5,310.8,0.8,Night,-7.9,2.3,January
+952,Northern Pike,96.4,7959.2,5.9,Morning,3.6,3.7,March
+953,Northern Pike,95,7363.3,3.6,Evening,16.9,14.1,May
+954,Smallmouth Bass,26.7,444,8.9,Morning,24.1,17.6,July
+955,Channel Catfish,56,2395.5,1.5,Night,23.5,23.9,August
+956,Largemouth Bass,31.5,580,1.6,Evening,21.8,19.3,September
+957,Smallmouth Bass,37.3,1255.3,9.1,Morning,-3.3,2.8,December
+958,Bluegill,23.2,339,3.1,Morning,24.8,22.1,August
+959,Bluegill,24.1,426.5,0.4,Daytime,22.6,14.2,May
+960,Channel Catfish,64,3129.5,5.2,Night,22.4,21.9,August
+961,Northern Pike,57.3,1868.3,4.2,Daytime,4.1,1.1,February
+962,Black Crappie,21.6,235.1,4.3,Night,6.1,15.6,October
+963,Largemouth Bass,56.7,3548,2.9,Evening,7,4.4,March
+964,Yellow Perch,21.9,232.9,8.6,Daytime,27.9,13.9,June
+965,Largemouth Bass,23.3,222.4,3.1,Evening,22.5,19.4,September
+966,Yellow Perch,14.7,77.4,2.3,Night,10,15.4,October
+967,Smallmouth Bass,28.9,498.7,9.3,Morning,20.3,13,June
+968,Largemouth Bass,36.2,944.5,3.5,Night,20.3,20.2,July
+969,Northern Pike,42.3,809.8,1.7,Daytime,17.6,7.7,April
+970,Bluegill,13.5,81.2,1.9,Daytime,19.1,8.3,April
+971,Channel Catfish,36,792.3,10.3,Night,21.4,17.4,August
+972,Bluegill,14.7,111.6,2.1,Evening,20.8,19.1,September
+973,Bluegill,11.5,54.2,0.4,Daytime,33,23.1,July
+974,Smallmouth Bass,33.2,760.3,2.9,Evening,7.2,9.5,November
+975,Largemouth Bass,52.4,2923.6,4.6,Night,16.6,19.3,September
+976,Bluegill,18.5,190.8,1.3,Daytime,3.7,1.1,February
+977,Largemouth Bass,39.4,1258.9,0.6,Evening,12.3,8.1,April
+978,Walleye,51.1,1810.2,6.2,Morning,22.2,16.5,June
+979,Bluegill,21.4,308.9,0.4,Daytime,4.9,3.3,December
+980,Yellow Perch,21.8,256.9,6.7,Evening,26.2,21,August
+981,Smallmouth Bass,30.4,587.8,7.6,Daytime,22,12.1,May
+982,Smallmouth Bass,26.5,405.2,4.6,Morning,19.1,17.4,June
+983,Bluegill,12.9,77.7,2.7,Daytime,34.3,22.5,July
+984,Smallmouth Bass,49.4,2978,2.2,Morning,17.4,20.3,September
+985,Black Crappie,14.1,74.1,3.2,Evening,16.5,13.7,May
+986,Walleye,51.8,2023.9,10.4,Daytime,17.3,4.5,April
+987,Largemouth Bass,35.5,925.1,5.4,Evening,18.5,18.1,September
+988,Rainbow Trout,49.2,2011.4,13.7,Morning,16.8,10.5,May
+989,Bluegill,20.3,264.5,2.3,Morning,23.2,22.8,August
+990,Walleye,59.9,2871.9,10.9,Night,-1.4,7.5,November
+991,Walleye,38.6,773.1,13.5,Morning,17.7,14,September
+992,Bluegill,11.6,52.3,2.5,Daytime,21.4,15.9,October
+993,Walleye,67,4231.5,12.4,Evening,11.7,12.8,October
+994,Largemouth Bass,40.5,1259.2,2.1,Morning,17.9,12.7,May
+995,Largemouth Bass,39.3,1234,2.1,Daytime,16.7,6.8,April
+996,Bluegill,16.9,163,2.6,Evening,13.8,14.6,October
+997,Yellow Perch,16.3,104.8,6.1,Morning,15.2,11.5,May
+998,Walleye,37.8,674.5,6.6,Night,-7.8,1.2,January
+999,Walleye,57.9,2790.8,9.4,Daytime,29.9,14.4,June
+1000,Largemouth Bass,53.9,3092.9,1.2,Morning,4.4,8.9,November
