@@ -1,0 +1,514 @@
+Sample_ID,Season,Sampling_Site,Recent_Rainfall,Water_Depth,Boat_Traffic,Phosphorus_ugL
+LK-001,Winter,Open Water,Light,Surface,Low,22.7
+LK-002,Summer,Marina,None,Surface,Moderate,33.4
+LK-003,Spring,Storm Drain Outfall,Heavy,Surface,Low,79.8
+LK-004,Spring,Marina,Light,Surface,Moderate,36.2
+LK-005,Spring,Marina,None,Mid-Depth,High,46.3
+LK-006,Fall,Marina,Light,Surface,Low,43.8
+LK-007,Fall,Open Water,None,Mid-Depth,Moderate,35.5
+LK-008,Winter,Farm Inlet,Light,Bottom,High,68.6
+LK-009,Summer,Storm Drain Outfall,Heavy,Bottom,High,179.1
+LK-010,Spring,Storm Drain Outfall,Heavy,Surface,Low,117.1
+LK-011,Fall,Marina,None,Surface,High,72.7
+LK-012,Fall,Residential Shore,None,Surface,Moderate,44.9
+LK-013,Summer,Farm Inlet,Light,Surface,High,141.8
+LK-014,Summer,Storm Drain Outfall,None,Surface,Moderate,118.7
+LK-015,Summer,Storm Drain Outfall,Heavy,Mid-Depth,High,79.7
+LK-016,Fall,Residential Shore,Light,Mid-Depth,Moderate,37.1
+LK-017,Spring,Storm Drain Outfall,Light,Surface,Low,66
+LK-018,Spring,Farm Inlet,Light,Surface,Low,83.6
+LK-019,Spring,Storm Drain Outfall,Heavy,Surface,Low,87.1
+LK-020,Spring,Open Water,Light,Bottom,Low,51.6
+LK-021,Summer,Storm Drain Outfall,Light,Surface,Low,68.1
+LK-022,Spring,Farm Inlet,None,Surface,Low,58.1
+LK-023,Summer,Open Water,Heavy,Mid-Depth,High,61.7
+LK-024,Winter,Marina,Heavy,Surface,High,53.9
+LK-025,Spring,Open Water,None,Mid-Depth,Low,17.3
+LK-026,Spring,Farm Inlet,None,Surface,Moderate,52.4
+LK-027,Winter,Marina,Heavy,Mid-Depth,High,57.7
+LK-028,Summer,Marina,Light,Surface,Moderate,90.6
+LK-029,Spring,Storm Drain Outfall,None,Surface,Low,74.7
+LK-030,Spring,Farm Inlet,None,Mid-Depth,Low,71.3
+LK-031,Winter,Open Water,Light,Surface,Low,21.6
+LK-032,Fall,Farm Inlet,Light,Bottom,Low,76.4
+LK-033,Fall,Marina,None,Bottom,High,58.2
+LK-034,Summer,Open Water,None,Surface,High,60.6
+LK-035,Spring,Residential Shore,Heavy,Mid-Depth,Moderate,74.8
+LK-036,Fall,Marina,Heavy,Mid-Depth,High,101.5
+LK-037,Summer,Storm Drain Outfall,Light,Surface,Low,51.3
+LK-038,Spring,Storm Drain Outfall,Heavy,Mid-Depth,Moderate,146.9
+LK-039,Fall,Open Water,Light,Surface,High,17.9
+LK-040,Spring,Residential Shore,Heavy,Surface,Moderate,63.7
+LK-041,Summer,Storm Drain Outfall,None,Surface,High,59.7
+LK-042,Spring,Marina,None,Mid-Depth,High,42.1
+LK-043,Spring,Storm Drain Outfall,None,Mid-Depth,Low,48.9
+LK-044,Summer,Marina,Light,Mid-Depth,High,98.5
+LK-045,Spring,Open Water,None,Bottom,Low,23.5
+LK-046,Summer,Marina,Heavy,Bottom,Low,84
+LK-047,Summer,Marina,None,Surface,Moderate,45.2
+LK-048,Winter,Storm Drain Outfall,Heavy,Mid-Depth,Low,53.8
+LK-049,Summer,Residential Shore,None,Surface,Moderate,42.1
+LK-050,Summer,Open Water,None,Surface,Moderate,21
+LK-051,Summer,Farm Inlet,None,Bottom,Low,100.4
+LK-052,Spring,Residential Shore,None,Mid-Depth,High,44.7
+LK-053,Spring,Marina,None,Mid-Depth,Moderate,60.1
+LK-054,Summer,Storm Drain Outfall,None,Surface,High,113.6
+LK-055,Spring,Farm Inlet,Heavy,Bottom,Moderate,145.7
+LK-056,Summer,Farm Inlet,None,Bottom,Moderate,157.2
+LK-057,Summer,Storm Drain Outfall,Light,Mid-Depth,High,102.6
+LK-058,Spring,Farm Inlet,None,Bottom,Moderate,130.6
+LK-059,Winter,Storm Drain Outfall,None,Surface,Low,39
+LK-060,Fall,Marina,Light,Surface,High,71.5
+LK-061,Summer,Marina,None,Mid-Depth,High,66.4
+LK-062,Spring,Residential Shore,None,Bottom,Low,74.8
+LK-063,Summer,Open Water,None,Surface,High,29
+LK-064,Winter,Marina,Light,Surface,High,39.3
+LK-065,Fall,Open Water,Heavy,Bottom,Low,43.3
+LK-066,Fall,Open Water,None,Surface,Low,32.1
+LK-067,Winter,Farm Inlet,None,Bottom,Low,87.1
+LK-068,Spring,Farm Inlet,None,Mid-Depth,High,56.2
+LK-069,Summer,Open Water,None,Bottom,Moderate,43.4
+LK-070,Spring,Open Water,None,Surface,Low,25.4
+LK-071,Summer,Marina,Heavy,Bottom,High,124.9
+LK-072,Spring,Residential Shore,None,Bottom,Moderate,65
+LK-073,Summer,Marina,Heavy,Mid-Depth,Moderate,147.6
+LK-074,Fall,Open Water,None,Surface,High,31.8
+LK-075,Fall,Storm Drain Outfall,Light,Bottom,Low,67.9
+LK-076,Summer,Residential Shore,Light,Bottom,High,71.6
+LK-077,Winter,Residential Shore,None,Mid-Depth,Low,29.6
+LK-078,Fall,Residential Shore,Heavy,Surface,Low,68.1
+LK-079,Winter,Marina,Light,Bottom,High,78.7
+LK-080,Spring,Storm Drain Outfall,Light,Bottom,High,162.6
+LK-081,Spring,Open Water,None,Mid-Depth,Moderate,27.1
+LK-082,Summer,Open Water,None,Surface,Moderate,36.7
+LK-083,Spring,Open Water,Light,Bottom,High,75.2
+LK-084,Winter,Farm Inlet,None,Surface,Low,67.8
+LK-085,Winter,Residential Shore,Heavy,Surface,Low,38.5
+LK-086,Summer,Storm Drain Outfall,Heavy,Bottom,Low,94.9
+LK-087,Summer,Open Water,Light,Mid-Depth,Moderate,23.4
+LK-088,Summer,Marina,Light,Surface,Low,38.9
+LK-089,Summer,Farm Inlet,Light,Mid-Depth,Moderate,103.7
+LK-090,Fall,Marina,None,Bottom,Moderate,37.8
+LK-091,Fall,Residential Shore,None,Bottom,Moderate,58.8
+LK-092,Winter,Farm Inlet,None,Surface,Low,37.4
+LK-093,Fall,Marina,Light,Surface,High,79
+LK-094,Fall,Storm Drain Outfall,Light,Surface,High,92.7
+LK-095,Summer,Open Water,Light,Surface,Low,36.5
+LK-096,Summer,Marina,None,Surface,High,72.1
+LK-097,Summer,Marina,Heavy,Surface,High,76.7
+LK-098,Fall,Storm Drain Outfall,None,Bottom,Low,31.8
+LK-099,Spring,Open Water,None,Mid-Depth,Moderate,21.6
+LK-100,Summer,Farm Inlet,None,Surface,Low,87.4
+LK-101,Fall,Farm Inlet,Light,Bottom,Low,62.1
+LK-102,Winter,Storm Drain Outfall,Heavy,Mid-Depth,Low,75.7
+LK-103,Summer,Marina,Light,Surface,Moderate,80.7
+LK-104,Spring,Residential Shore,Light,Mid-Depth,Low,48.3
+LK-105,Summer,Farm Inlet,Heavy,Surface,High,175.2
+LK-106,Winter,Residential Shore,Heavy,Surface,Moderate,51.8
+LK-107,Summer,Open Water,Light,Bottom,Moderate,47.6
+LK-108,Fall,Farm Inlet,Light,Surface,Moderate,55.5
+LK-109,Summer,Farm Inlet,Heavy,Mid-Depth,Moderate,175.4
+LK-110,Spring,Farm Inlet,None,Mid-Depth,Low,69.3
+LK-111,Summer,Residential Shore,Light,Bottom,Moderate,87.6
+LK-112,Spring,Farm Inlet,Light,Surface,Low,68.8
+LK-113,Summer,Farm Inlet,Light,Bottom,High,92.2
+LK-114,Winter,Residential Shore,None,Mid-Depth,Moderate,39.1
+LK-115,Spring,Farm Inlet,None,Bottom,Low,56.1
+LK-116,Winter,Storm Drain Outfall,Heavy,Surface,Low,63.3
+LK-117,Winter,Residential Shore,Heavy,Surface,Low,47.4
+LK-118,Summer,Residential Shore,None,Surface,Moderate,54.1
+LK-119,Spring,Marina,Light,Bottom,Low,76.1
+LK-120,Summer,Storm Drain Outfall,Light,Surface,High,98
+LK-121,Summer,Marina,Light,Surface,Low,42.1
+LK-122,Fall,Storm Drain Outfall,None,Mid-Depth,Moderate,46.7
+LK-123,Spring,Storm Drain Outfall,None,Bottom,Low,71.2
+LK-124,Spring,Farm Inlet,Light,Mid-Depth,Low,89.2
+LK-125,Spring,Farm Inlet,Light,Surface,Moderate,98.2
+LK-126,Winter,Open Water,Light,Surface,Moderate,31.1
+LK-127,Summer,Residential Shore,Light,Mid-Depth,Moderate,70.5
+LK-128,Fall,Farm Inlet,Heavy,Mid-Depth,Low,65.6
+LK-129,Spring,Residential Shore,Light,Surface,Moderate,56.8
+LK-130,Summer,Open Water,None,Surface,Moderate,34.6
+LK-131,Fall,Open Water,None,Mid-Depth,Low,17.3
+LK-132,Summer,Open Water,Light,Surface,Low,52.7
+LK-133,Summer,Marina,None,Mid-Depth,Low,39.9
+LK-134,Fall,Storm Drain Outfall,Light,Bottom,Moderate,57.9
+LK-135,Winter,Residential Shore,None,Surface,Low,43.7
+LK-136,Summer,Farm Inlet,None,Bottom,High,100.5
+LK-137,Summer,Open Water,None,Surface,Moderate,26.9
+LK-138,Fall,Farm Inlet,None,Surface,Moderate,58.3
+LK-139,Spring,Storm Drain Outfall,None,Mid-Depth,Moderate,31.6
+LK-140,Summer,Marina,Heavy,Surface,High,109.5
+LK-141,Summer,Residential Shore,None,Surface,High,78.7
+LK-142,Spring,Storm Drain Outfall,Heavy,Bottom,Low,106
+LK-143,Winter,Open Water,None,Mid-Depth,Low,18.4
+LK-144,Spring,Storm Drain Outfall,Light,Bottom,Moderate,81.6
+LK-145,Fall,Storm Drain Outfall,Light,Surface,Low,50.2
+LK-146,Winter,Storm Drain Outfall,Light,Surface,Low,71.8
+LK-147,Winter,Storm Drain Outfall,Heavy,Mid-Depth,Moderate,84.1
+LK-148,Spring,Marina,None,Bottom,High,89.8
+LK-149,Winter,Farm Inlet,Light,Bottom,Low,134.9
+LK-150,Spring,Marina,None,Surface,High,57.6
+LK-151,Fall,Residential Shore,Light,Surface,Low,44.6
+LK-152,Spring,Storm Drain Outfall,Light,Surface,Low,77
+LK-153,Summer,Open Water,None,Mid-Depth,High,47.3
+LK-154,Spring,Residential Shore,None,Surface,Low,55.7
+LK-155,Summer,Storm Drain Outfall,None,Surface,High,63.8
+LK-156,Winter,Storm Drain Outfall,Light,Bottom,Low,48.2
+LK-157,Fall,Residential Shore,None,Surface,Low,40.9
+LK-158,Spring,Storm Drain Outfall,Light,Bottom,Moderate,113
+LK-159,Winter,Farm Inlet,Light,Mid-Depth,Moderate,64.5
+LK-160,Summer,Farm Inlet,None,Surface,Low,90.9
+LK-161,Summer,Marina,Heavy,Mid-Depth,Moderate,84.1
+LK-162,Spring,Residential Shore,Light,Surface,Low,62.1
+LK-163,Spring,Open Water,Light,Mid-Depth,Low,34.3
+LK-164,Fall,Residential Shore,None,Mid-Depth,Low,25.9
+LK-165,Spring,Residential Shore,None,Surface,Moderate,32.6
+LK-166,Winter,Open Water,None,Bottom,Low,22.7
+LK-167,Fall,Open Water,Light,Surface,Low,24.3
+LK-168,Winter,Residential Shore,None,Mid-Depth,Low,17.3
+LK-169,Winter,Marina,None,Surface,Moderate,42.6
+LK-170,Spring,Farm Inlet,Light,Mid-Depth,Low,87.7
+LK-171,Winter,Marina,None,Bottom,High,69.8
+LK-172,Spring,Marina,None,Surface,Moderate,50.4
+LK-173,Summer,Farm Inlet,None,Mid-Depth,Low,72
+LK-174,Fall,Storm Drain Outfall,None,Mid-Depth,High,38.5
+LK-175,Fall,Residential Shore,None,Surface,High,66.7
+LK-176,Winter,Marina,Light,Mid-Depth,High,50.8
+LK-177,Fall,Storm Drain Outfall,Heavy,Bottom,Low,142
+LK-178,Winter,Open Water,Light,Bottom,Low,24.2
+LK-179,Fall,Marina,None,Mid-Depth,High,114
+LK-180,Spring,Farm Inlet,Light,Surface,Low,94.3
+LK-181,Summer,Residential Shore,None,Surface,Moderate,41.3
+LK-182,Summer,Farm Inlet,Light,Bottom,High,114
+LK-183,Fall,Storm Drain Outfall,None,Bottom,Low,111.4
+LK-184,Fall,Farm Inlet,Light,Bottom,Low,99.4
+LK-185,Spring,Marina,Heavy,Mid-Depth,Low,60.9
+LK-186,Summer,Farm Inlet,Heavy,Surface,Low,90.4
+LK-187,Summer,Farm Inlet,Light,Mid-Depth,Low,61.7
+LK-188,Winter,Residential Shore,None,Mid-Depth,Moderate,30.7
+LK-189,Summer,Open Water,None,Surface,High,26.7
+LK-190,Spring,Storm Drain Outfall,None,Surface,High,54.5
+LK-191,Winter,Marina,None,Mid-Depth,High,32.9
+LK-192,Summer,Residential Shore,None,Surface,High,63.6
+LK-193,Spring,Residential Shore,Heavy,Surface,High,129.2
+LK-194,Summer,Residential Shore,None,Surface,Moderate,40.5
+LK-195,Summer,Marina,None,Bottom,Moderate,56.6
+LK-196,Summer,Marina,Heavy,Surface,Moderate,108.3
+LK-197,Fall,Residential Shore,Light,Mid-Depth,Low,35.3
+LK-198,Winter,Open Water,None,Surface,Low,21.9
+LK-199,Spring,Storm Drain Outfall,Light,Mid-Depth,Moderate,63.4
+LK-200,Spring,Open Water,Light,Surface,Low,21.7
+LK-201,Summer,Storm Drain Outfall,Light,Mid-Depth,High,73.8
+LK-202,Summer,Open Water,None,Bottom,Moderate,24.4
+LK-203,Winter,Marina,Light,Bottom,Moderate,43.9
+LK-204,Summer,Farm Inlet,None,Mid-Depth,Moderate,86.9
+LK-205,Summer,Farm Inlet,Light,Bottom,Low,117.3
+LK-206,Summer,Farm Inlet,Heavy,Surface,Moderate,140.8
+LK-207,Winter,Open Water,None,Bottom,Low,14.8
+LK-208,Winter,Storm Drain Outfall,Light,Bottom,Low,48.8
+LK-209,Fall,Farm Inlet,None,Mid-Depth,Low,49
+LK-210,Fall,Storm Drain Outfall,None,Bottom,Low,68
+LK-211,Winter,Storm Drain Outfall,Light,Surface,Low,100.2
+LK-212,Summer,Farm Inlet,None,Surface,High,78
+LK-213,Spring,Farm Inlet,None,Bottom,Low,111.4
+LK-214,Spring,Storm Drain Outfall,Light,Mid-Depth,Low,48.2
+LK-215,Winter,Farm Inlet,Light,Bottom,Moderate,56.7
+LK-216,Spring,Marina,Heavy,Mid-Depth,Moderate,45.9
+LK-217,Spring,Marina,Heavy,Mid-Depth,High,72.2
+LK-218,Fall,Marina,Light,Bottom,High,98.5
+LK-219,Summer,Marina,Heavy,Mid-Depth,Moderate,87.5
+LK-220,Winter,Marina,Heavy,Surface,High,93.6
+LK-221,Spring,Open Water,Light,Mid-Depth,Low,24.7
+LK-222,Summer,Open Water,None,Surface,Low,38.3
+LK-223,Summer,Residential Shore,None,Bottom,High,59.8
+LK-224,Summer,Residential Shore,Light,Bottom,High,109.4
+LK-225,Spring,Farm Inlet,Light,Surface,Low,134.9
+LK-226,Spring,Storm Drain Outfall,None,Surface,High,68.9
+LK-227,Summer,Residential Shore,Heavy,Bottom,High,83
+LK-228,Fall,Farm Inlet,Light,Surface,High,150.1
+LK-229,Summer,Residential Shore,None,Surface,Low,36.7
+LK-230,Fall,Farm Inlet,Heavy,Surface,Low,89
+LK-231,Winter,Open Water,Light,Bottom,Moderate,25.5
+LK-232,Winter,Marina,None,Mid-Depth,High,44.8
+LK-233,Fall,Marina,Light,Surface,High,72.9
+LK-234,Summer,Farm Inlet,Light,Surface,High,138.4
+LK-235,Spring,Open Water,Heavy,Surface,Moderate,44.7
+LK-236,Spring,Marina,Light,Mid-Depth,Moderate,53.1
+LK-237,Spring,Storm Drain Outfall,None,Surface,Moderate,82
+LK-238,Summer,Farm Inlet,None,Mid-Depth,High,136.1
+LK-239,Spring,Open Water,None,Bottom,Low,22.2
+LK-240,Spring,Storm Drain Outfall,None,Mid-Depth,Low,77.4
+LK-241,Summer,Open Water,Heavy,Surface,High,78.9
+LK-242,Fall,Open Water,None,Surface,Low,26.7
+LK-243,Fall,Open Water,Heavy,Surface,Low,31.6
+LK-244,Spring,Farm Inlet,None,Mid-Depth,Low,65.3
+LK-245,Winter,Storm Drain Outfall,Light,Surface,Moderate,59.7
+LK-246,Winter,Storm Drain Outfall,None,Surface,Low,33.9
+LK-247,Summer,Farm Inlet,None,Bottom,High,161.2
+LK-248,Winter,Storm Drain Outfall,None,Mid-Depth,Low,32.2
+LK-249,Winter,Storm Drain Outfall,Heavy,Bottom,Low,132.2
+LK-250,Spring,Marina,Light,Surface,High,46.3
+LK-251,Fall,Marina,None,Surface,High,33.8
+LK-252,Winter,Storm Drain Outfall,None,Mid-Depth,Moderate,23.4
+LK-253,Winter,Marina,None,Mid-Depth,High,42.7
+LK-254,Fall,Residential Shore,Light,Surface,Low,34.8
+LK-255,Summer,Storm Drain Outfall,Heavy,Bottom,High,137.5
+LK-256,Summer,Open Water,Light,Bottom,Moderate,59.7
+LK-257,Spring,Marina,Light,Bottom,Moderate,124
+LK-258,Fall,Storm Drain Outfall,None,Bottom,Low,51.6
+LK-259,Fall,Farm Inlet,Light,Mid-Depth,Moderate,106.3
+LK-260,Summer,Marina,Light,Surface,Moderate,80.2
+LK-261,Fall,Marina,Light,Bottom,High,73.7
+LK-262,Summer,Residential Shore,None,Bottom,Moderate,44.6
+LK-263,Spring,Marina,Light,Surface,High,47.4
+LK-264,Fall,Farm Inlet,None,Bottom,High,91.9
+LK-265,Summer,Marina,None,Bottom,Moderate,71.5
+LK-266,Winter,Farm Inlet,None,Surface,Low,38.8
+LK-267,Summer,Storm Drain Outfall,None,Mid-Depth,Low,45.8
+LK-268,Winter,Marina,None,Mid-Depth,High,24.1
+LK-269,Fall,Farm Inlet,Light,Mid-Depth,Moderate,80
+LK-270,Summer,Storm Drain Outfall,Light,Surface,Low,98.6
+LK-271,Winter,Marina,None,Surface,Moderate,41.9
+LK-272,Fall,Residential Shore,Light,Bottom,Low,65
+LK-273,Fall,Farm Inlet,Light,Mid-Depth,Low,57.4
+LK-274,Summer,Farm Inlet,Heavy,Bottom,High,314.4
+LK-275,Spring,Storm Drain Outfall,Heavy,Mid-Depth,Low,71.5
+LK-276,Summer,Open Water,Heavy,Surface,High,71
+LK-277,Winter,Marina,Heavy,Bottom,Moderate,64.7
+LK-278,Winter,Open Water,Heavy,Surface,Low,22
+LK-279,Spring,Marina,Heavy,Bottom,High,101.6
+LK-280,Spring,Marina,Heavy,Surface,High,116.2
+LK-281,Summer,Open Water,None,Mid-Depth,High,42.8
+LK-282,Winter,Storm Drain Outfall,None,Mid-Depth,Moderate,43.5
+LK-283,Winter,Farm Inlet,Heavy,Surface,High,43.9
+LK-284,Summer,Residential Shore,None,Mid-Depth,High,64
+LK-285,Fall,Farm Inlet,Heavy,Surface,Moderate,62.6
+LK-286,Fall,Residential Shore,Heavy,Surface,Low,109.2
+LK-287,Summer,Residential Shore,Light,Mid-Depth,Moderate,172.7
+LK-288,Fall,Farm Inlet,None,Mid-Depth,Low,57.1
+LK-289,Summer,Farm Inlet,Light,Surface,Low,125.8
+LK-290,Summer,Farm Inlet,Heavy,Surface,High,152
+LK-291,Spring,Residential Shore,None,Surface,Low,39.7
+LK-292,Spring,Open Water,Heavy,Surface,Moderate,43.7
+LK-293,Fall,Residential Shore,Light,Bottom,High,69.4
+LK-294,Spring,Farm Inlet,Heavy,Mid-Depth,Low,160.2
+LK-295,Summer,Storm Drain Outfall,None,Surface,High,87.1
+LK-296,Summer,Storm Drain Outfall,Heavy,Surface,Low,45.6
+LK-297,Winter,Storm Drain Outfall,None,Mid-Depth,Low,35.8
+LK-298,Winter,Residential Shore,Light,Mid-Depth,Low,20.2
+LK-299,Summer,Farm Inlet,Heavy,Mid-Depth,Moderate,283.7
+LK-300,Summer,Storm Drain Outfall,Light,Mid-Depth,Low,92.4
+LK-301,Summer,Residential Shore,None,Surface,Moderate,66.3
+LK-302,Spring,Open Water,Heavy,Surface,Moderate,55.5
+LK-303,Winter,Open Water,Light,Surface,Low,25.6
+LK-304,Summer,Farm Inlet,None,Mid-Depth,High,66.8
+LK-305,Winter,Farm Inlet,Heavy,Surface,Moderate,110.4
+LK-306,Spring,Residential Shore,Heavy,Mid-Depth,Moderate,92.2
+LK-307,Summer,Storm Drain Outfall,Heavy,Bottom,High,182
+LK-308,Spring,Open Water,Light,Surface,Moderate,42.5
+LK-309,Spring,Farm Inlet,None,Surface,Low,94.8
+LK-310,Winter,Open Water,Light,Mid-Depth,Low,19.3
+LK-311,Winter,Farm Inlet,Light,Mid-Depth,Low,38.1
+LK-312,Fall,Open Water,Light,Bottom,High,51.2
+LK-313,Summer,Marina,None,Surface,Low,80.1
+LK-314,Fall,Residential Shore,None,Mid-Depth,High,29.1
+LK-315,Fall,Farm Inlet,None,Surface,Low,84.1
+LK-316,Winter,Storm Drain Outfall,None,Surface,Low,43.7
+LK-317,Spring,Residential Shore,None,Mid-Depth,Moderate,49.8
+LK-318,Summer,Storm Drain Outfall,None,Mid-Depth,Moderate,83.3
+LK-319,Winter,Residential Shore,Light,Bottom,Low,31.7
+LK-320,Winter,Residential Shore,Light,Surface,Low,38
+LK-321,Fall,Open Water,Light,Mid-Depth,Low,32.9
+LK-322,Fall,Open Water,None,Surface,High,40.7
+LK-323,Spring,Open Water,None,Mid-Depth,Moderate,32.5
+LK-324,Summer,Storm Drain Outfall,None,Mid-Depth,Moderate,50.6
+LK-325,Summer,Open Water,None,Surface,Moderate,32.9
+LK-326,Summer,Farm Inlet,None,Bottom,High,108.5
+LK-327,Spring,Marina,None,Bottom,High,71.8
+LK-328,Spring,Marina,None,Bottom,High,96.3
+LK-329,Fall,Residential Shore,None,Mid-Depth,High,27.5
+LK-330,Fall,Open Water,Light,Surface,Moderate,34.2
+LK-331,Spring,Open Water,None,Bottom,Moderate,38.9
+LK-332,Fall,Farm Inlet,None,Bottom,Moderate,61.2
+LK-333,Spring,Storm Drain Outfall,Light,Bottom,Low,124.3
+LK-334,Summer,Marina,Light,Surface,High,66.1
+LK-335,Summer,Residential Shore,Light,Bottom,Moderate,77.4
+LK-336,Spring,Farm Inlet,Light,Mid-Depth,Low,37.6
+LK-337,Fall,Open Water,None,Surface,Moderate,33.1
+LK-338,Spring,Marina,Heavy,Surface,Moderate,82
+LK-339,Fall,Storm Drain Outfall,Light,Bottom,Moderate,77.3
+LK-340,Fall,Residential Shore,Heavy,Mid-Depth,Moderate,94.3
+LK-341,Fall,Residential Shore,None,Bottom,High,31.9
+LK-342,Fall,Residential Shore,None,Mid-Depth,Low,42.5
+LK-343,Winter,Marina,Heavy,Surface,High,90.3
+LK-344,Summer,Storm Drain Outfall,None,Mid-Depth,Moderate,37.5
+LK-345,Summer,Farm Inlet,Heavy,Surface,Moderate,157.6
+LK-346,Summer,Residential Shore,Light,Surface,Moderate,56.2
+LK-347,Summer,Residential Shore,None,Mid-Depth,High,38.9
+LK-348,Winter,Marina,Light,Mid-Depth,High,29.7
+LK-349,Winter,Marina,None,Surface,High,47.5
+LK-350,Fall,Open Water,Heavy,Surface,High,65.7
+LK-351,Winter,Marina,Light,Bottom,Moderate,37.3
+LK-352,Summer,Farm Inlet,Light,Mid-Depth,High,80.6
+LK-353,Winter,Open Water,None,Surface,Low,21.9
+LK-354,Spring,Farm Inlet,None,Bottom,Moderate,184.8
+LK-355,Winter,Open Water,None,Surface,Low,11.2
+LK-356,Summer,Open Water,Light,Bottom,High,34.6
+LK-357,Spring,Marina,Heavy,Bottom,High,89.8
+LK-358,Spring,Farm Inlet,None,Surface,Low,52.1
+LK-359,Spring,Marina,Light,Mid-Depth,Moderate,78.8
+LK-360,Summer,Marina,Heavy,Bottom,High,100.9
+LK-361,Summer,Open Water,None,Bottom,Moderate,71.8
+LK-362,Winter,Marina,Light,Mid-Depth,Moderate,43.3
+LK-363,Summer,Marina,Heavy,Mid-Depth,High,134.1
+LK-364,Fall,Open Water,Light,Bottom,Moderate,43.2
+LK-365,Fall,Farm Inlet,None,Surface,Low,45.2
+LK-366,Spring,Open Water,Light,Mid-Depth,Low,19.2
+LK-367,Fall,Marina,None,Mid-Depth,High,59
+LK-368,Winter,Residential Shore,None,Surface,Low,40.7
+LK-369,Fall,Farm Inlet,Heavy,Mid-Depth,Moderate,117
+LK-370,Winter,Storm Drain Outfall,Light,Mid-Depth,Low,45.1
+LK-371,Spring,Farm Inlet,None,Surface,Low,72.8
+LK-372,Winter,Open Water,Light,Surface,Moderate,24.6
+LK-373,Fall,Open Water,Light,Surface,Low,18.5
+LK-374,Spring,Residential Shore,Heavy,Mid-Depth,Moderate,74.2
+LK-375,Fall,Residential Shore,Light,Bottom,Moderate,59.7
+LK-376,Winter,Farm Inlet,Heavy,Surface,Low,49.3
+LK-377,Fall,Marina,Light,Bottom,Low,28
+LK-378,Spring,Residential Shore,None,Surface,Moderate,43.1
+LK-379,Spring,Marina,Light,Surface,Moderate,34.8
+LK-380,Summer,Residential Shore,None,Surface,Moderate,26.1
+LK-381,Winter,Storm Drain Outfall,None,Mid-Depth,Low,22.4
+LK-382,Summer,Farm Inlet,None,Bottom,High,123
+LK-383,Spring,Farm Inlet,Light,Mid-Depth,Moderate,83.4
+LK-384,Winter,Storm Drain Outfall,None,Surface,Low,41.7
+LK-385,Spring,Farm Inlet,None,Surface,High,140.7
+LK-386,Spring,Farm Inlet,Heavy,Bottom,Low,246.5
+LK-387,Spring,Farm Inlet,None,Mid-Depth,Low,99.8
+LK-388,Fall,Marina,Light,Mid-Depth,Moderate,51.5
+LK-389,Summer,Storm Drain Outfall,Light,Surface,Moderate,121
+LK-390,Winter,Residential Shore,None,Mid-Depth,Low,40.9
+LK-391,Summer,Residential Shore,Light,Surface,High,125.4
+LK-392,Spring,Open Water,None,Surface,Low,24.4
+LK-393,Summer,Storm Drain Outfall,Heavy,Surface,Moderate,89
+LK-394,Spring,Open Water,None,Mid-Depth,Low,23.9
+LK-395,Summer,Storm Drain Outfall,None,Mid-Depth,High,109.8
+LK-396,Summer,Residential Shore,Light,Surface,Moderate,98.8
+LK-397,Spring,Storm Drain Outfall,Light,Mid-Depth,Moderate,75.4
+LK-398,Fall,Open Water,Heavy,Surface,Low,43.1
+LK-399,Summer,Residential Shore,Light,Mid-Depth,High,101.2
+LK-400,Summer,Farm Inlet,Heavy,Bottom,Moderate,188.1
+LK-401,Winter,Residential Shore,Light,Mid-Depth,Low,38.5
+LK-402,Spring,Residential Shore,Heavy,Mid-Depth,Moderate,95.1
+LK-403,Spring,Open Water,Heavy,Surface,Low,42.2
+LK-404,Winter,Open Water,Heavy,Surface,Moderate,25.5
+LK-405,Winter,Storm Drain Outfall,None,Bottom,Low,101.7
+LK-406,Summer,Marina,Heavy,Surface,Low,76.4
+LK-407,Spring,Farm Inlet,Light,Mid-Depth,Low,57.2
+LK-408,Summer,Residential Shore,None,Surface,Moderate,47.5
+LK-409,Winter,Marina,None,Surface,High,40.5
+LK-410,Summer,Storm Drain Outfall,None,Bottom,Low,89.2
+LK-411,Winter,Storm Drain Outfall,Light,Mid-Depth,Low,40.9
+LK-412,Fall,Marina,None,Surface,High,57.4
+LK-413,Fall,Farm Inlet,None,Bottom,Low,121.9
+LK-414,Summer,Open Water,None,Bottom,Moderate,34.5
+LK-415,Spring,Residential Shore,None,Mid-Depth,Low,39.2
+LK-416,Winter,Marina,None,Surface,High,58
+LK-417,Summer,Residential Shore,None,Surface,Moderate,38.2
+LK-418,Summer,Residential Shore,Heavy,Surface,High,70.7
+LK-419,Winter,Farm Inlet,Light,Mid-Depth,Low,42.7
+LK-420,Summer,Open Water,Light,Surface,High,41.4
+LK-421,Winter,Storm Drain Outfall,Heavy,Bottom,Low,111.7
+LK-422,Spring,Open Water,Light,Bottom,Moderate,26
+LK-423,Summer,Farm Inlet,Heavy,Bottom,High,165.6
+LK-424,Fall,Marina,Light,Surface,High,43.9
+LK-425,Spring,Farm Inlet,None,Surface,Low,44.4
+LK-426,Spring,Residential Shore,Light,Surface,Moderate,38.9
+LK-427,Spring,Residential Shore,None,Mid-Depth,Moderate,52.1
+LK-428,Winter,Farm Inlet,None,Surface,Low,48.6
+LK-429,Fall,Storm Drain Outfall,None,Surface,Moderate,59.2
+LK-430,Fall,Farm Inlet,Heavy,Surface,Low,125.8
+LK-431,Summer,Open Water,None,Mid-Depth,Moderate,31.9
+LK-432,Winter,Open Water,Heavy,Mid-Depth,Low,75.6
+LK-433,Winter,Open Water,None,Mid-Depth,Low,27.4
+LK-434,Fall,Residential Shore,None,Surface,Low,44.7
+LK-435,Winter,Open Water,Light,Mid-Depth,Low,8.7
+LK-436,Winter,Storm Drain Outfall,None,Bottom,Low,58.6
+LK-437,Fall,Residential Shore,Light,Bottom,Low,72.8
+LK-438,Spring,Residential Shore,None,Bottom,Low,60.4
+LK-439,Spring,Open Water,Light,Bottom,High,39.6
+LK-440,Spring,Residential Shore,None,Mid-Depth,Low,28.6
+LK-441,Summer,Marina,None,Surface,Moderate,57.3
+LK-442,Spring,Residential Shore,None,Bottom,High,77.8
+LK-443,Fall,Open Water,Heavy,Surface,Low,49.9
+LK-444,Summer,Farm Inlet,None,Surface,High,55.5
+LK-445,Spring,Storm Drain Outfall,Light,Bottom,Low,99.8
+LK-446,Winter,Open Water,None,Bottom,Moderate,33.4
+LK-447,Summer,Open Water,None,Surface,Moderate,38.9
+LK-448,Winter,Farm Inlet,None,Bottom,Low,121.6
+LK-449,Summer,Residential Shore,Light,Surface,Moderate,51
+LK-450,Summer,Open Water,Light,Surface,Moderate,26.6
+LK-451,Fall,Open Water,Heavy,Surface,Low,50.1
+LK-452,Winter,Storm Drain Outfall,Heavy,Mid-Depth,Low,99.1
+LK-453,Winter,Farm Inlet,Heavy,Surface,Low,60.9
+LK-454,Summer,Marina,None,Mid-Depth,Moderate,51.9
+LK-455,Spring,Open Water,Light,Mid-Depth,Moderate,33.3
+LK-456,Winter,Storm Drain Outfall,None,Surface,Low,46
+LK-457,Fall,Residential Shore,Heavy,Bottom,Low,112.5
+LK-458,Summer,Residential Shore,None,Mid-Depth,High,103.7
+LK-459,Spring,Farm Inlet,None,Surface,Low,59.6
+LK-460,Winter,Farm Inlet,None,Surface,Moderate,46.7
+LK-461,Fall,Open Water,None,Bottom,Moderate,19.1
+LK-462,Summer,Marina,Heavy,Mid-Depth,Moderate,111.3
+LK-463,Fall,Residential Shore,Light,Bottom,Low,39.5
+LK-464,Summer,Storm Drain Outfall,Light,Surface,Moderate,92
+LK-465,Spring,Residential Shore,Light,Bottom,Low,73
+LK-466,Winter,Residential Shore,Light,Bottom,High,77
+LK-467,Spring,Farm Inlet,Heavy,Bottom,Low,208.6
+LK-468,Summer,Storm Drain Outfall,Heavy,Mid-Depth,High,111.4
+LK-469,Winter,Farm Inlet,None,Bottom,Low,47.9
+LK-470,Spring,Marina,Light,Mid-Depth,Moderate,75.3
+LK-471,Spring,Open Water,None,Bottom,Low,28.6
+LK-472,Summer,Residential Shore,None,Surface,High,58.7
+LK-473,Winter,Farm Inlet,None,Bottom,High,88
+LK-474,Fall,Open Water,Light,Surface,Low,39.8
+LK-475,Spring,Storm Drain Outfall,None,Surface,Moderate,92
+LK-476,Fall,Storm Drain Outfall,Light,Mid-Depth,Low,38.3
+LK-477,Fall,Marina,Light,Surface,Moderate,39.2
+LK-478,Fall,Residential Shore,Heavy,Surface,Low,70.8
+LK-479,Spring,Storm Drain Outfall,Heavy,Mid-Depth,Low,112.5
+LK-480,Fall,Farm Inlet,None,Mid-Depth,Low,59.5
+LK-481,Spring,Farm Inlet,Light,Bottom,Moderate,166.5
+LK-482,Spring,Open Water,None,Bottom,Low,49.6
+LK-483,Winter,Marina,Light,Surface,High,46.2
+LK-484,Spring,Farm Inlet,None,Bottom,Moderate,98.3
+LK-485,Winter,Open Water,None,Surface,Low,23.9
+LK-486,Fall,Residential Shore,Heavy,Mid-Depth,High,90.7
+LK-487,Winter,Residential Shore,Heavy,Surface,Low,37.1
+LK-488,Summer,Farm Inlet,Light,Surface,High,79.7
+LK-489,Fall,Open Water,None,Bottom,Moderate,17.7
+LK-490,Winter,Farm Inlet,None,Bottom,Low,57.4
+LK-491,Summer,Marina,None,Surface,Moderate,47.6
+LK-492,Summer,Farm Inlet,None,Bottom,High,95.2
+LK-493,Summer,Open Water,None,Surface,High,22.4
+LK-494,Summer,Storm Drain Outfall,None,Mid-Depth,High,72.8
+LK-495,Fall,Open Water,None,Bottom,Low,17.5
+LK-496,Fall,Farm Inlet,None,Surface,Low,43.1
+LK-497,Summer,Open Water,Heavy,Surface,High,54.5
+LK-498,Spring,Farm Inlet,Light,Surface,Low,98.1
+LK-499,Winter,Residential Shore,Light,Mid-Depth,Low,31.8
+LK-500,Winter,Residential Shore,Light,Surface,Low,42.5
+LK-501,Fall,Storm Drain Outfall,None,Mid-Depth,Low,46.1
+LK-502,Spring,Residential Shore,Light,Bottom,Low,56.2
+LK-503,Fall,Marina,Heavy,Surface,High,78
+LK-504,Spring,Marina,Heavy,Surface,Low,62.9
+LK-505,Winter,Open Water,None,Surface,Low,17.4
+LK-506,Spring,Farm Inlet,Heavy,Mid-Depth,High,267.4
+LK-507,Spring,Storm Drain Outfall,Light,Mid-Depth,Moderate,89.2
+LK-508,Winter,Residential Shore,None,Mid-Depth,Low,31.7
+LK-509,Spring,Storm Drain Outfall,Light,Mid-Depth,Moderate,80.4
+LK-510,Fall,Open Water,None,Bottom,Low,28.9
+LK-511,Spring,Marina,None,Bottom,High,72.1
+LK-512,Summer,Residential Shore,Light,Surface,High,51.5
+LK-513,Fall,Open Water,Light,Mid-Depth,Low,17.8
