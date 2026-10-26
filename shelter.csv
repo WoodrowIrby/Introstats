@@ -1,0 +1,251 @@
+animal_id,species,age_yrs,weight_lb,days_in_shelter,intake_type,intake_zip,energy_level,kennel,outcome
+24001,Dog,3.9,45.7,9,Stray,75216,1,135,Still here
+24002,Cat,1.2,17,57,Owner surrender,75241,2,135,Adopted
+24003,Dog,2.1,65.2,10,Stray,75211,2,122,Adopted
+24004,Dog,6.3,46.6,4,Owner surrender,75211,3,110,Adopted
+24005,Dog,5.7,39.2,9,Stray,75287,2,136,Transferred
+24006,Cat,1.5,10.7,24,Owner surrender,75228,2,138,Adopted
+24007,Rabbit,2,2.3,4,Owner surrender,75201,3,124,Adopted
+24008,Dog,1,41.5,37,Stray,75228,1,140,Adopted
+24009,Cat,3.6,7.5,1,Owner surrender,75287,2,152,Adopted
+24010,Dog,4.6,50.3,41,Owner surrender,75211,2,157,Still here
+24011,Rabbit,1.6,4.2,5,Stray,75241,2,141,Adopted
+24012,Rabbit,4.9,6.6,6,Stray,75228,1,106,Still here
+24013,Cat,1.1,13.4,27,Owner surrender,75211,1,125,Still here
+24014,Cat,1.2,5.9,11,Stray,75228,1,157,Adopted
+24015,Dog,5.1,89.9,6,Transfer,75228,3,105,Adopted
+24016,Cat,3.8,12.8,7,Transfer,75241,2,117,Still here
+24017,Dog,5.8,61.3,8,Stray,75241,2,135,Adopted
+24018,Dog,3.6,35.4,187,Owner surrender,75201,2,113,Still here
+24019,Dog,3.1,15.7,24,Stray,75211,1,133,Adopted
+24020,Dog,2.7,46.6,36,Stray,75228,2,130,Adopted
+24021,Dog,3.5,22.7,18,Stray,75241,2,152,Adopted
+24022,Dog,0.6,31.9,10,Owner surrender,75201,3,156,Adopted
+24023,Cat,2.1,13.6,54,Stray,75228,1,159,Adopted
+24024,Dog,3.8,87.7,38,Transfer,75216,3,133,Adopted
+24025,Dog,0.8,48.5,36,Stray,75287,2,152,Adopted
+24026,Dog,6.5,15.9,19,Stray,75287,3,125,Adopted
+24027,Dog,0.3,44.9,18,Transfer,75211,3,131,Adopted
+24028,Cat,1.7,11.9,5,Stray,75211,2,108,Still here
+24029,Dog,11.1,45.1,18,Owner surrender,75228,2,124,Adopted
+24030,Dog,1.5,39.8,22,Stray,75201,2,124,Adopted
+24031,Dog,1,70.8,18,Stray,75201,2,145,Adopted
+24032,Cat,2,7.2,16,Owner surrender,75228,2,142,Still here
+24033,Cat,1.5,9.1,22,Stray,75201,2,139,Adopted
+24034,Cat,1.6,8.2,25,Owner surrender,75201,2,105,Adopted
+24035,Dog,1.6,6,12,Owner surrender,75211,3,110,Still here
+24036,Rabbit,2.4,2,49,Stray,75287,2,150,Still here
+24037,Cat,3,7.1,72,Stray,75211,2,132,Adopted
+24038,Dog,1.6,16.3,8,Stray,75228,2,145,Transferred
+24039,Rabbit,1.4,5.5,25,Owner surrender,75241,1,136,Adopted
+24040,Dog,2.8,31.2,14,Owner surrender,75228,2,105,Adopted
+24041,Cat,2.6,5.5,164,Owner surrender,75216,2,132,Adopted
+24042,Dog,2,56.3,2,Stray,75216,2,155,Adopted
+24043,Dog,0.7,8,4,Stray,75228,3,111,Transferred
+24044,Cat,5.2,8.9,11,Stray,75241,2,103,Adopted
+24045,Dog,2.3,22.8,211,Owner surrender,75211,2,151,Adopted
+24046,Rabbit,0.2,5,143,Owner surrender,75287,2,149,Transferred
+24047,Dog,2,55.7,15,Transfer,75201,1,104,Adopted
+24048,Dog,3.4,63.5,5,Owner surrender,75241,2,146,Adopted
+24049,Dog,3,79.3,23,Stray,75201,2,129,Adopted
+24050,Dog,2.3,86.9,41,Stray,75201,2,122,Adopted
+24051,Dog,5.6,35.2,21,Transfer,75287,3,151,Adopted
+24052,Cat,1.1,10.5,5,Owner surrender,75211,1,142,Adopted
+24053,Rabbit,0.5,4.6,17,Owner surrender,75211,1,157,Adopted
+24054,Dog,2.5,28.5,5,Stray,75228,3,121,Adopted
+24055,Dog,2.6,58.6,20,Stray,75287,1,148,Adopted
+24056,Dog,0.6,47.8,11,Stray,75241,2,145,Transferred
+24057,Dog,3.3,57,11,Owner surrender,75228,3,147,Transferred
+24058,Dog,2.3,63.3,26,Stray,75201,3,122,Adopted
+24059,Cat,2.6,9.1,12,Stray,75201,2,149,Adopted
+24060,Dog,4.6,15.1,4,Stray,75211,2,107,Adopted
+24061,Cat,3.9,7.9,21,Stray,75228,1,148,Adopted
+24062,Dog,4,37.8,10,Owner surrender,75228,2,140,Adopted
+24063,Dog,4,29.4,39,Stray,75228,2,105,Still here
+24064,Rabbit,0.3,5.3,86,Stray,75241,1,120,Adopted
+24065,Dog,3.3,38.4,8,Stray,75216,2,118,Adopted
+24066,Dog,1.9,6,19,Stray,75287,3,153,Adopted
+24067,Dog,2.3,70.2,8,Owner surrender,75201,1,104,Adopted
+24068,Cat,1.6,12.5,11,Owner surrender,75211,2,153,Adopted
+24069,Dog,3.4,72.9,27,Stray,75287,3,148,Adopted
+24070,Cat,2.5,12,48,Transfer,75216,3,157,Adopted
+24071,Rabbit,1.1,4.3,12,Stray,75228,1,134,Adopted
+24072,Dog,1.5,53,42,Stray,75287,2,109,Transferred
+24073,Dog,3.1,28.7,10,Stray,75201,2,124,Adopted
+24074,Cat,2.2,6.4,13,Stray,75287,2,115,Still here
+24075,Cat,3.4,12.6,10,Stray,75211,1,113,Adopted
+24076,Dog,4.7,22.9,8,Stray,75211,1,127,Adopted
+24077,Dog,4.5,29.6,52,Stray,75287,1,107,Adopted
+24078,Dog,0.7,26.2,12,Stray,75287,2,150,Still here
+24079,Dog,1.4,60.9,24,Stray,75228,2,124,Still here
+24080,Cat,0.9,10.1,17,Stray,75211,2,159,Still here
+24081,Dog,5.9,64.9,9,Stray,75287,3,119,Adopted
+24082,Cat,1,6.3,16,Transfer,75211,2,104,Adopted
+24083,Dog,2.5,72.5,4,Stray,75287,1,156,Adopted
+24084,Dog,2.3,27.9,10,Owner surrender,75287,1,124,Adopted
+24085,Cat,1.7,7,30,Stray,75216,2,126,Adopted
+24086,Cat,2.8,9.9,19,Transfer,75216,2,103,Adopted
+24087,Dog,5.4,69.8,54,Transfer,75201,3,131,Still here
+24088,Dog,1.5,47.4,21,Stray,75241,2,133,Adopted
+24089,Dog,0.5,51.1,39,Owner surrender,75216,2,105,Adopted
+24090,Dog,1.6,36.3,3,Stray,75211,2,109,Adopted
+24091,Dog,4.4,39.5,43,Stray,75201,2,152,Adopted
+24092,Dog,3.9,28.2,17,Stray,75216,2,131,Adopted
+24093,Dog,6.5,29.8,21,Stray,75228,3,134,Still here
+24094,Cat,4.4,15.8,7,Stray,75228,2,134,Transferred
+24095,Dog,1.9,27.4,13,Stray,75287,2,141,Adopted
+24096,Cat,1.7,11,38,Owner surrender,75201,2,117,Adopted
+24097,Cat,1,13.3,11,Owner surrender,75228,1,154,Adopted
+24098,Dog,7.1,55.2,28,Transfer,75201,3,156,Adopted
+24099,Dog,2.2,36.4,20,Stray,75228,3,140,Adopted
+24100,Dog,6.8,40.7,3,Stray,75228,1,105,Still here
+24101,Cat,10.3,5.2,20,Transfer,75216,2,104,Adopted
+24102,Dog,2.7,49.5,21,Owner surrender,75287,2,123,Still here
+24103,Cat,2,10.9,11,Transfer,75228,3,140,Adopted
+24104,Cat,5.8,10.7,15,Transfer,75287,2,155,Adopted
+24105,Cat,0.4,7.6,26,Owner surrender,75228,2,114,Adopted
+24106,Cat,2.2,11.1,3,Stray,75211,3,105,Adopted
+24107,Dog,5,46.1,42,Stray,75216,3,124,Transferred
+24108,Cat,11.2,9.7,22,Stray,75201,3,151,Adopted
+24109,Cat,1.9,9,14,Owner surrender,75211,2,115,Adopted
+24110,Cat,2.3,10.2,28,Stray,75211,3,157,Still here
+24111,Dog,5.1,40.3,12,Transfer,75228,1,146,Adopted
+24112,Dog,2.6,20.3,2,Stray,75201,3,118,Adopted
+24113,Dog,1.9,54,51,Stray,75201,3,132,Adopted
+24114,Dog,3.4,48.3,39,Stray,75211,3,132,Still here
+24115,Cat,1.1,11.4,20,Transfer,75287,1,149,Adopted
+24116,Cat,5.6,12,13,Transfer,75241,3,138,Adopted
+24117,Dog,1.5,66.3,35,Stray,75211,2,155,Adopted
+24118,Dog,2,59.3,55,Stray,75287,3,124,Adopted
+24119,Cat,1.5,10.8,25,Stray,75241,2,117,Adopted
+24120,Dog,0.3,36.5,12,Transfer,75228,2,156,Still here
+24121,Dog,1.6,22.8,14,Stray,75241,2,123,Adopted
+24122,Dog,2,16.7,12,Stray,75211,2,117,Still here
+24123,Dog,4,58.9,91,Transfer,75228,3,152,Still here
+24124,Rabbit,1.1,3.3,7,Stray,75287,1,155,Adopted
+24125,Rabbit,0.8,4.9,16,Stray,75216,1,156,Still here
+24126,Cat,3.1,11.7,23,Stray,75201,2,152,Adopted
+24127,Dog,2.4,41.4,4,Owner surrender,75287,3,126,Adopted
+24128,Dog,1.2,43,58,Owner surrender,75211,2,133,Adopted
+24129,Dog,7.7,38.8,7,Stray,75216,2,155,Adopted
+24130,Cat,3,9,14,Owner surrender,75241,2,152,Still here
+24131,Rabbit,1.9,2.6,19,Stray,75216,1,109,Adopted
+24132,Rabbit,0.6,3.5,8,Stray,75216,1,133,Adopted
+24133,Dog,1.4,27.5,23,Stray,75201,2,146,Adopted
+24134,Dog,0.5,74.7,29,Owner surrender,75241,1,127,Transferred
+24135,Dog,5.9,63.8,31,Stray,75241,1,101,Transferred
+24136,Dog,6.2,39.2,1,Stray,75241,2,148,Adopted
+24137,Dog,0.8,47.6,2,Stray,75216,2,136,Adopted
+24138,Dog,2.4,53.8,42,Owner surrender,75216,2,127,Adopted
+24139,Dog,3.8,26.2,35,Owner surrender,75201,2,152,Adopted
+24140,Cat,3.4,12.4,16,Stray,75211,1,140,Adopted
+24141,Cat,3.3,10.3,17,Stray,75201,2,143,Adopted
+24142,Cat,3,8.7,5,Stray,75216,3,117,Transferred
+24143,Dog,1.8,50.9,44,Stray,75241,1,144,Adopted
+24144,Rabbit,0.5,5.5,47,Transfer,75287,2,156,Adopted
+24145,Cat,0.4,8.9,64,Owner surrender,75201,2,117,Adopted
+24146,Dog,3.4,72.2,16,Owner surrender,75211,1,108,Adopted
+24147,Cat,3.6,11.4,20,Stray,75228,2,126,Adopted
+24148,Cat,3.1,6.8,21,Owner surrender,75287,2,126,Adopted
+24149,Dog,4.7,6,36,Owner surrender,75211,3,107,Adopted
+24150,Cat,3.3,10.6,11,Stray,75228,2,133,Adopted
+24151,Dog,0.6,61.6,17,Transfer,75228,3,117,Adopted
+24152,Cat,3,8.7,9,Transfer,75241,1,121,Adopted
+24153,Cat,4.2,11.1,15,Owner surrender,75228,3,138,Still here
+24154,Rabbit,3,4.8,8,Stray,75216,2,137,Still here
+24155,Dog,5.4,34.7,5,Stray,75211,3,115,Adopted
+24156,Cat,3,9,43,Transfer,75216,2,154,Still here
+24157,Cat,5.2,11.2,1,Owner surrender,75241,2,147,Adopted
+24158,Dog,0.2,21.4,11,Stray,75287,1,147,Adopted
+24159,Cat,1.5,14,10,Stray,75201,3,146,Adopted
+24160,Dog,3.2,62.5,84,Stray,75287,1,107,Transferred
+24161,Dog,5.4,26.7,22,Stray,75241,3,122,Adopted
+24162,Cat,1.8,13.5,15,Transfer,75228,1,142,Still here
+24163,Dog,0.9,25.2,23,Transfer,75201,2,120,Adopted
+24164,Dog,0.4,63,20,Owner surrender,75201,1,103,Adopted
+24165,Cat,2.4,6.5,10,Transfer,75216,1,139,Adopted
+24166,Cat,6.2,13.4,30,Owner surrender,75241,2,114,Adopted
+24167,Dog,1.7,72.3,51,Stray,75287,3,128,Adopted
+24168,Cat,1.8,8.5,11,Owner surrender,75201,2,101,Adopted
+24169,Cat,0.8,8.6,64,Stray,75201,1,154,Adopted
+24170,Cat,6.6,11.5,48,Stray,75216,1,116,Still here
+24171,Dog,2.1,43.9,10,Owner surrender,75241,2,105,Adopted
+24172,Cat,4.4,11,57,Stray,75287,1,117,Adopted
+24173,Cat,1.2,4.8,41,Stray,75287,2,116,Adopted
+24174,Dog,1.3,40.2,10,Transfer,75211,2,107,Adopted
+24175,Cat,3,9.8,30,Stray,75241,3,133,Transferred
+24176,Cat,3.4,5,22,Owner surrender,75216,1,116,Adopted
+24177,Cat,4.2,8.9,10,Stray,75241,1,149,Transferred
+24178,Dog,3.2,75.8,14,Transfer,75216,3,142,Adopted
+24179,Cat,6.4,8,47,Stray,75201,2,115,Adopted
+24180,Cat,3.2,8.6,5,Stray,75216,1,144,Adopted
+24181,Cat,4.6,8.1,38,Transfer,75216,1,146,Adopted
+24182,Cat,6,11.9,1,Transfer,75228,1,112,Adopted
+24183,Cat,1.3,3,22,Stray,75228,3,134,Still here
+24184,Dog,5.9,19.6,35,Owner surrender,75241,2,111,Adopted
+24185,Dog,4.3,35.4,20,Stray,75241,3,133,Adopted
+24186,Cat,0.2,7.1,47,Stray,75287,2,143,Still here
+24187,Dog,2,36.4,11,Transfer,75211,3,137,Adopted
+24188,Rabbit,0.4,4.3,8,Stray,75211,2,123,Adopted
+24189,Dog,2.2,19.6,43,Stray,75211,2,147,Adopted
+24190,Dog,3.9,56.6,13,Transfer,75211,2,144,Adopted
+24191,Dog,4.8,37.2,17,Transfer,75201,1,122,Adopted
+24192,Rabbit,2.3,4.6,19,Owner surrender,75241,1,149,Adopted
+24193,Dog,1.8,37.8,23,Transfer,75287,3,125,Still here
+24194,Cat,4.5,13.7,44,Stray,75287,2,134,Still here
+24195,Rabbit,2.1,4.6,29,Transfer,75201,1,131,Still here
+24196,Rabbit,0.2,5.3,10,Owner surrender,75201,2,148,Transferred
+24197,Cat,5.2,6.7,16,Stray,75201,2,143,Still here
+24198,Dog,0.7,46.1,27,Stray,75216,3,108,Adopted
+24199,Dog,0.5,25.8,54,Stray,75211,3,104,Adopted
+24200,Dog,6.4,64.3,23,Stray,75201,2,151,Adopted
+24201,Dog,4.6,33.6,23,Stray,75241,3,144,Adopted
+24202,Dog,1.9,42.2,12,Stray,75287,3,156,Adopted
+24203,Dog,2.2,35,11,Stray,75287,2,127,Adopted
+24204,Dog,1.2,48.4,52,Stray,75228,1,121,Adopted
+24205,Cat,1.4,9.3,14,Stray,75201,1,133,Adopted
+24206,Dog,5.2,25.6,12,Owner surrender,75216,3,146,Adopted
+24207,Dog,6.3,25.9,3,Owner surrender,75241,3,150,Adopted
+24208,Dog,4.8,64.6,60,Stray,75287,2,149,Transferred
+24209,Dog,3.7,47.9,20,Stray,75211,2,128,Adopted
+24210,Dog,1.7,67.2,15,Stray,75216,2,106,Adopted
+24211,Rabbit,1.5,5.5,23,Owner surrender,75228,3,132,Adopted
+24212,Rabbit,0.2,5.6,27,Stray,75216,2,153,Still here
+24213,Dog,6.5,61.7,81,Owner surrender,75201,2,154,Adopted
+24214,Dog,3.1,36.4,9,Owner surrender,75201,2,145,Still here
+24215,Cat,3.5,10.3,21,Stray,75201,1,154,Still here
+24216,Dog,5,32,11,Stray,75211,1,130,Adopted
+24217,Dog,2.7,39.7,5,Owner surrender,75211,2,144,Adopted
+24218,Dog,1.2,49,6,Stray,75287,2,143,Adopted
+24219,Dog,1.5,31,1,Owner surrender,75216,3,109,Adopted
+24220,Dog,4.1,27.5,9,Stray,75228,2,101,Adopted
+24221,Cat,2.4,8.3,14,Transfer,75216,3,143,Still here
+24222,Dog,1.8,55.4,13,Stray,75241,3,121,Adopted
+24223,Dog,1.7,62.3,13,Stray,75287,3,154,Still here
+24224,Cat,5.5,7.4,51,Stray,75216,3,130,Adopted
+24225,Cat,2.7,11.4,15,Owner surrender,75201,1,104,Still here
+24226,Dog,3.1,39.4,24,Stray,75211,1,147,Still here
+24227,Dog,3.9,57.5,11,Owner surrender,75216,2,148,Adopted
+24228,Cat,2.3,9.9,8,Stray,75241,3,132,Still here
+24229,Cat,3.1,12.6,9,Transfer,75241,1,124,Adopted
+24230,Dog,4.6,21.7,41,Stray,75241,2,117,Adopted
+24231,Dog,5.8,55.8,23,Stray,75201,2,159,Adopted
+24232,Cat,3.4,8.2,23,Transfer,75228,2,110,Adopted
+24233,Cat,2.3,9.1,14,Owner surrender,75241,3,119,Still here
+24234,Dog,4.6,6,34,Stray,75241,2,155,Transferred
+24235,Rabbit,1.3,2.5,8,Transfer,75216,3,155,Still here
+24236,Dog,0.7,32.5,2,Owner surrender,75201,2,128,Adopted
+24237,Dog,5.2,36.2,52,Stray,75287,3,105,Adopted
+24238,Dog,0.6,24.8,8,Stray,75287,1,156,Adopted
+24239,Rabbit,0.7,3.9,16,Stray,75211,2,132,Adopted
+24240,Dog,5.7,31.2,86,Transfer,75241,3,139,Adopted
+24241,Dog,1.8,32.9,25,Stray,75228,1,103,Adopted
+24242,Cat,2.3,12.6,12,Owner surrender,75211,1,122,Still here
+24243,Dog,0.9,55.3,29,Stray,75228,3,135,Adopted
+24244,Cat,3,7.7,46,Owner surrender,75287,1,103,Still here
+24245,Dog,6.9,14.8,20,Owner surrender,75241,3,114,Adopted
+24246,Dog,3.6,35.2,5,Stray,75216,2,138,Transferred
+24247,Dog,4.5,42.3,35,Transfer,75241,1,149,Adopted
+24248,Dog,3.6,46.1,27,Owner surrender,75211,1,147,Adopted
+24249,Cat,1.9,10.6,9,Stray,75216,1,131,Adopted
+24250,Dog,1.5,46.7,13,Stray,75228,3,126,Still here
