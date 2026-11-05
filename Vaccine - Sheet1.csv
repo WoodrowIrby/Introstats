@@ -1,0 +1,301 @@
+Respondent_ID,Age,Gender,Regular_Dr_Visits,Religious_Preference,Education_Level,Exercise_Habits,Childhood_Disease_Experience,Vaccines_Up_To_Date,Flu_Shot_Past_Year,Vaccines_Past_5_Years,Vaccines_Are_Safe_Effective
+R001,32,Female,Yes,Christian (Protestant),High School Diploma/GED,5+ days/week,Chickenpox,Yes,No,2,Neutral
+R002,24,Male,Yes,Christian (Protestant),Bachelor's Degree,3-4 days/week,None,No,No,0,Disagree
+R003,51,Female,Yes,None/Unaffiliated,Some College/Associate,None,None,Yes,Yes,1,Agree
+R004,38,Female,Yes,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,No,Yes,3,Neutral
+R005,38,Male,Yes,Christian (Protestant),Some College/Associate,5+ days/week,Chickenpox,No,Yes,5,Strongly Agree
+R006,53,Male,Yes,None/Unaffiliated,Some College/Associate,5+ days/week,None,No,Yes,1,Strongly Agree
+R007,41,Male,No,None/Unaffiliated,Graduate Degree,5+ days/week,None,Yes,No,1,Disagree
+R008,44,Female,Yes,Christian (Protestant),Graduate Degree,1-2 days/week,Rubella,Yes,Yes,5,Strongly Agree
+R009,37,Male,No,Christian (Catholic),Some College/Associate,3-4 days/week,Measles,Yes,Yes,2,Neutral
+R010,40,Male,No,Christian (Catholic),Bachelor's Degree,1-2 days/week,None,Yes,No,1,Disagree
+R011,36,Female,Yes,None/Unaffiliated,Less than High School,1-2 days/week,None,No,No,1,Strongly Disagree
+R012,39,Male,No,Christian (Protestant),High School Diploma/GED,1-2 days/week,None,Yes,No,0,Strongly Disagree
+R013,51,Male,No,None/Unaffiliated,Some College/Associate,1-2 days/week,None,Yes,No,0,Strongly Disagree
+R014,33,Female,No,Christian (Protestant),Some College/Associate,1-2 days/week,None,No,No,2,Strongly Disagree
+R015,28,Female,No,Christian (Catholic),High School Diploma/GED,None,Chickenpox,Yes,Yes,1,Neutral
+R016,29,Male,No,None/Unaffiliated,Bachelor's Degree,None,None,No,No,1,Neutral
+R017,35,Male,No,Christian (Protestant),High School Diploma/GED,1-2 days/week,None,Yes,No,3,Neutral
+R018,55,Male,Yes,None/Unaffiliated,Graduate Degree,1-2 days/week,None,Yes,Yes,4,Neutral
+R019,32,Male,No,Christian (Protestant),High School Diploma/GED,3-4 days/week,None,Yes,No,0,Disagree
+R020,35,Male,Yes,Christian (Protestant),Bachelor's Degree,5+ days/week,None,No,Yes,1,Neutral
+R021,49,Male,Yes,Christian (Catholic),Some College/Associate,None,Mumps,Yes,Yes,2,Strongly Agree
+R022,45,Male,Yes,Christian (Protestant),Bachelor's Degree,None,None,No,Yes,6,Agree
+R023,32,Female,No,Christian (Catholic),Some College/Associate,1-2 days/week,None,No,No,3,Disagree
+R024,50,Female,Yes,Christian (Catholic),High School Diploma/GED,5+ days/week,Rubella,Yes,Yes,5,Agree
+R025,83,Male,Yes,None/Unaffiliated,Some College/Associate,None,None,Yes,No,4,Strongly Agree
+R026,89,Female,Yes,None/Unaffiliated,Graduate Degree,3-4 days/week,Chickenpox,Yes,Yes,6,Strongly Agree
+R027,33,Female,Yes,None/Unaffiliated,Bachelor's Degree,None,None,Yes,No,3,Disagree
+R028,54,Female,No,Christian (Catholic),Less than High School,None,None,No,No,1,Strongly Disagree
+R029,57,Female,Yes,None/Unaffiliated,Less than High School,1-2 days/week,None,Yes,Yes,4,Agree
+R030,41,Male,No,None/Unaffiliated,High School Diploma/GED,1-2 days/week,None,Yes,No,1,Disagree
+R031,46,Male,No,Christian (Catholic),High School Diploma/GED,3-4 days/week,None,No,No,2,Strongly Disagree
+R032,35,Female,No,Christian (Protestant),High School Diploma/GED,1-2 days/week,None,No,No,0,Strongly Disagree
+R033,30,Male,Yes,Christian (Protestant),Graduate Degree,3-4 days/week,Rubella,Yes,Yes,3,Strongly Agree
+R034,27,Female,Yes,None/Unaffiliated,High School Diploma/GED,1-2 days/week,None,Yes,Yes,3,Disagree
+R035,63,Male,Yes,Christian (Catholic),Some College/Associate,5+ days/week,Chickenpox,Yes,Yes,5,Agree
+R036,45,Male,Yes,Christian (Protestant),High School Diploma/GED,1-2 days/week,Mumps,Yes,Yes,1,Neutral
+R037,44,Female,Yes,None/Unaffiliated,High School Diploma/GED,3-4 days/week,None,No,No,1,Disagree
+R038,33,Female,No,Hindu,Some College/Associate,1-2 days/week,Chickenpox,Yes,Yes,0,Strongly Disagree
+R039,35,Male,No,Christian (Protestant),Some College/Associate,3-4 days/week,None,Yes,Yes,3,Agree
+R040,48,Female,Yes,None/Unaffiliated,Less than High School,None,None,Yes,Yes,0,Disagree
+R041,34,Male,Yes,Christian (Catholic),Bachelor's Degree,None,None,Yes,No,1,Strongly Disagree
+R042,39,Male,Yes,Christian (Protestant),Graduate Degree,3-4 days/week,None,Yes,Yes,7,Neutral
+R043,33,Male,No,Christian (Catholic),High School Diploma/GED,1-2 days/week,None,Yes,No,2,Strongly Disagree
+R044,34,Male,Yes,Christian (Catholic),High School Diploma/GED,1-2 days/week,None,Yes,Yes,1,Strongly Agree
+R045,48,Male,Yes,None/Unaffiliated,Bachelor's Degree,3-4 days/week,None,No,Yes,3,Agree
+R046,28,Male,No,Other,Some College/Associate,1-2 days/week,None,No,No,1,Strongly Disagree
+R047,39,Male,Yes,Christian (Protestant),Less than High School,None,None,No,Yes,0,Disagree
+R048,52,Female,No,Christian (Catholic),Less than High School,None,None,No,No,0,Strongly Disagree
+R049,23,Nonbinary/Other,Yes,Christian (Protestant),Graduate Degree,5+ days/week,None,Yes,No,3,Agree
+R050,28,Female,No,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,No,No,0,Neutral
+R051,80,Female,Yes,None/Unaffiliated,Some College/Associate,1-2 days/week,None,Yes,Yes,1,Neutral
+R052,45,Male,Yes,Christian (Catholic),High School Diploma/GED,None,None,Yes,Yes,1,Strongly Disagree
+R053,30,Male,No,None/Unaffiliated,Graduate Degree,1-2 days/week,None,No,Yes,2,Disagree
+R054,41,Female,Yes,Christian (Protestant),Some College/Associate,1-2 days/week,None,Yes,Yes,1,Neutral
+R055,37,Nonbinary/Other,No,Jewish,High School Diploma/GED,3-4 days/week,None,Yes,No,2,Strongly Disagree
+R056,44,Male,No,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,Yes,Yes,0,Disagree
+R057,49,Male,Yes,Christian (Protestant),Bachelor's Degree,None,None,Yes,Yes,5,Strongly Agree
+R058,60,Male,No,Christian (Catholic),Less than High School,None,Chickenpox,No,No,0,Strongly Disagree
+R059,22,Female,No,None/Unaffiliated,Some College/Associate,3-4 days/week,None,Yes,No,3,Disagree
+R060,34,Female,Yes,Other,High School Diploma/GED,1-2 days/week,None,Yes,No,2,Disagree
+R061,71,Female,Yes,Christian (Protestant),Graduate Degree,5+ days/week,Chickenpox,Yes,Yes,1,Agree
+R062,53,Female,Yes,Christian (Protestant),High School Diploma/GED,None,Measles,Yes,No,1,Disagree
+R063,48,Female,Yes,Christian (Protestant),High School Diploma/GED,None,Measles,Yes,No,1,Neutral
+R064,36,Female,Yes,Hindu,Bachelor's Degree,3-4 days/week,Whooping Cough,No,Yes,7,Strongly Agree
+R065,58,Female,Yes,None/Unaffiliated,Graduate Degree,1-2 days/week,Chickenpox,Yes,Yes,3,Strongly Agree
+R066,65,Female,Yes,Hindu,Some College/Associate,1-2 days/week,Mumps,Yes,Yes,1,Strongly Agree
+R067,70,Male,No,None/Unaffiliated,Some College/Associate,1-2 days/week,None,No,Yes,0,Disagree
+R068,30,Male,No,Christian (Protestant),High School Diploma/GED,1-2 days/week,None,Yes,No,0,Disagree
+R069,30,Male,No,None/Unaffiliated,High School Diploma/GED,5+ days/week,None,Yes,No,1,Strongly Disagree
+R070,27,Male,Yes,Christian (Catholic),Bachelor's Degree,1-2 days/week,None,Yes,Yes,3,Agree
+R071,82,Male,No,Other,High School Diploma/GED,None,Chickenpox,Yes,Yes,1,Strongly Agree
+R072,74,Female,Yes,Christian (Protestant),Graduate Degree,3-4 days/week,None,Yes,Yes,4,Agree
+R073,21,Male,Yes,Other,Graduate Degree,3-4 days/week,None,No,No,2,Agree
+R074,27,Male,No,Christian (Protestant),Some College/Associate,3-4 days/week,None,Yes,Yes,5,Agree
+R075,45,Female,No,Christian (Protestant),High School Diploma/GED,3-4 days/week,None,No,Yes,1,Strongly Disagree
+R076,69,Male,Yes,Christian (Protestant),Graduate Degree,3-4 days/week,None,Yes,No,4,Agree
+R077,50,Male,Yes,Christian (Catholic),Bachelor's Degree,3-4 days/week,None,No,No,1,Strongly Agree
+R078,44,Female,No,Christian (Protestant),Bachelor's Degree,1-2 days/week,Measles,Yes,Yes,4,Neutral
+R079,39,Male,No,Muslim,High School Diploma/GED,1-2 days/week,Chickenpox,Yes,Yes,0,Neutral
+R080,32,Male,No,Hindu,Some College/Associate,5+ days/week,None,No,Yes,2,Agree
+R081,27,Male,No,Christian (Protestant),Bachelor's Degree,5+ days/week,None,No,No,4,Disagree
+R082,22,Male,Yes,None/Unaffiliated,High School Diploma/GED,3-4 days/week,None,Yes,No,4,Agree
+R083,53,Male,Yes,Buddhist,High School Diploma/GED,None,None,Yes,Yes,5,Agree
+R084,89,Male,Yes,None/Unaffiliated,Some College/Associate,None,Chickenpox,Yes,No,5,Strongly Agree
+R085,31,Female,No,None/Unaffiliated,Bachelor's Degree,5+ days/week,Chickenpox,Yes,No,0,Neutral
+R086,31,Female,Yes,None/Unaffiliated,High School Diploma/GED,1-2 days/week,None,Yes,No,3,Agree
+R087,53,Male,Yes,None/Unaffiliated,Bachelor's Degree,None,Mumps,No,No,3,Strongly Agree
+R088,65,Female,No,None/Unaffiliated,Some College/Associate,None,None,Yes,No,1,Neutral
+R089,50,Female,Yes,None/Unaffiliated,Bachelor's Degree,3-4 days/week,None,Yes,Yes,2,Neutral
+R090,63,Female,No,None/Unaffiliated,High School Diploma/GED,3-4 days/week,None,No,No,1,Disagree
+R091,36,Female,Yes,Christian (Protestant),Graduate Degree,5+ days/week,Chickenpox,Yes,Yes,4,Strongly Agree
+R092,77,Male,No,Christian (Protestant),High School Diploma/GED,None,None,No,No,0,Disagree
+R093,51,Male,Yes,None/Unaffiliated,Bachelor's Degree,3-4 days/week,Mumps,Yes,Yes,1,Strongly Agree
+R094,33,Female,No,Christian (Protestant),Less than High School,1-2 days/week,None,No,Yes,0,Strongly Disagree
+R095,60,Female,No,None/Unaffiliated,Bachelor's Degree,None,None,No,Yes,1,Strongly Agree
+R096,39,Nonbinary/Other,No,None/Unaffiliated,High School Diploma/GED,1-2 days/week,None,No,Yes,3,Strongly Disagree
+R097,48,Female,Yes,Jewish,Some College/Associate,1-2 days/week,Chickenpox,Yes,No,2,Disagree
+R098,37,Male,No,Christian (Protestant),Graduate Degree,3-4 days/week,None,Yes,No,0,Disagree
+R099,50,Female,No,Buddhist,Some College/Associate,None,Whooping Cough,Yes,Yes,1,Disagree
+R100,37,Female,No,None/Unaffiliated,Some College/Associate,3-4 days/week,None,Yes,No,2,Strongly Disagree
+R101,45,Male,Yes,Christian (Protestant),Some College/Associate,1-2 days/week,None,Yes,No,3,Neutral
+R102,26,Male,No,None/Unaffiliated,Less than High School,None,None,No,No,0,Neutral
+R103,47,Male,No,Other,Bachelor's Degree,5+ days/week,None,Yes,Yes,2,Strongly Agree
+R104,44,Female,Yes,None/Unaffiliated,Graduate Degree,3-4 days/week,Chickenpox,Yes,Yes,7,Strongly Agree
+R105,48,Male,Yes,Christian (Protestant),Some College/Associate,None,Chickenpox,Yes,Yes,2,Strongly Agree
+R106,45,Male,No,None/Unaffiliated,Bachelor's Degree,5+ days/week,Chickenpox,Yes,No,4,Agree
+R107,45,Male,Yes,Christian (Protestant),High School Diploma/GED,5+ days/week,Measles,Yes,Yes,6,Strongly Agree
+R108,35,Nonbinary/Other,Yes,None/Unaffiliated,Some College/Associate,1-2 days/week,Chickenpox,Yes,Yes,1,Strongly Agree
+R109,51,Male,No,None/Unaffiliated,High School Diploma/GED,None,None,No,Yes,0,Disagree
+R110,36,Male,No,Christian (Catholic),High School Diploma/GED,1-2 days/week,None,No,No,1,Strongly Disagree
+R111,55,Male,Yes,Christian (Protestant),Some College/Associate,1-2 days/week,None,Yes,Yes,2,Agree
+R112,43,Male,No,None/Unaffiliated,Less than High School,None,None,No,No,1,Strongly Disagree
+R113,34,Male,No,Christian (Catholic),Graduate Degree,1-2 days/week,None,No,No,0,Neutral
+R114,26,Male,No,Christian (Protestant),Bachelor's Degree,5+ days/week,None,Yes,No,0,Disagree
+R115,26,Male,No,None/Unaffiliated,High School Diploma/GED,1-2 days/week,None,No,Yes,2,Disagree
+R116,35,Male,Yes,None/Unaffiliated,Some College/Associate,1-2 days/week,None,Yes,No,0,Neutral
+R117,47,Male,Yes,None/Unaffiliated,Less than High School,1-2 days/week,None,Yes,No,0,Agree
+R118,33,Female,Yes,Hindu,Bachelor's Degree,1-2 days/week,None,No,No,2,Agree
+R119,29,Female,Yes,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,Yes,Yes,1,Neutral
+R120,39,Female,Yes,Christian (Catholic),Bachelor's Degree,1-2 days/week,None,Yes,Yes,2,Strongly Agree
+R121,68,Female,No,Christian (Catholic),High School Diploma/GED,1-2 days/week,None,No,No,1,Strongly Disagree
+R122,52,Male,No,Christian (Catholic),High School Diploma/GED,1-2 days/week,None,No,Yes,1,Disagree
+R123,49,Nonbinary/Other,Yes,Christian (Protestant),Bachelor's Degree,5+ days/week,Measles,Yes,Yes,5,Strongly Agree
+R124,89,Female,No,Christian (Protestant),High School Diploma/GED,None,Measles,Yes,Yes,4,Strongly Disagree
+R125,51,Male,Yes,Christian (Protestant),Graduate Degree,5+ days/week,None,Yes,Yes,1,Agree
+R126,29,Female,Yes,Christian (Protestant),Some College/Associate,3-4 days/week,Mumps,Yes,Yes,4,Agree
+R127,41,Male,No,Christian (Protestant),Some College/Associate,1-2 days/week,None,Yes,Yes,3,Neutral
+R128,40,Female,Yes,Christian (Catholic),Bachelor's Degree,3-4 days/week,None,Yes,Yes,3,Strongly Agree
+R129,56,Male,Yes,Other,Graduate Degree,3-4 days/week,Mumps,Yes,Yes,1,Agree
+R130,38,Male,No,Christian (Catholic),Some College/Associate,3-4 days/week,None,Yes,No,2,Neutral
+R131,44,Male,Yes,Christian (Catholic),Some College/Associate,1-2 days/week,None,No,Yes,0,Strongly Disagree
+R132,64,Female,No,Christian (Protestant),Less than High School,None,Chickenpox,Yes,Yes,0,Agree
+R133,27,Male,Yes,Christian (Protestant),Graduate Degree,3-4 days/week,Chickenpox,Yes,No,4,Strongly Agree
+R134,25,Male,No,Christian (Protestant),Graduate Degree,5+ days/week,None,Yes,No,2,Neutral
+R135,52,Male,Yes,Christian (Protestant),Less than High School,3-4 days/week,None,Yes,Yes,3,Agree
+R136,34,Female,No,Christian (Protestant),High School Diploma/GED,3-4 days/week,None,No,No,1,Disagree
+R137,28,Male,No,Christian (Catholic),Graduate Degree,5+ days/week,None,Yes,No,0,Disagree
+R138,42,Female,No,Christian (Protestant),Some College/Associate,5+ days/week,None,No,Yes,0,Strongly Disagree
+R139,68,Female,Yes,Christian (Protestant),High School Diploma/GED,3-4 days/week,None,Yes,No,3,Neutral
+R140,48,Female,Yes,None/Unaffiliated,High School Diploma/GED,1-2 days/week,None,Yes,Yes,1,Neutral
+R141,36,Male,Yes,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,Yes,No,5,Agree
+R142,57,Male,No,Christian (Protestant),Bachelor's Degree,3-4 days/week,Chickenpox,No,No,4,Disagree
+R143,60,Male,Yes,None/Unaffiliated,High School Diploma/GED,3-4 days/week,None,Yes,Yes,2,Neutral
+R144,42,Male,Yes,None/Unaffiliated,Some College/Associate,None,Chickenpox,Yes,Yes,1,Agree
+R145,27,Male,No,Other,Bachelor's Degree,1-2 days/week,None,Yes,No,1,Agree
+R146,57,Male,No,Christian (Catholic),Bachelor's Degree,3-4 days/week,None,Yes,No,2,Neutral
+R147,42,Male,No,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,No,Yes,0,Disagree
+R148,34,Male,Yes,None/Unaffiliated,Bachelor's Degree,5+ days/week,None,Yes,Yes,6,Agree
+R149,31,Male,Yes,Jewish,Bachelor's Degree,3-4 days/week,None,No,No,2,Neutral
+R150,34,Male,No,None/Unaffiliated,Bachelor's Degree,5+ days/week,Chickenpox,No,No,2,Strongly Disagree
+R151,40,Female,No,Christian (Protestant),High School Diploma/GED,1-2 days/week,None,No,No,0,Disagree
+R152,89,Male,Yes,Christian (Protestant),Less than High School,None,Measles,No,Yes,5,Strongly Agree
+R153,45,Female,Yes,None/Unaffiliated,High School Diploma/GED,None,None,No,No,4,Neutral
+R154,34,Male,No,Christian (Protestant),Some College/Associate,1-2 days/week,None,Yes,No,2,Strongly Disagree
+R155,59,Male,Yes,None/Unaffiliated,Less than High School,None,Whooping Cough,Yes,Yes,3,Strongly Agree
+R156,43,Male,No,None/Unaffiliated,Bachelor's Degree,1-2 days/week,None,No,Yes,2,Disagree
+R157,40,Male,No,Christian (Protestant),High School Diploma/GED,1-2 days/week,None,No,No,0,Neutral
+R158,34,Female,Yes,Jewish,Bachelor's Degree,3-4 days/week,Chickenpox,Yes,Yes,2,Strongly Agree
+R159,38,Female,No,Christian (Protestant),High School Diploma/GED,None,None,No,No,2,Disagree
+R160,31,Male,No,None/Unaffiliated,High School Diploma/GED,5+ days/week,None,Yes,No,0,Strongly Disagree
+R161,44,Male,Yes,Hindu,Some College/Associate,5+ days/week,None,Yes,Yes,1,Strongly Agree
+R162,31,Male,No,None/Unaffiliated,Less than High School,None,None,Yes,No,1,Strongly Disagree
+R163,55,Male,Yes,Christian (Protestant),High School Diploma/GED,None,Measles,Yes,Yes,3,Strongly Agree
+R164,33,Male,Yes,Christian (Protestant),High School Diploma/GED,None,None,No,No,2,Agree
+R165,46,Male,No,Christian (Catholic),Graduate Degree,3-4 days/week,None,No,No,0,Strongly Disagree
+R166,37,Male,No,Other,Some College/Associate,None,None,No,No,3,Neutral
+R167,30,Male,No,None/Unaffiliated,Some College/Associate,1-2 days/week,Chickenpox,Yes,No,1,Disagree
+R168,35,Male,No,Christian (Protestant),Less than High School,1-2 days/week,None,No,Yes,1,Neutral
+R169,35,Female,Yes,Christian (Catholic),Less than High School,1-2 days/week,None,Yes,No,1,Disagree
+R170,47,Male,No,None/Unaffiliated,Some College/Associate,3-4 days/week,Chickenpox,Yes,Yes,1,Neutral
+R171,28,Male,No,Christian (Protestant),High School Diploma/GED,None,None,Yes,Yes,2,Strongly Disagree
+R172,52,Male,No,Other,High School Diploma/GED,3-4 days/week,None,Yes,No,1,Strongly Disagree
+R173,34,Female,Yes,None/Unaffiliated,High School Diploma/GED,3-4 days/week,None,Yes,No,2,Neutral
+R174,37,Female,Yes,Jewish,Bachelor's Degree,5+ days/week,None,No,Yes,6,Strongly Agree
+R175,48,Female,Yes,Christian (Protestant),Graduate Degree,5+ days/week,Whooping Cough,Yes,No,7,Strongly Agree
+R176,38,Female,Yes,Hindu,Some College/Associate,None,None,Yes,Yes,3,Agree
+R177,55,Female,Yes,Christian (Protestant),Some College/Associate,None,None,Yes,No,0,Neutral
+R178,22,Female,Yes,Christian (Protestant),High School Diploma/GED,3-4 days/week,None,No,No,0,Disagree
+R179,30,Nonbinary/Other,No,None/Unaffiliated,High School Diploma/GED,5+ days/week,None,Yes,No,0,Disagree
+R180,72,Male,Yes,Other,High School Diploma/GED,None,None,No,No,1,Neutral
+R181,56,Female,No,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,Yes,Yes,1,Disagree
+R182,30,Male,No,Other,Less than High School,1-2 days/week,None,No,No,0,Strongly Disagree
+R183,45,Female,Yes,Christian (Catholic),Bachelor's Degree,5+ days/week,None,Yes,Yes,3,Agree
+R184,79,Female,No,None/Unaffiliated,Less than High School,1-2 days/week,None,No,No,1,Strongly Disagree
+R185,33,Male,Yes,Buddhist,Some College/Associate,None,None,Yes,No,2,Disagree
+R186,58,Male,Yes,None/Unaffiliated,Bachelor's Degree,1-2 days/week,None,Yes,Yes,5,Agree
+R187,34,Male,No,None/Unaffiliated,High School Diploma/GED,1-2 days/week,None,No,No,1,Strongly Disagree
+R188,27,Female,Yes,Christian (Protestant),Graduate Degree,5+ days/week,None,Yes,Yes,5,Agree
+R189,32,Female,No,Christian (Catholic),Bachelor's Degree,5+ days/week,None,Yes,Yes,5,Agree
+R190,40,Female,Yes,Christian (Protestant),Some College/Associate,1-2 days/week,Chickenpox,No,No,2,Neutral
+R191,56,Male,No,Christian (Protestant),High School Diploma/GED,None,Whooping Cough,Yes,No,0,Agree
+R192,39,Male,Yes,Christian (Protestant),High School Diploma/GED,1-2 days/week,Rubella,Yes,Yes,1,Disagree
+R193,48,Male,No,Christian (Catholic),Some College/Associate,1-2 days/week,None,No,No,1,Disagree
+R194,65,Nonbinary/Other,No,Christian (Protestant),High School Diploma/GED,None,None,No,Yes,1,Strongly Disagree
+R195,22,Female,Yes,Christian (Protestant),Graduate Degree,3-4 days/week,None,No,Yes,3,Neutral
+R196,43,Male,Yes,None/Unaffiliated,Graduate Degree,5+ days/week,None,Yes,Yes,1,Strongly Agree
+R197,34,Nonbinary/Other,No,Christian (Protestant),Some College/Associate,1-2 days/week,None,No,No,1,Strongly Disagree
+R198,50,Female,Yes,Christian (Catholic),Bachelor's Degree,3-4 days/week,Chickenpox,No,Yes,2,Strongly Agree
+R199,64,Female,Yes,Hindu,Bachelor's Degree,1-2 days/week,None,Yes,Yes,3,Agree
+R200,25,Female,No,Christian (Protestant),High School Diploma/GED,3-4 days/week,None,Yes,No,4,Agree
+R201,51,Male,No,Christian (Catholic),High School Diploma/GED,None,None,No,Yes,2,Strongly Disagree
+R202,38,Male,No,Christian (Protestant),Some College/Associate,3-4 days/week,None,No,No,1,Strongly Disagree
+R203,44,Female,Yes,None/Unaffiliated,Some College/Associate,3-4 days/week,None,Yes,No,2,Disagree
+R204,26,Male,Yes,Christian (Protestant),Bachelor's Degree,3-4 days/week,None,Yes,No,0,Neutral
+R205,43,Female,No,Christian (Protestant),Bachelor's Degree,1-2 days/week,Chickenpox,Yes,No,2,Neutral
+R206,71,Male,No,Christian (Catholic),Less than High School,None,Chickenpox,Yes,No,2,Disagree
+R207,49,Female,No,Other,Graduate Degree,3-4 days/week,None,Yes,No,3,Agree
+R208,33,Male,No,None/Unaffiliated,High School Diploma/GED,3-4 days/week,None,Yes,No,3,Neutral
+R209,35,Female,Yes,Christian (Catholic),High School Diploma/GED,None,None,Yes,No,0,Strongly Disagree
+R210,79,Male,No,None/Unaffiliated,Less than High School,1-2 days/week,None,No,Yes,2,Neutral
+R211,63,Female,Yes,Buddhist,Some College/Associate,3-4 days/week,Rubella,Yes,Yes,1,Agree
+R212,49,Male,Yes,None/Unaffiliated,Graduate Degree,5+ days/week,None,Yes,Yes,1,Agree
+R213,49,Male,Yes,None/Unaffiliated,Bachelor's Degree,5+ days/week,None,Yes,Yes,7,Agree
+R214,33,Female,No,None/Unaffiliated,Some College/Associate,1-2 days/week,None,Yes,No,2,Agree
+R215,57,Male,Yes,Christian (Protestant),Bachelor's Degree,3-4 days/week,None,Yes,Yes,1,Agree
+R216,49,Female,Yes,None/Unaffiliated,Graduate Degree,5+ days/week,None,Yes,Yes,1,Strongly Agree
+R217,43,Female,Yes,Hindu,Some College/Associate,None,None,Yes,No,2,Neutral
+R218,53,Female,No,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,Yes,No,5,Strongly Disagree
+R219,67,Female,Yes,Christian (Protestant),Graduate Degree,1-2 days/week,None,Yes,Yes,3,Agree
+R220,31,Female,No,Christian (Protestant),Less than High School,None,Measles,No,No,0,Disagree
+R221,61,Male,Yes,Christian (Catholic),Some College/Associate,1-2 days/week,None,No,Yes,4,Neutral
+R222,43,Female,Yes,Christian (Protestant),Bachelor's Degree,3-4 days/week,None,No,No,2,Disagree
+R223,32,Male,Yes,Christian (Catholic),Some College/Associate,1-2 days/week,Measles,Yes,Yes,1,Strongly Agree
+R224,77,Male,Yes,Christian (Protestant),High School Diploma/GED,1-2 days/week,Chickenpox,Yes,Yes,3,Agree
+R225,53,Male,No,Christian (Protestant),High School Diploma/GED,3-4 days/week,None,Yes,No,1,Strongly Disagree
+R226,27,Female,No,Christian (Protestant),Graduate Degree,5+ days/week,None,No,No,2,Strongly Disagree
+R227,34,Female,No,Christian (Protestant),Graduate Degree,3-4 days/week,None,No,No,2,Disagree
+R228,42,Female,No,None/Unaffiliated,High School Diploma/GED,3-4 days/week,None,Yes,No,1,Neutral
+R229,39,Male,Yes,Hindu,Bachelor's Degree,5+ days/week,None,No,No,2,Strongly Agree
+R230,31,Male,No,Jewish,Bachelor's Degree,None,None,Yes,No,2,Disagree
+R231,62,Female,No,None/Unaffiliated,Some College/Associate,3-4 days/week,None,Yes,Yes,1,Neutral
+R232,34,Female,No,Christian (Catholic),Some College/Associate,None,None,No,No,1,Disagree
+R233,40,Male,No,None/Unaffiliated,High School Diploma/GED,3-4 days/week,None,Yes,No,0,Neutral
+R234,77,Female,Yes,Hindu,Bachelor's Degree,3-4 days/week,None,Yes,No,2,Agree
+R235,31,Male,Yes,Christian (Catholic),Some College/Associate,1-2 days/week,None,Yes,Yes,3,Neutral
+R236,39,Male,No,Other,Bachelor's Degree,1-2 days/week,None,Yes,No,1,Agree
+R237,44,Female,Yes,Christian (Catholic),Bachelor's Degree,3-4 days/week,None,Yes,Yes,3,Agree
+R238,27,Female,No,Christian (Protestant),Graduate Degree,5+ days/week,None,No,Yes,0,Neutral
+R239,59,Female,Yes,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,Yes,No,2,Disagree
+R240,44,Male,No,None/Unaffiliated,Less than High School,3-4 days/week,Whooping Cough,Yes,Yes,2,Neutral
+R241,62,Male,No,Christian (Protestant),High School Diploma/GED,None,None,Yes,No,1,Strongly Disagree
+R242,48,Male,Yes,None/Unaffiliated,Some College/Associate,1-2 days/week,None,Yes,Yes,4,Strongly Agree
+R243,30,Female,Yes,Christian (Catholic),Less than High School,3-4 days/week,None,No,No,1,Disagree
+R244,27,Female,Yes,Christian (Protestant),Some College/Associate,1-2 days/week,None,Yes,No,5,Disagree
+R245,46,Male,Yes,Christian (Catholic),High School Diploma/GED,1-2 days/week,None,Yes,Yes,2,Strongly Agree
+R246,29,Male,No,Christian (Protestant),High School Diploma/GED,1-2 days/week,None,No,No,1,Strongly Disagree
+R247,40,Female,No,None/Unaffiliated,Less than High School,3-4 days/week,None,No,Yes,1,Disagree
+R248,33,Male,Yes,Christian (Protestant),Less than High School,3-4 days/week,None,Yes,Yes,1,Agree
+R249,49,Male,Yes,None/Unaffiliated,High School Diploma/GED,None,None,No,No,0,Neutral
+R250,28,Female,No,Christian (Protestant),Graduate Degree,1-2 days/week,None,No,No,0,Strongly Disagree
+R251,48,Male,Yes,Christian (Protestant),High School Diploma/GED,1-2 days/week,None,Yes,Yes,4,Strongly Agree
+R252,31,Female,Yes,Christian (Protestant),Graduate Degree,3-4 days/week,None,Yes,Yes,2,Neutral
+R253,51,Female,Yes,None/Unaffiliated,High School Diploma/GED,3-4 days/week,None,Yes,No,1,Disagree
+R254,80,Male,No,Christian (Protestant),Some College/Associate,1-2 days/week,Mumps,Yes,No,0,Neutral
+R255,30,Male,No,Christian (Catholic),Some College/Associate,5+ days/week,None,No,No,4,Agree
+R256,31,Male,Yes,Christian (Protestant),Some College/Associate,5+ days/week,None,No,Yes,4,Neutral
+R257,63,Male,Yes,Christian (Protestant),Bachelor's Degree,1-2 days/week,Whooping Cough,Yes,Yes,2,Strongly Agree
+R258,51,Female,Yes,Christian (Protestant),Some College/Associate,3-4 days/week,Mumps,Yes,Yes,4,Strongly Agree
+R259,46,Male,No,Christian (Catholic),Bachelor's Degree,5+ days/week,Measles,No,Yes,6,Agree
+R260,34,Male,Yes,Christian (Catholic),High School Diploma/GED,1-2 days/week,None,No,No,0,Neutral
+R261,42,Female,No,None/Unaffiliated,Bachelor's Degree,3-4 days/week,None,Yes,No,4,Agree
+R262,35,Male,No,None/Unaffiliated,Some College/Associate,1-2 days/week,None,Yes,Yes,4,Disagree
+R263,48,Female,No,None/Unaffiliated,Less than High School,None,None,No,No,1,Strongly Disagree
+R264,39,Female,Yes,Christian (Protestant),High School Diploma/GED,1-2 days/week,None,Yes,Yes,2,Neutral
+R265,37,Female,Yes,Christian (Catholic),High School Diploma/GED,3-4 days/week,None,Yes,No,2,Disagree
+R266,45,Male,Yes,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,Yes,Yes,3,Neutral
+R267,53,Male,Yes,None/Unaffiliated,Some College/Associate,1-2 days/week,Mumps,Yes,Yes,2,Agree
+R268,39,Male,Yes,Christian (Protestant),Some College/Associate,5+ days/week,None,Yes,No,3,Disagree
+R269,42,Female,Yes,Christian (Catholic),Some College/Associate,1-2 days/week,Whooping Cough,Yes,Yes,2,Neutral
+R270,55,Female,No,Christian (Protestant),Some College/Associate,1-2 days/week,None,No,Yes,1,Disagree
+R271,52,Female,Yes,Christian (Protestant),Graduate Degree,5+ days/week,None,Yes,Yes,4,Neutral
+R272,45,Female,No,None/Unaffiliated,Bachelor's Degree,3-4 days/week,None,No,No,0,Disagree
+R273,42,Male,Yes,Christian (Catholic),Some College/Associate,1-2 days/week,None,Yes,Yes,3,Strongly Agree
+R274,45,Male,Yes,Christian (Catholic),High School Diploma/GED,1-2 days/week,None,Yes,No,1,Disagree
+R275,27,Female,No,None/Unaffiliated,Some College/Associate,5+ days/week,None,No,Yes,2,Strongly Disagree
+R276,56,Male,Yes,Christian (Catholic),Some College/Associate,None,Chickenpox,Yes,No,7,Strongly Agree
+R277,45,Female,Yes,None/Unaffiliated,Bachelor's Degree,None,None,Yes,Yes,6,Neutral
+R278,57,Male,No,None/Unaffiliated,Less than High School,3-4 days/week,Rubella,No,No,2,Agree
+R279,24,Male,No,Christian (Protestant),High School Diploma/GED,5+ days/week,Chickenpox,No,Yes,0,Strongly Agree
+R280,24,Male,No,Christian (Catholic),Bachelor's Degree,1-2 days/week,None,Yes,No,3,Neutral
+R281,27,Nonbinary/Other,No,Christian (Protestant),Some College/Associate,5+ days/week,Mumps,No,No,0,Disagree
+R282,33,Male,No,Christian (Protestant),High School Diploma/GED,3-4 days/week,None,Yes,Yes,1,Disagree
+R283,34,Male,Yes,Christian (Protestant),High School Diploma/GED,1-2 days/week,None,No,Yes,1,Agree
+R284,42,Male,No,None/Unaffiliated,Less than High School,1-2 days/week,None,No,No,2,Neutral
+R285,49,Male,No,Christian (Protestant),Some College/Associate,5+ days/week,Rubella,Yes,No,2,Strongly Agree
+R286,43,Male,Yes,Christian (Catholic),Some College/Associate,3-4 days/week,None,Yes,No,2,Disagree
+R287,44,Female,No,Christian (Catholic),Graduate Degree,5+ days/week,Chickenpox,Yes,Yes,4,Agree
+R288,37,Female,No,None/Unaffiliated,Bachelor's Degree,5+ days/week,None,Yes,No,1,Agree
+R289,61,Female,Yes,None/Unaffiliated,High School Diploma/GED,None,None,Yes,Yes,0,Agree
+R290,46,Male,Yes,Christian (Protestant),Bachelor's Degree,1-2 days/week,Chickenpox,Yes,Yes,1,Disagree
+R291,38,Female,No,None/Unaffiliated,Less than High School,1-2 days/week,None,Yes,Yes,3,Disagree
+R292,48,Male,Yes,Christian (Protestant),Bachelor's Degree,1-2 days/week,None,Yes,Yes,4,Strongly Agree
+R293,38,Female,Yes,Hindu,High School Diploma/GED,3-4 days/week,None,No,Yes,3,Agree
+R294,43,Nonbinary/Other,Yes,Christian (Protestant),Bachelor's Degree,5+ days/week,Chickenpox,Yes,Yes,5,Strongly Agree
+R295,54,Female,No,Christian (Protestant),Graduate Degree,3-4 days/week,Measles,Yes,Yes,3,Neutral
+R296,37,Female,No,None/Unaffiliated,Graduate Degree,1-2 days/week,Chickenpox,Yes,No,2,Disagree
+R297,33,Male,No,None/Unaffiliated,Some College/Associate,1-2 days/week,None,Yes,No,1,Disagree
+R298,43,Female,No,Christian (Catholic),Less than High School,3-4 days/week,None,No,Yes,0,Agree
+R299,56,Female,Yes,Christian (Protestant),Less than High School,None,None,Yes,Yes,0,Disagree
+R300,31,Female,No,Christian (Protestant),High School Diploma/GED,None,Mumps,Yes,No,6,Strongly Disagree
